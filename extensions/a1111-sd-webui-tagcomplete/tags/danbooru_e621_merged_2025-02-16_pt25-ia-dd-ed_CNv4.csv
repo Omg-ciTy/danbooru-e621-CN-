@@ -155,7 +155,7 @@ censored,受到审查
 humanoid,人形生物
 feline,猫科动物
 necktie,领带
-lying,说谎
+lying,躺着
 shorts,短裤
 food,食物
 black_gloves,黑色手套
@@ -324,7 +324,7 @@ vein,静脉
 black_pantyhose,黑色连裤袜
 leotard,紧身衣
 apron,围裙
-clothes_lift,衣服升降机
+clothes_lift,掀开掀起揭开 衣服
 mythological_equine,神话中的马
 detailed_background,详细背景
 handwear,手饰
@@ -741,7 +741,7 @@ standing_on_one_leg,单腿站立
 black_background,黑色背景
 two-piece_swimsuit,两件套泳衣
 demon_girl,恶魔女孩
-shirt_lift,衬衫掀起
+shirt_lift,掀开掀起揭开 上衣衬衫
 cat,猫
 cardigan,开襟衫
 murid,穆里德
@@ -812,7 +812,7 @@ sleeping,睡眠
 plant,植物
 female_focus,女性焦点
 abdominal_bulge,腹部隆起
-skirt_lift,裙边升降机
+skirt_lift,掀开掀起揭开裙子下身裙
 mustelid,鼬科
 tight_clothing,紧身衣服
 1other,1其他
@@ -1408,7 +1408,7 @@ hair_over_eye,眼睛上方有毛发
 asymmetrical_legwear,不对称腿部服饰
 after_sex,性爱后
 angel_wings,天使的翅膀
-clothing_lift,衣物升降机
+clothing_lift,掀开掀起揭开衣服衣物
 santa_hat,圣诞帽
 intersex_penetrating,双性人穿透
 single_horn,单喇叭
@@ -1575,7 +1575,7 @@ tencent,腾讯
 gynomorph_penetrating,雌雄同体
 wide-eyed,睁大眼睛
 honkai_impact_3rd,崩坏3
-dress_lift,连衣裙
+dress_lift,掀开掀起揭开连衣裙
 upskirt,裙底风光
 featureless_breasts,无特征的乳房
 medial_ring,内侧环
@@ -2764,7 +2764,7 @@ fur-trimmed_coat,毛皮大衣
 maid_uniform,女仆制服
 happy_new_year,新年快乐
 invisible_chair,隐形椅
-wind_lift,风升力
+wind_lift,风吹掀开掀起
 check_commentary,查看评论
 yellow_bikini,黄色比基尼
 slightly_chubby_anthro,稍微胖一点的
@@ -3899,7 +3899,7 @@ yin_yang,阴阳
 muscular_arms,肌肉发达的手臂
 arm_ribbon,臂带
 sweaty_balls,汗流浃背
-bra_lift,胸罩提升
+bra_lift,掀开掀起揭开 胸罩
 hair_over_breasts,乳房上的毛发 胸毛
 shoulder_pads,肩垫
 baseball_bat,棒球棒
@@ -4391,7 +4391,7 @@ eyeless,无眼
 glasses_only,仅限眼镜
 striped_socks,条纹袜子
 mona_(genshin_impact),莫娜 (原神)
-sweater_lift,毛衣升起
+sweater_lift,掀开掀起揭开 毛衣
 black_ascot,黑色阿斯科特
 romantic_ambiance,浪漫氛围
 last_origin,最后起源
@@ -5190,7 +5190,7 @@ to_heart_2,铭记在心
 holding_scythe,拿着镰刀
 green_cape,绿斗篷
 punishing:_gray_raven,战双帕弥什
-lifting_person,抬举人
+lifting_person,掀开掀起人？
 red_pantyhose,红色连裤袜
 curvy_anthro,曲线人类学
 open_door,打开门
@@ -5955,7 +5955,7 @@ gore_focus,戈尔焦点
 toeless_socks,露趾袜
 single_ear_cover,单耳套
 hand_on_another's_thigh,把手放在别人的大腿上
-bikini_top_lift,比基尼上衣提升
+bikini_top_lift,掀开掀起揭开比基尼上衣
 fire_manipulation,火力操控
 shrine,神社
 y_anus,燕子
@@ -9677,7 +9677,7 @@ wave,海浪
 circle_skirt,圆裙
 real_world_location,现实世界位置
 abubu,阿布布
-hair_lift,头发提升
+hair_lift,掀开掀起头发
 pregnant_intersex,怀孕的双性人
 ikkitousen,一骑当千
 latex_gloves,乳胶手套
@@ -10021,7 +10021,7 @@ ryougi_shiki,兩種類型
 kisaragi_(kancolle),如月 (舰娘)
 countershade_scales,反荫鳞片
 juice,汁
-takanashi_rikka,高梨六花
+takanashi_rikka,小鸟游六花 中二病也要谈恋爱
 hand_on_own_shoulder,手放在自己的肩上
 skadi_the_corrupting_heart_(arknights),腐化之心 斯卡蒂 (明日方舟)
 blue_armband,蓝色臂章
@@ -11213,7 +11213,7 @@ espeon,太阳精灵
 heart_underwear,心形内衣
 face_mask,口罩
 cheval_grand_(umamusume),大馬（umamusume）
-lifting,起重
+lifting,抬起 掀开掀起
 rover_(wuthering_waves),流浪者（鸣潮）
 amaterasu_(okami),天照大神
 yellow_shoes,黄色鞋子
@@ -12045,7 +12045,7 @@ yoshimi_(blue_archive),yoshimi（碧蓝档案）
 kirino_ranmaru,桐野兰丸
 sparse_chest_hair,胸毛稀疏
 prisma_illya,伊利亚棱镜
-stealth_sex,隐秘性行为
+stealth_sex,偷偷 隐秘 做爱 性行为
 jujutsu_tech_uniform,柔术技术制服
 bgn,巴布亚新几内亚
 xenosaga,异形传奇
@@ -13068,7 +13068,7 @@ glowing_tattoo,发光纹身
 osaki_tenka,大崎天化
 maine_coon,缅因浣熊
 glass_bottle,玻璃瓶
-hoodie_lift,连帽衫升起
+hoodie_lift,掀开掀起 连帽衫 卫衣
 jet,喷射
 tsurumaki_maki,鹤卷
 gold_ring,金戒指
@@ -13488,7 +13488,7 @@ yarn_ball,毛线球
 failure_penguin,失败的企鹅
 papers,文件
 wallaby,袋鼠
-strap_lift,带式升降机
+strap_lift,掀开掀起 衣带 带子
 food_request,食物请求
 wetting_diaper,尿布湿了
 swimsuit_cover-up,泳衣掩护
@@ -13609,7 +13609,7 @@ aquarium,水族馆
 siphon_(anatomy),虹吸管（解剖学）
 shouhou_(kancolle),乘风破浪（舰娘）
 split_theme,分割主题
-no_game_no_life,无游戏无生活
+no_game_no_life,《游戏人生》
 stitched_mouth,缝嘴
 sideless_dress,露肩连衣裙
 uncommon_stimulation,不常见的刺激
@@ -14570,7 +14570,7 @@ sugar_cube,方糖
 erect_clitoris,勃起的阴蒂
 height_chart,身高表
 missile_pod,导弹吊舱
-kimono_lift,和服升降机
+kimono_lift,掀开掀起 和服
 mortis_(bang_dream!),mortis（砰的梦！）
 sports_mask,运动面罩
 perfume_bottle,香水瓶
@@ -15267,7 +15267,7 @@ bass_clef,低音谱号
 netnavi,网络导航
 5_eyes,只眼睛
 hat_tassel,帽流苏
-the_herta_(honkai:_star_rail),黑塔（崩坏：星穹铁道）
+the_herta_(honkai:_star_rail),大黑塔（崩坏：星穹铁道）
 slideshow,幻灯片
 star-shaped_eyewear,星形眼镜
 iori_(swimsuit)_(blue_archive),iori（泳装）（碧蓝档案）
@@ -15536,7 +15536,7 @@ destiny_(video_game),命运（電子遊戲）
 mochizuki_(kancolle),望月 (舰娘)
 brown_arms,棕色手臂
 female_goblin,女妖精
-sports_bra_lift,运动胸罩提升
+sports_bra_lift,掀开掀起 运动胸罩
 yorumi_rena,夜エリナ
 checkered_shirt,格纹衬衫
 jockey_position,骑师位置
@@ -16249,7 +16249,7 @@ mari_(faraway)_(omori),mari（遥远的） （omori）
 two-tone_necktie,双色领带
 viper_(x-com),毒蛇（x-com）
 humanoid_heel,人形脚跟
-panty_lift,裤子提升
+panty_lift,掀开掀起 裤子
 rpk-16_(girls'_frontline),rpk-16（少女前线）
 cumshot_on_face,射在脸上
 undersized_clothing,尺码太小的衣服
@@ -16617,7 +16617,7 @@ eroe,埃罗埃
 bed_bondage,床上束缚
 akane_(bunny)_(blue_archive),akane（兔子）（碧蓝档案）
 crying_laughing,哭笑
-jacket_lift,夹克升起
+jacket_lift,掀开掀起 夹克 外衣
 em_(totsuzen_no_hakike),em（突通前の駁けど）
 pastry_bag,糕点袋
 nanami_yachiyo,七海八千代
@@ -16691,7 +16691,7 @@ arachnid_taur,蛛形纲动物
 telegram_sticker,电报贴纸
 pretty_rhythm,很有节奏感
 mtg_transformation,mtg 转型
-camisole_lift,吊带背心
+camisole_lift,掀开掀起 吊带背心
 vg_cats,超级猫
 green_ascot,绿色阿斯科特
 food_wrapper,食品包装
@@ -19566,7 +19566,7 @@ assisted_rape,协助强奸
 togepi,托盖皮
 rhine_lab_logo,莱茵实验室徽标
 multicolored_armwear,多彩臂饰
-mask_lift,面罩升降
+mask_lift,掀开掀起 面罩
 biting_another,咬另一只
 gravity_daze,重力眩晕
 jump_rope,跳绳
@@ -22104,7 +22104,7 @@ laboratory,实验室
 green_arms,绿臂
 ukata,乌卡塔
 mondi_hl,蒙迪赫尔
-sailor_collar_lift,水手领提升
+sailor_collar_lift,掀开掀起 水手服 海兵
 san_(mononoke_hime),幽灵公主
 puru_two,普鲁二
 waffle,胡扯
@@ -22302,7 +22302,7 @@ wii_fit,适合
 measurements,测量
 urine_in_ass,屁眼里有尿
 homura_subaru,焰村昴
-jibril_(no_game_no_life),吉布里尔（没有游戏就没有生活）
+jibril_(no_game_no_life),吉布里尔《游戏人生》
 atelier_sophie,索菲工作室
 tennouboshi_uzume,天王星漩涡
 studying,学习
@@ -23567,7 +23567,7 @@ texas_(winter_messenger)_(arknights),德克萨斯 (冬季信使) (明日方舟)
 tab_head,拉头
 helena_(azur_lane),海伦娜 (碧蓝航线)
 female_facesitting_male,女性 颜面骑乘 男性
-vest_lift,背心升降
+vest_lift,掀开掀起 背心
 fabulous,极好的
 zangief,桑吉尔夫
 fourball,四人四球赛
@@ -25467,7 +25467,7 @@ liliya_olenyeva,莉莉娅·阿琳 蓝莓特攻 <崩坏3>
 tristan_(fate),特里斯坦 (命运)
 muzz,穆兹
 aqua_pantyhose,水色连裤袜
-topwear_lift,上装升降
+topwear_lift,掀开掀起 上装 上衣
 lunchbox,饭盒
 newo_(shinra-p),newo（神罗-p）
 sean_(senz),sean (森兹)
@@ -26856,7 +26856,7 @@ shabana_may,沙巴纳梅
 purgy,普吉
 igawa_asagi,井川朝木
 red_xiii,红色十三
-protagonist_(metaphor:_refantazio),主角（隐喻：refantazio）
+protagonist_(metaphor:_refantazio),主角（暗喻幻想）
 covered_breasts,遮住乳房
 pink_belly,粉红肚皮
 tokkyu,特急
@@ -30542,7 +30542,7 @@ flooding,洪水
 rosetta_(granblue_fantasy),罗塞塔 (碧蓝幻想)
 tohmi_higashi_high_school_uniform,远美东高中制服
 tennis_no_ouji-sama,网球王子
-stealth_masturbation,隐秘自慰
+stealth_masturbation,偷偷 隐秘 自慰
 maou_alba,毛乌阿尔巴
 miyako_hito,人都
 tiffy_(fastrunner2024),tiffy（fastrunner2024）
@@ -30867,7 +30867,7 @@ nakagawa_nana,中川奈奈
 hauringu,豪林古
 star_censor,明星审查员
 dialga,迪亚加
-swimsuit_lift,泳衣升降
+swimsuit_lift,掀开掀起 泳衣
 jubilee_2025,禧年 2025
 skull_brooch,骷髅胸针
 arizuka_(catacombe),有塚（地下墓穴）
@@ -31209,7 +31209,7 @@ mogu_(au1127),魔古 (au1127)
 jinbe,等待
 bardock,巴达克
 minedoo,矿
-shiro_(no_game_no_life),shiro（没有游戏就没有生活）
+shiro_(no_game_no_life),白妹妹《游戏人生》
 primatius,灵长类动物
 kazaana,喀山
 pretzel,椒盐卷饼
@@ -32222,7 +32222,7 @@ no_heterochromia,无异色症
 the_shining,闪闪发光
 sherlock_hound_(series),福尔摩斯猎犬（系列）
 selphie_tilmitt,塞尔菲·蒂尔米特
-visor_lift,遮阳板升降
+visor_lift,掀开掀起 遮阳板
 ikutasemi,生がそば
 team_star,球队明星
 mean,意思是
@@ -32419,7 +32419,7 @@ crystal_exarch,水晶守护者
 lam_(ramdayo),lam (拉姆达约)
 cowl_neck,围脖领
 kuronyan,库罗尼扬
-lifting_covers,升降盖
+lifting_covers,掀开掀起 盖
 reno_(ff7),里诺 (ff7)
 cleaning_&_clearing_(blue_archive),清洁与清理（碧蓝档案）
 tea_party,茶话会
@@ -32661,7 +32661,7 @@ shopped,购物
 duo_in_panel,小组二人组
 amayadori_machi,雨取町
 colrblnd,科林德
-blindfold_lift,蒙眼升降机
+blindfold_lift,掀开掀起 眼罩
 plant_transformation,植物转化
 cum_on_paw,射在爪子上
 erection_while_penetrated,插入时勃起
@@ -33025,7 +33025,7 @@ tomatto_(@ma!),tomatto（@ma！）
 wing_spikes,翼尖
 knot_prodding,结刺
 purple_nipples,紫色乳头
-eyewear_lift,眼镜升降
+eyewear_lift,掀开掀起 眼镜
 peeing_on_furniture,在家具上撒尿
 muumuu,穆穆穆
 kinshi_no_ane_(92m),锦丝之姫 (92m)
@@ -34144,7 +34144,7 @@ umamusume:_cinderella_gray,妈咪：灰姑娘灰色
 christina_piercing,克里斯蒂娜穿孔
 nissan_skyline,日产Skyline
 cobatsart,科巴特萨特
-kotobuki_(stealth_sendan),寿（隐形武器）
+kotobuki_(stealth_sendan),偷偷 隐秘 （隐形武器）
 graffiti_on_wall,墙上的涂鸦
 coconut_drink,椰子饮料
 yu_mei-ren_(swimsuit_lancer)_(fate),余美莲 (泳装枪骑兵) (命运)
@@ -40358,7 +40358,7 @@ easter_basket,复活节篮子
 heirou,平郎
 satou_aji,佐藤麻吉
 curse_maker,诅咒制造者
-pants_lift,裤子掀起来
+pants_lift,掀开掀起 裤子
 shirayuki_towa,白雪永远
 maerchen_(sound_horizon),玛尔钦（声音地平线）
 ishikawa_goemon_xiii,石川五右卫门 xiii
@@ -40717,7 +40717,7 @@ kyoumachi_seika,京町精化
 tan_headwear,棕褐色头饰
 milodesty,米洛德斯蒂
 human_dog,人狗
-hulkenberg_(metaphor:_refantazio),霍肯伯格（隐喻：refantazio）
+hulkenberg_(metaphor:_refantazio),霍肯伯格（暗喻幻想）
 ishikirimaru,石切丸
 numbat,袋食蚁兽
 marijuana_blunt,大麻钝器
@@ -41010,7 +41010,7 @@ leaking_pussy_juice,阴道流出液体
 soiling_underwear,弄脏内衣
 juanmao1997,juanmao1997
 mother_puss,妈妈猫
-sarong_lift,纱笼升降
+sarong_lift,掀开掀起 面纱 纱布 
 spider_apple,蜘蛛苹果
 kento267,kento267
 maxim_tomato,马克西姆番茄
@@ -41548,7 +41548,7 @@ poorsal,贫穷的
 klaus_doberman_(character),克劳斯·杜宾 (角色)
 mizu_asato,水朝里
 k_pring,弹簧
-breast_curtain_lift,隆胸
+breast_curtain_lift,掀开掀起 胸
 shenbei_xiaoqiu,神北小秋
 kaatsu_katsurou,炸胜
 agnamore,阿格纳莫尔
@@ -42097,7 +42097,7 @@ yamamoto_kazue,山本的剑
 aoi_nagisa,葵微笑
 nachoneko,纳乔内科
 furlong_(live_a_hero),弗隆（活出英雄）
-hakama_lift,袴升降
+hakama_lift,掀开掀起 袴
 flavored_milk,调味牛奶
 ren_san,人三
 ritsukaxan,立花半
@@ -42839,7 +42839,7 @@ mora,猜拳
 jinki,神机
 tracen_winter_coat,tracen 冬季外套
 surippa1010,苏里帕1010
-pectoral_lift,胸部提升术
+pectoral_lift,掀开掀起 胸部
 marcy_wu,吴美琪
 hanenbo,半軸坊
 double_breast_sucking,双乳吸吮
@@ -42933,7 +42933,7 @@ arai_togami,荒井十神
 ys_viii_lacrimosa_of_dana,伊苏八世 丹娜的安魂曲
 convex_breasts,凸起的乳房
 leonardo_da_vinci_(rider)_(first_ascension)_(fate),列奥纳多·达·芬奇（骑士）（第一次升天）（命运）
-cardigan_lift,开襟羊毛衫
+cardigan_lift,掀开掀起 羊毛衫
 nolansnsfw,诺兰斯
 mabosstiff,大佬
 basa_rutan,巴萨鲁坦
@@ -45494,7 +45494,7 @@ koiso_usu,小矶有珠
 humanoid_penetrating_feral,野性穿透人形生物
 touya_(the-moon),touya（月亮）
 ace_trappola,王牌陷阱
-coat_lift,外套升降机
+coat_lift,掀开掀起 外套
 tsukino_wagamo,月野和鸭
 hatsune_miku_happy_16th_birthday_-dear_creators-,16 岁生日快乐 — 亲爱的创作者 —
 master_and_servant,主人与仆人
@@ -45866,7 +45866,7 @@ hong_bai,红白
 tokki,托基
 null_stimulation,零刺激
 duzt,杜兹特
-stealth_fellatio,偷偷口交
+stealth_fellatio,偷偷 隐秘 口交
 comic_penguin_club,漫画企鹅俱乐部
 furx_(character),furx（字符）
 tenpesuto,滕佩苏托
@@ -49092,7 +49092,7 @@ soukuu_kizuna,寂静羁绊
 cpu_(hexivision),CPU（六边形）
 queen_draco_(second_ascension)_(fate),德拉科女王 (第二次升天) (命运)
 kaidou_j1,怪盗j1
-ass_lift,提臀
+ass_lift,掀开掀起 提臀 屁股 屁眼
 walluka,瓦卢卡
 kaga_ai,加贺爱
 rinnegan,林内根
@@ -49449,7 +49449,7 @@ theo_young,西奥杨
 inoue_takuya,井上看看
 hamazura_shiage,滨面仕上
 blue_foreskin,蓝色包皮
-strohl_(metaphor:_refantazio),strohl（隐喻：refantazio）
+strohl_(metaphor:_refantazio),strohl（暗喻幻想）
 em-2,em-2
 zuo_le_(arknights),明日方舟
 zaregoto_tsukai_no_deshi,zaregoto tsukai 土著
@@ -50620,7 +50620,7 @@ li_meiling,李美玲
 tomo_(tmtm_mf_mf),音量 (tmtm mf mf)
 burmecian,缅甸语
 tomioka_jirou,富冈在这里
-veil_lift,揭开面纱
+veil_lift,掀开掀起揭开 面纱
 quality,质量
 takashi_shirogane,白金崇
 winter_sawsbuck,冬季锯羚
@@ -50647,7 +50647,7 @@ serio_(to_heart),serio （对心）
 face_shield,面罩
 shun_imai_(odd_taxi),今井俊（Odd Taxi）
 comfycushion,舒适坐垫
-gallica_(metaphor:_refantazio),gallica（隐喻：幻想）
+gallica_(metaphor:_refantazio),gallica（暗喻幻想）
 luci_(purrlucii),luci（purrlucii）
 justice_league,正义联盟
 yamaguchi_shinnosuke,山口慎之介
@@ -58625,7 +58625,7 @@ ane_naru_mono,和 鸣物语
 ewen_egeburg,埃文·埃格堡
 solrock,太阳岩
 butt_press,臀部推举
-leotard_lift,紧身衣举重
+leotard_lift,掀开掀起揭开 紧身衣
 wittle_red,淡红色
 florence_nightingale_(third_ascension)_(fate),弗洛伦斯·南丁格尔 (第三次升天) (命运)
 hitsuji_bako,羊椰子
@@ -66055,7 +66055,7 @@ v3rg3,v3rg3
 guillotine_(nikke),断头台 (nikke)
 shinkaisei-kan,新海诚馆
 naver_sample,naver 示例
-shorts_lift,短裤升起
+shorts_lift,掀开掀起揭开 短裤
 hinoe_(dd_works),hinoe (dd 作品)
 dragon_quest_yuusha_abel_densetsu,勇者斗恶龙 游者 阿贝尔 密苏
 mortal_kombat_1_(2023),真人快打1（2023）
@@ -69145,7 +69145,7 @@ ash_(fire_emblem),灰烬（火焰之纹章）
 hachiya_shohei,蜂矢翔平
 kikuchi_michitaka,踢牧羊人
 batabiru,巴塔比鲁
-loincloth_lift,缠腰布升降机
+loincloth_lift,掀开掀起揭开 缠腰布
 pomudachi_(pomu_rainpuff),pomudachi（雨泡南瓜）
 mochiko_(uyu_omochi),糯米糕（糯米糕）
 drill_(emilio),钻头（埃米利奥）
@@ -70188,7 +70188,7 @@ interactive_media,互动媒体
 clynxen,克林克森
 ryukawa,龍川
 box_body,箱体
-bikini_bottom_lift,比基尼底部提升
+bikini_bottom_lift,掀开掀起揭开 比基尼内内 内裤
 utx_school_uniform,utx 校服
 kimura_seiko,木村精子
 fufu_(fufuichi04),fufu (fufuichi04)
@@ -72367,7 +72367,7 @@ mario_strikers_(series),马里奥前锋（系列）
 glistening_sweat,闪闪发光的汗水
 a1ph4w01v,a1ph4w01v
 ichinose_haru,一之瀬春
-robe_lift,长袍升降机
+robe_lift,掀开掀起揭开 长袍
 little_match_girl,卖火柴的小女孩
 masuku_(saint_mask),神圣面具（圣人面具）
 one_in_one_out,一进一出
@@ -74152,7 +74152,7 @@ hinabita,日向
 light_border,浅色边框
 riven_(lol),瑞文 (大笑)
 tetsukuzu_(yajirushi_shita),tetsukuzu（yajirushi shita）
-lifting_belly,抬腹
+lifting_belly,掀开掀起揭开 抬腹
 wrinkled_nose,皱鼻子
 adma228,adma228
 saegusa_matsuri,三枝祭
@@ -74954,7 +74954,7 @@ money_fan,金钱扇
 chtholly_nota_seniorious,chtholly 高级笔记
 yutoriko_(candy0905),yutoriko (candy0905)
 mask_with_sex_toy,带性玩具的面具
-babydoll_lift,娃娃吊
+babydoll_lift,掀开掀起揭开 娃娃吊
 pov_bullying,pov 欺凌
 c.a.m.,凸轮
 pov_legs,pov 腿
@@ -76702,7 +76702,7 @@ charlotte_(phurie),夏洛特（phurie）
 migumigu,米古米古
 ork,奥克
 misashi_(raichi821),misashi (raichi821)
-bandeau_lift,束带升降机
+bandeau_lift,掀开掀起揭开 束带
 shuu_illust,Shuu 的插图
 shuto_aoi,葵周斗
 sashacakes,萨沙蛋糕
@@ -82776,7 +82776,7 @@ alex_louis_armstrong,亚历克斯·路易斯·阿姆斯特朗
 gopnik,戈普尼克
 fuuka_(fukasheu),深卡修 (深卡修)
 espoir_city_(umamusume),希望之城（妈妈）
-sora_(no_game_no_life),sora（没有游戏就没有生活）
+sora_(no_game_no_life),sora《游戏人生》
 mazmaven,马兹马文
 re0n,重新
 bubble_filter,气泡过滤器
@@ -88360,12 +88360,12 @@ sabitare,萨比塔雷
 disregarding_notices,无视通知
 nyatasha_nyanners_(1st_costume),nyatasha nyanners（第一套服装）
 eupharrow,尤法罗
-eupha_(metaphor:_refantazio),eupha（隐喻：refantazio）
+eupha_(metaphor:_refantazio),eupha（暗喻幻想）
 max_(sci),最大 (科学)
 instocklee,因斯托克利
 yggdra_union,尤格德拉联盟
 rudeus_(steban_sharnak),鲁迪斯（斯蒂班·沙纳克饰）
-stealth_handjob,秘密手淫
+stealth_handjob,偷偷 隐秘 手淫
 two_tone_scarf,双色围巾
 suiyou_dou_de_shou,随机的受
 secret_stone_of_spirit,秘密灵魂石
@@ -89924,7 +89924,7 @@ frosty_arcanine,冰霜风速狗
 saetia,萨埃蒂亚
 serena_valentine,瑟琳娜·瓦伦丁
 penguru_086,企鹅086
-t-shirt_lift,T恤升起
+t-shirt_lift,掀开掀起揭开 T恤
 owari_no_chronicle,丈夫纪事
 mjolnir,雷神之锤
 percy_technic,珀西技术
@@ -90713,7 +90713,7 @@ takeoff,起飞
 qqwan120,qqwan120
 calamari_cakes,鱿鱼饼
 yozo_(stanky),yozo（臭）
-yukata_lift,浴衣升降机
+yukata_lift,掀开掀起揭开 浴衣
 aa44,AA44
 aekun_cben,艾昆
 just_right,正好
@@ -94879,7 +94879,7 @@ saucycorner,saucycorner
 snuckums,斯努库姆
 ranelle_otomo,拉内尔·奥托莫
 chewtle,嚼
-bikini_lift,比基尼升降
+bikini_lift,掀开掀起揭开 比基尼
 boom_boom,砰砰
 kukicha,库基查
 koala_forest_military_uniform,考拉森林军装
@@ -100458,7 +100458,7 @@ astrocatsama,阿斯特罗卡特萨玛
 jd_(bibirijd),jd (比比利日)
 teikoku_senki,帝国战记
 yuuki_yuu,游城游
-pajamas_lift,睡衣升降
+pajamas_lift,掀开掀起揭开 睡衣
 the_man_from_the_window,窗户外的男人
 text_on_shoes,鞋子上的文字
 outgrowing_clothes,衣服不合身
@@ -103312,7 +103312,7 @@ pec_grope,胸肌摸索
 niedersachsen_military_uniform,下萨克斯军装
 mak_(kainemaru),mak（kainemaru）
 mojo_(dennou_coil),mojo (电子线圈)
-nightgown_lift,睡袍升降
+nightgown_lift,掀开掀起揭开 睡袍
 pea_soup,豌豆汤
 doc_(animal_crossing),doc（动物穿越）
 carota327,卡罗塔327
@@ -103690,7 +103690,7 @@ bunny_boy_(bisonvega),兔小子 (bisonvega)
 zel_(interspecies_reviewers),zel（跨物种审阅者）
 sangelia,桑杰利亚
 alcander_(wakatanka4),alkander (wakatanka4)
-brigitta_(metaphor:_refantazio),布里吉塔（隐喻：refantazio）
+brigitta_(metaphor:_refantazio),布里吉塔（暗喻幻想）
 unusual_ecolo,不寻常的生态
 bmbrigand,布布里甘德
 hetaren_(ramark),hetaren（框架）
@@ -103925,7 +103925,7 @@ ahriii,啊
 black_hayate,黑色疾风
 mochitaro_(mothitaroo),mochitaro（mochitaroo）
 yomo,优摩
-neck_lift,颈部拉皮
+neck_lift,掀开掀起揭开 颈部拉皮
 umino_mizu,他喝水
 black_knife_(elden_ring),黑刀（老人戒）
 nincada,宁卡达
@@ -104086,7 +104086,7 @@ shitodo_hoojiro,穂土保次郎
 tranquillianusmajor,宁静小牛
 eel_girl,鳗鱼女孩
 lying_on_pool_toy,躺在泳池玩具上
-lying_sex,说谎性行为
+lying_sex,躺着性行为
 newgrounds_logo,newgrounds 徽标
 lykenzealot,狂热者
 transformation_through_milk,通过牛奶转化
@@ -107022,7 +107022,7 @@ soumakyo,相马京
 quincy_(nu:_carnival),昆西（新：狂欢节）
 smashmael,斯马什马尔
 crimrose,深红玫瑰
-louis_(metaphor:_refantazio),路易斯（隐喻：refantazio）
+louis_(metaphor:_refantazio),路易斯（暗喻幻想）
 crimson_typhoon,赤红台风
 hawoku_ishibare,破晓石光
 yo-co,哟可
@@ -109235,7 +109235,7 @@ shuumatsu_train_doko_e_iku?,休末列车 doko e iku？
 disappearing,消失
 actress,演员
 lucia:_plume_(eventide_glow)_(pgr),lucia： 羽流（黄昏辉光）（pgr）
-shuvi_(no_game_no_life),舒比（没有游戏就没有生活）
+shuvi_(no_game_no_life),舒比《游戏人生》
 garrus368,garrus368
 ony01,ony01
 momijigari,红叶
@@ -112324,7 +112324,7 @@ combat_s-ko,战斗 s-my
 deal_with_it,处理它
 kaita_(the-hydroxian),kaita（羟基安）
 kung-fu-piggy,功夫小猪
-mutual_skirt_lift,相互裙边升降
+mutual_skirt_lift,掀开掀起揭开 相互裙边
 zaul_(za-owl),zaul（za-owl）
 milkymaiden,乳状少女
 zillabean,齐拉比安
@@ -118476,7 +118476,7 @@ springfield_(classic_witch)_(girls'_frontline),斯普林菲尔德 (经典女巫)
 jorden,乔丹
 joooji,朱吉
 cobalt_the_unicorn,独角兽钴
-lifted_by_self,自行抬起
+lifted_by_self,自己掀开掀起揭开
 food-themed_necklace,食物主题项链
 crowned_lemur,冠狐猴
 taguchi_shouichi,田口章一
@@ -118783,7 +118783,7 @@ djtaka,迪塔卡
 kagami_(haret46),火神 (haret46)
 disregard67,忽略67
 hackainax,黑客
-junah_(metaphor:_refantazio),junah（比喻：幻想）
+junah_(metaphor:_refantazio),junah（暗喻幻想）
 pornthulhu,蓬图鲁
 imada_kozue,今田小恵
 cokecoco,可口可乐
@@ -122149,7 +122149,7 @@ pride_color_sticker,骄傲彩色贴纸
 catapult,弹射
 zeka_(skzk_cm),平方厘米 (平方厘米)
 coronta_(tenshoku_safari),coronta（天色狩猎）
-ball_lift,球升力
+ball_lift,举球
 mochisiku,莫奇西库
 jyon104,jyon104
 animal_on_weapon,武器上的动物
@@ -123224,7 +123224,7 @@ dr._gero_(dragon_ball),格罗博士（龙珠）
 trudy_(spincraze),trudy (spincraze)
 vinny_van_yiffy,文尼·范·伊菲
 hoshimiya_mery,星宮メリ
-basilio_(metaphor:_refantazio),Basilio（隐喻：refantazio）
+basilio_(metaphor:_refantazio),Basilio（暗喻幻想）
 missnips,失误
 licking_chastity_cage,舔贞操笼
 syukouakanaru,休孔赤
@@ -123754,7 +123754,7 @@ mod_(glacierclear),mod (glacierclear)
 jinpei_shinooka,新冈仁平
 talvitwister,塔尔维特威斯特
 ribbed_bandeau,罗纹抹胸
-cloak_lift,斗篷升降机
+cloak_lift,掀开掀起揭开 斗篷
 tsukiiro,月色
 mochizuki_kei_(style),望月系 (风格)
 jarp-art,jarp 艺术
@@ -130233,7 +130233,7 @@ deus_ex,杀出重围
 nyamunyamu,尼亚穆尼亚穆
 shinon_(blue_archive),shinon（碧蓝档案）
 plum_the_red_panda,小熊猫梅
-stealth_fingering,隐秘指法
+stealth_fingering,偷偷 隐秘 指法
 plue,普卢埃
 oobashin,大巴辛
 shinomy,希诺尼
@@ -138357,7 +138357,7 @@ mythruna,米斯鲁娜
 askfrosty,询问
 marsaovo,马尔萨沃
 jasmine_(arizel),茉莉花（阿里泽尔）
-the_prince_(metaphor:_refantazio),王子（比喻：幻想）
+the_prince_(metaphor:_refantazio),王子（暗喻幻想）
 t.m._opera_o_(blue_dazzle)_(umamusume),tm opera o (蓝色炫光) (水)
 azuminonomizua,安昙之水
 kim_jin_sung,金镇成
@@ -138392,7 +138392,7 @@ sehra_klatt,谢赫拉克拉特
 squeezysquisher,挤压器
 kalgkur,卡尔格库尔
 green_eggs_and_ham_(animated_series),绿鸡蛋和火腿（动画系列）
-heismay_(metaphor:_refantazio),heismay（隐喻：重新想象）
+heismay_(metaphor:_refantazio),heismay（暗喻幻想）
 zephia_(fire_emblem),泽菲娅 (火焰之纹章)
 brick_oven,砖炉
 green_ear_ring,绿色耳环
@@ -149862,7 +149862,7 @@ grace_(changeling_tale),恩典 (变形怪故事)
 voidsdroids,空虚机器人
 shoot_(blackbolt),射击（黑箭）
 vae_(character),字符（字符）
-lifting_clothing,提升衣物
+lifting_clothing,掀开掀起揭开 衣物
 mo_nv_zhi_wen_nai_bai_he_zhi_wei,魔女之吻百合之味
 groenveld,绿色的田野
 jin2,金2
@@ -150707,7 +150707,7 @@ pingumarci,平古马尔奇
 dlnk,丁克
 claudia_(granblue_fantasy),克劳迪娅 (碧蓝幻想)
 empire_state_building,帝国大厦
-takanashi_rikka_(cosplay),高梨キュキ (角色扮演)
+takanashi_rikka_(cosplay),小鸟游六花(角色扮演)中二病也要谈恋爱
 jizaikagi,自在琴
 arukanu,荒楽
 axianorange,夏诺兰奇
@@ -153972,7 +153972,7 @@ voretober,十月一日
 dayji_(talldoggo),大吉（高大的狗）
 dirkstridoritos,迪克斯德里多里托斯
 bigdogenzo,大元佐
-penis_lift,阴茎 屌 鸡巴提升
+penis_lift,掀开掀起揭开 阴茎 屌 鸡巴
 caws_(girls'_frontline),caws（少女前线）
 bamga,班加
 dusty_foxwood_(dusty0071),达斯蒂·福克斯伍德 (Dusty0071)
@@ -155747,7 +155747,7 @@ aro_rouon,阿罗鲁翁
 nehan_(gedatsu_nehan),心行（外觀心行）
 ilmeria_von_leinweber,伊尔梅莉亚·冯·莱因韦伯
 hagalazd,哈格拉兹德
-stealth_footjob,偷偷足交
+stealth_footjob,偷偷 隐秘 足交
 uma_stars_(umamusume),uma stars（umamusume）
 daifugo_happy,大福吾 快乐
 uma_raclette,乌玛奶酪火锅
@@ -155770,7 +155770,7 @@ kobold,狗头人
 un_(show_by_rock!!),un（摇滚表演！！）
 gag_under_mask,面具下的堵嘴
 enin,埃宁
-neckwear_lift,领带提升
+neckwear_lift,掀开掀起揭开 领带
 san_jaguar,圣美洲虎
 being_late,迟到
 standing_on_animal,站在动物上
@@ -159493,7 +159493,7 @@ teke_(exploration),teke（探索）
 plastic_container,塑料容器
 samejima_yoruko,鯊島夜子
 chocolatekitsune_(character),chocolatekitsune（角色）
-stealth_facesitting,隐形坐脸
+stealth_facesitting,偷偷 隐秘 坐脸
 aplerichi,阿普列里奇
 neifaren,內法倫
 astrofenn,阿斯特罗芬
@@ -161843,7 +161843,7 @@ rawnchyrancher,罗恩奇牧场主
 poppu,波普
 kiba_(wolf's_rain),kiba（狼雨）
 amasaki_ryouko,天咲凉子
-stealth_the_series,隐形系列
+stealth_the_series,偷偷 隐秘 系列
 loggins_(jojo),洛金斯 (jojo)
 raysixtails,鳐魚六尾
 cynically_wolf,愤世嫉俗的狼
@@ -169812,7 +169812,7 @@ garvan,加文
 dynasty_ahri,王朝阿狸
 matcha_(user_yyss8744),matcha (用户 yyss8744)
 ayase_miko,绫濑美子
-towel_lift,毛巾升降机
+towel_lift,掀开掀起揭开 毛巾
 zara_(katnay),zara（引人注目）
 hutaba123,hutaba123
 katatsumuri_(kataaaaaaaaa),剑
@@ -170293,7 +170293,7 @@ salem_(wolfertinger),塞勒姆（沃尔夫廷格）
 umkaqryi,乌姆卡格雷
 1dog,1狗
 akatuki_taku,晓拓
-stealth_cunnilingus,偷偷舔阴
+stealth_cunnilingus,偷偷 隐秘 舔阴
 alpaca_(alpaca00011),羊驼 (alpaca00011)
 lune_(luneytuney),lune（luneytuney）
 salia_(cross_ange),salia（十字架天使）
@@ -172321,7 +172321,7 @@ icon_(sugarless_yogurt),图标（无糖酸奶）
 wunp,温普
 layered_stories_zero,分层故事 零
 nagato_(guardian_fox's_shining_furisode)_(azur_lane),长门 (守护之狐的闪亮振袖) (碧蓝航线)
-fidelio_(metaphor:_refantazio),fidelio（隐喻：refantazio）
+fidelio_(metaphor:_refantazio),fidelio（暗喻幻想）
 yomi25,yomi25
 elolaillustrator,埃洛拉插画
 yukino_(yukinosora1126),雪乃 (yukinosora1126)
@@ -178430,7 +178430,7 @@ yaegashi_taichi,八重樫太一
 matsu_(sekaowaoneok),matsu（sekaowaoneok）
 kaleido_ruby_(cosplay),万花筒红宝石 (cosplay)
 sakurai_yukino,櫻井雪乃
-pantyhose_lift,连裤袜提升
+pantyhose_lift,掀开掀起揭开 连裤袜 连袜裤
 camelot_academy_of_chivalry_school_uniform,卡梅洛特骑士学院校服
 scott_(scottthefox94),斯科特 (scottthefox94)
 angelica_(brown_dust),当归（棕色粉末）
@@ -189295,7 +189295,7 @@ gyuu,牛
 sahagin,沙哈金
 5tflldartist5,5tflldartist5
 jaijai,贾贾伊
-lifted_clothing,掀起衣服
+lifted_clothing,掀开掀起揭开 衣服
 sagittarius_position,射手座位置
 anna_lindhurst,安娜·林德赫斯特
 quib,哑炮
@@ -190218,7 +190218,7 @@ chargin'_chuck,冲锋的查克
 mazinga669,mazinga669
 hunt_showdown,狩猎对决
 joid_(itisjoidok),joid (itisjoidok)
-azriel_(no_game_no_life),azriel（没有游戏就没有生活）
+azriel_(no_game_no_life),azriel《游戏人生》
 mak_(character),麦克（角色）
 jordie_(ohlordyit'sjordie),jordie (哦主啊，jordie)
 foxene_(character),foxene（角色）
@@ -202835,7 +202835,7 @@ clione,克里奥内
 artifice_(dream_mirage),诡计（梦境蜃景）
 yumina_enclave,尤米纳飞地
 miyawaki_sakura,宮脇咲良
-top_lift,顶部升降
+top_lift,掀开掀起揭开 顶部
 onirin,奥尼林
 print_shawl,印花披肩
 amamiya_momona,雨宫桃奈
@@ -205126,7 +205126,7 @@ will_(study_partners),将（研究伙伴）
 kanta-kun,干太君
 sophie_hunnyt,索菲·亨尼特
 burque_(kimberco),burque（金伯科）
-will_(metaphor:_refantazio),意志（隐喻：refantazio）
+will_(metaphor:_refantazio),意志（暗喻幻想）
 gareth_(swimsuit_saber)_(second_ascension)_(fate),gareth (泳装 Saber) (第二次升天) (命运)
 sekido_(kimetsu_no_yaiba),雖道（鬼極之刃）
 manotaur,马诺陶尔
@@ -221517,7 +221517,7 @@ cure_empress,治愈皇后
 orthrus,欧特鲁斯
 linda_(linda_cube),linda （琳达·库伯）
 osasimiyabai,奥萨米亚拜
-head_lift,头部抬升
+head_lift,掀开掀起揭开 头部
 linechu,林楚
 penis_eye,阴茎 屌 鸡巴眼
 line_infantry,线列步兵
@@ -223936,7 +223936,7 @@ heki_kiri,比基切里
 ashley_(1upgobbo),阿什利 (1楼)
 testicle_breasts,睾丸乳房
 elalvaradog,埃拉瓦拉多格
-testicle_lift,睾丸提升
+testicle_lift,掀开掀起揭开 睾丸
 elazu,埃拉祖
 misterj,密斯特杰
 toroe02,toroe02
@@ -228733,7 +228733,7 @@ warez,盗版软件
 alex_abrahams,亚历克斯·亚伯拉罕
 warechu,瓦雷楚
 ashiyafuku,芦屋福
-teto_(no_game_no_life),teto（没有游戏就没有生活）
+teto_(no_game_no_life),teto《游戏人生》
 janet_(trainer),janet (培训师)
 tetsu_(kurotetsu1379),tetsu (kurotetsu1379)
 warbler,莺
