@@ -13,3 +13,4 @@ ComfyUI的参考此 https://civitai.com/models/1269430  以下是引用 <br/>
 或 /ComfyUI/custom_nodes/ComfyUI-Impact-Pack/custom_wildcards<br/>
 使用通配符节点在工作流中触发动态随机化。<br/>
 
+截至2025-3-4添加https://300huafeng.vercel.app/single_artist_style.html  添加700+画风画师风格艺术 打标《风格艺术画师》  <br/>
