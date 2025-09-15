@@ -1,6 +1,8 @@
 1girl,1女孩
+hysilens_(honkai:_star_rail),海瑟音（崩坏：星穹铁道）
+cerydra_(honkai:_star_rail),刻律德菈（崩坏：星穹铁道）
 highres,高分辨率
-solo,独奏
+solo,单人
 long_hair,长发 发型
 breasts,乳房 奶子 
 mammal,哺乳动物
@@ -57,7 +59,7 @@ absurd_res,荒诞的答案
 genital_fluids,生殖器液体
 butt,屁股
 2girls,2个女孩
-cleavage,裂解
+cleavage,乳沟
 bare_shoulders,裸露的肩膀
 very_long_hair,很长的头发
 jacket,夹克
@@ -85,7 +87,7 @@ closed_eyes,闭上眼睛
 white_hair,白发
 canis,犬科动物
 white_body,白色主体
-multicolored_hair,多彩的头发
+multicolored_hair,多彩 彩色 多色的头发 挑染
 felid,猫科动物
 pink_hair,粉红色头发
 yellow_eyes,黄色的眼睛
@@ -192,7 +194,7 @@ glasses,眼镜
 indoors,室内
 pussy,阴部 逼 外阴 内阴 猫猫
 mythological_scalie,神话鳞片
-solo_focus,单独聚焦
+solo_focus,单人焦点 复杂场景聚焦 人群中遇见你
 hand_up,举起手
 big_penis,大阴茎 屌 鸡巴
 domestic_dog,家犬
@@ -206,10 +208,10 @@ belt,腰带
 day,天
 hairclip,发夹
 official_alternate_costume,官方替代服装
-multicolored_body,多彩的身体
+multicolored_body,多彩 彩色 多色的身体
 penile_penetration,阴茎 屌 鸡巴插入
 furniture,家具
-fang,方
+fang,虎牙 尖牙 牙齿
 fate_(series),命运（系列）
 female_penetrated,女性被插入
 grey_body,灰体
@@ -394,7 +396,7 @@ countershading,反遮荫
 sleeves_past_wrists,袖子过手腕
 fur_trim,毛皮饰边
 anthro_penetrating,人类穿透
-from_behind_position,从后面的位置
+from_behind_position,从后面的位置 后入式 性姿势
 not_furry,没有毛
 mole_under_eye,眼睛下面的痣
 4_toes,4个脚趾
@@ -521,7 +523,7 @@ black_shorts,黑色短裤
 swimwear,泳装
 short_playtime,游戏时间短
 blue_background,蓝色背景
-presenting_hindquarters,后躯呈现
+presenting_hindquarters,后躯呈现 展示 露出
 curvy_figure,曲线身材
 bodysuit,紧身衣
 white_socks,白袜子
@@ -560,7 +562,7 @@ open_shirt,开衫 不扣扣子 敞开衬衫
 sonic_the_hedgehog_(series),刺猬索尼克（系列）
 leaning_forward,向前倾
 glistening,闪闪发光
-from_front_position,从前排位置
+from_front_position,从前排位置 正入 性姿势
 heterochromia,虹膜异色症
 membranous_wings,膜状翅
 highleg,高腿
@@ -599,7 +601,7 @@ pink_nipples,粉红色乳头
 ear_ring,耳环
 nose_blush,鼻子红肿
 rose,玫瑰
-fangs,尖牙
+fangs,尖牙 虎牙 牙齿
 one_side_up,一面朝上
 leaf,叶子
 fox_tail,狐狸尾巴
@@ -706,7 +708,7 @@ human_on_anthro,人类对人类学
 transparent_background,透明背景
 heart-shaped_pupils,心形瞳孔
 arms_behind_back,双手放在身后
-groping,摸索
+groping,猥亵 
 traditional_media,传统媒体
 korean_commentary,韩语评论
 squatting,蹲踞
@@ -749,7 +751,7 @@ holidays,假期
 wolf_ears,狼耳朵
 headgear,帽子
 oral,口服
-clothes_pull,衣服拉
+clothes_pull,衣服拉下扯下
 glans,龟头
 leg_up,腿向上
 murine,小鼠
@@ -818,7 +820,7 @@ tight_clothing,紧身衣服
 1other,1其他
 cross,叉
 topless,裸露上身
-suspenders,吊带
+suspenders,吊带 背带
 long_ears,长耳朵
 bovine,牛
 red_shirt,红衬衫
@@ -953,7 +955,7 @@ pink_dress,粉色连衣裙
 bent_over,弯腰
 hooded_jacket,连帽夹克
 goggles,风镜
-skin_fang,皮牙
+skin_fang,皮牙 牙齿
 red_background,红色背景
 extra_ears,额外的耳朵
 monster_girl,怪物女孩
@@ -1101,7 +1103,7 @@ toenails,脚趾甲
 multiple_tails,多尾
 grey_skirt,灰色裙子
 gauntlets,手套
-multicolored_ears,多彩的耳朵
+multicolored_ears,多彩 彩色 多色的耳朵
 mature_anthro,成熟人类学
 microphone,麦克风
 facial_markings,面部标记
@@ -1154,7 +1156,7 @@ interlocked_fingers,十指交叉
 pink_nails,粉红色的指甲
 pom_pom_(clothes),绒球（衣服）
 pink_panties,粉色内裤
-panty_pull,拉内裤
+panty_pull,拉内裤拉下扯下
 bad_link,坏链接
 hand_on_own_face,用手捂住自己的脸
 alternate_breast_size,替代乳房尺寸
@@ -1295,9 +1297,9 @@ striped_panties,条纹内裤
 smoke,抽烟
 frilled_apron,荷叶边围裙
 blue_bikini,蓝色比基尼
-cute_fangs,可爱的尖牙
+cute_fangs,可爱的尖牙 牙齿
 armlet,臂章
-paizuri,派祖里
+paizuri,夹乳 用手将乳房聚拢 波推飞机
 striped_markings,条纹标记
 veins,静脉
 big_nipples,大乳头
@@ -1338,7 +1340,7 @@ mary_janes,玛丽珍鞋
 one_eye_covered,一只眼睛被遮住
 full_moon,满月
 cum_on_breasts,射在乳房上
-cowgirl_position,牛仔式
+cowgirl_position,牛仔式 性姿势
 topless_male,赤裸上身的男性
 sciurid,松鼠科
 saliva_string,唾液串
@@ -1580,11 +1582,11 @@ upskirt,裙底风光
 featureless_breasts,无特征的乳房
 medial_ring,内侧环
 emphasis_lines,强调线
-missionary_position,传教士体位
+missionary_position,传教士体位 性姿势
 flying,飞行
 epaulettes,肩章
 red-framed_eyewear,红框眼镜
-fingering,指法
+fingering,指法 指交
 purple_flower,紫色的花
 anthro_on_feral,人类学与野性
 white_balls,白球
@@ -1627,7 +1629,7 @@ toony,托尼
 stubble,茬
 braided_ponytail,编织马尾辫
 fins,鳍
-multicolored_eyes,多彩的眼睛
+multicolored_eyes,多彩 彩色 多色的眼睛
 black_topwear,黑色上衣
 denim_bottomwear,牛仔下装
 talking_to_viewer,与观众交谈
@@ -2130,7 +2132,7 @@ oral_vore,口交
 deep_throat,深喉咙
 realistic,实际的
 black_bottomwear,黑色裤子
-hime_cut,姬切
+hime_cut,姬切 公主切 发姬
 dakimakura_(medium),抱枕（中）
 valentine,情人节
 vibrator,振動器
@@ -2147,7 +2149,7 @@ dragon_ball,龙珠
 hair_tie,发带
 fate/extra,命运/额外
 kneepits,膝盖窝
-vaginal_fingering,阴道指法
+vaginal_fingering,阴道指法 指交
 facing_away,背对
 xenoblade_chronicles_(series),异度之刃 (系列)
 tress_ribbon,发带
@@ -2213,7 +2215,7 @@ hand_holding,手牵手
 doll,玩具娃娃
 white_shoes,白色鞋子
 unusual_anatomy,不寻常的解剖结构
-suspender_skirt,吊带裙
+suspender_skirt,吊带裙 背带裙
 anklet,脚链
 pleated_dress,褶皱连衣裙
 tail_ornament,尾饰
@@ -2226,7 +2228,7 @@ highleg_panties,高腿内裤
 gift_box,礼品盒
 gag,插科打诨
 adjusting_eyewear,调整眼镜
-overalls,工作服
+overalls,工作服 背带裤
 absurdly_long_hair,长得离谱的头发
 anal_masturbation,肛门自慰
 cropped_shirt,短款衬衫
@@ -2347,7 +2349,7 @@ creature,生物
 penetrating_pov,穿透性观点
 saliva_trail,唾液痕迹
 yakumo_ran,八云乱
-zipper_pull_tab,拉链拉环
+zipper_pull_tab,拉链拉环拉下扯下
 yokozuwari,横津割
 ship_turret,舰炮塔
 princess_luna_(mlp),露娜公主 (mlp)
@@ -2512,7 +2514,7 @@ carrying_another,携带另一个
 blurred_background,模糊的背景
 reiuji_utsuho,霧王二
 w,瓦
-multicolored_scales,多彩鳞片
+multicolored_scales,多彩 彩色 多色鳞片
 balloon,气球
 controller,控制器
 red_kimono,红色和服
@@ -2749,7 +2751,7 @@ frilled_thigh_strap,褶边大腿绑带
 strike_witches,打击女巫
 mechanical_halo,机械光环
 holster,枪套
-partially_unbuttoned,部分解开
+partially_unbuttoned,解开扣子解开纽扣开扣 部分
 on_ground,在地面
 key,钥匙
 hinanawi_tenshi,日名天使
@@ -2824,7 +2826,7 @@ reference_sheet,參考表
 graphite_(artwork),石墨（艺术品）
 tomoe_mami,巴真美
 evil_smile,邪恶的微笑
-multicolored_skin,多彩的皮肤
+multicolored_skin,多彩 彩色 多色的皮肤
 vowelless,无元音
 link,关联
 dagger,匕首
@@ -2868,7 +2870,7 @@ bread,面包
 epic_games,史诗游戏
 scared,害怕的
 uneven_legwear,不均匀的腿部服装
-presenting,呈现
+presenting,呈现 展示 露出
 cel_shading,卡通渲染
 houraisan_kaguya,蓬莱山辉夜
 alligatorid,鳄鱼科
@@ -2934,7 +2936,7 @@ heart_of_string,弦之心
 red_hakama,红袴
 sniffing,嗅探
 idolmaster_cinderella_girls_starlight_stage,偶像大师灰姑娘女孩星光舞台
-clothing_pull,衣服拉
+clothing_pull,衣服拉下扯下
 hugging_own_legs,抱住自己的腿
 colored_tips,彩色提示
 koakuma,小恶魔
@@ -2950,13 +2952,13 @@ tied_shirt,系带衬衫
 bow_bra,蝴蝶结胸罩
 teapot,茶壶
 cloven_hooves,偶蹄
-multicolored_clothing,多彩的衣服
+multicolored_clothing,多彩 彩色 多色的衣服
 one_breast_out,一只乳房露出
 field,场地
 airplane,飞机
 red_coat,红色外套
 navel_cutout,肚脐切口
-multicolored_jacket,多彩夹克
+multicolored_jacket,多彩 彩色 多色夹克
 white_handwear,白色手套
 bound_arms,束缚的手臂
 interspecies,跨物种
@@ -2995,7 +2997,7 @@ short_kimono,短和服
 source_smaller,来源较小
 bang_dream!_it's_mygo!!!!!,砰的梦想！是我的梦想！！！
 cum_in_uterus,子宫内射精 精液
-69_position,69 位置
+69_position,69 式 性姿势
 pinscher,杜宾犬
 huge_areola,巨大的乳晕
 no_pupils,没有学生
@@ -3085,7 +3087,7 @@ toothed_whale,齿鲸
 humanoid_on_anthro,类人生物
 gameplay_mechanics,游戏机制
 hotpants,热裤
-pectoral_cleavage,胸沟
+pectoral_cleavage,乳沟
 deity,神
 watercraft,船舶
 dominant_anthro,优势人类学
@@ -3238,7 +3240,7 @@ asymmetrical_clothes,不对称的衣服
 aqua_necktie,水绿色领带
 playing_instrument,演奏乐器
 striped_legwear,条纹裤袜
-fingering_self,指法自我
+fingering_self,指法自我 指交 自慰
 cum_on_clothes,精液喷到衣服上
 archie_comics,阿奇漫画
 thin_thighs,瘦大腿
@@ -3426,7 +3428,7 @@ unworn_shoes,没穿过的鞋子
 playing_card,纸牌
 purple_bowtie,紫色领结
 mushroom,蘑菇
-pants_pull,裤子拉
+pants_pull,裤子拉下扯下
 sanpaku,三白
 retriever,猎犬
 final_fantasy_vii_remake,最终幻想 VII 重制版
@@ -3447,7 +3449,7 @@ vaginal_object_insertion,阴道物体插入
 mermaid,美人鱼
 danganronpa:_trigger_happy_havoc,弹丸论破：快乐大破坏
 glistening_butt,闪闪发光的屁股
-pantyhose_pull,连裤袜拉
+pantyhose_pull,连裤袜拉下扯下
 crop_top_overhang,短款上衣悬垂
 pink_theme,粉红色主题
 persona_5,女神异闻录 5
@@ -3489,7 +3491,7 @@ tassel_earrings,流苏耳环
 anatomically_correct_penis,解剖学上正确的阴茎 屌 鸡巴
 mizuhashi_parsee,水桥帕西
 fubuki_(kancolle),吹雪 (舰娘)
-oviposition,产卵
+oviposition,产卵 性姿势
 female_(lore),女性（传说）
 black_suit,黑色西装
 two-tone_skin,双色皮肤
@@ -3505,7 +3507,7 @@ go-toubun_no_hanayome,五岛的花嫁
 cross_hair_ornament,十字发饰
 suggestive,暗示性的
 striped_necktie,条纹领带
-cunnilingus,舔阴
+cunnilingus,舔阴 用舌头舔逼
 abigail_williams_(fate),阿比盖尔·威廉姆斯（命运）
 food_focus,食品焦点
 white_belly,白肚皮
@@ -3570,7 +3572,7 @@ cross-shaped_pupils,十字形瞳孔
 yellow_hairband,黄色发带
 bottomless_female,无底女
 male_penetrating_intersex,男性插入双性人
-unclean_diaper,尿布不干净
+unclean_diaper,尿布 脏 不干净
 speedo,速度计
 penis_poking_out,阴茎 屌 鸡巴伸出
 headwear_only,仅头饰
@@ -3578,7 +3580,7 @@ rubber_clothing,橡胶服装
 cutoffs,截止点
 egyptian,埃及人
 erection_under_clothes,衣服下勃起
-presenting_balls,呈现球
+presenting_balls,呈现 展示 露出球
 side_braids,侧辫
 cross-popping_vein,静脉交叉弹响
 blue_pawpads,蓝色爪垫
@@ -3607,7 +3609,7 @@ inazuma_eleven_(series),闪电十一人（系列）
 symmetrical_docking,对称对接
 name_connection,名称连接
 white_penis,白色阴茎 屌 鸡巴
-chair_position,椅子位置
+chair_position,椅子 性姿势
 holding_can,持有
 single_sidelock,单侧锁
 dragon_ball_z,龙珠Z
@@ -3705,14 +3707,14 @@ green_kimono,绿色和服
 hair_censor,头发检查员
 cube_hair_ornament,立方体发饰
 police_uniform,警察制服
-multicolored_dress,多彩连衣裙
+multicolored_dress,多彩 彩色 多色连衣裙
 shell,壳
 clean_diaper,干净的尿布
 fight,斗争
 syringe,注射器
 dripping,滴落
 gold,金子
-babydoll,婴儿娃娃
+babydoll,情趣睡衣
 extra_arms,额外的武器
 eyewear_only,仅限眼镜
 kagiyama_hina,键山雏
@@ -3805,7 +3807,7 @@ caught_in_the_act,当场抓住
 aqua_bow,水弓
 2b_(nier:automata),2b（尼尔：自动机）
 holding_wand,拿着魔杖
-fingering_partner,指法伙伴
+fingering_partner,指法伙伴 指交
 fundoshi,財道
 macross,超时空要塞
 glistening_skin,闪亮的皮肤
@@ -3917,7 +3919,7 @@ star_in_eye,眼中的星星
 hanfu,汉服
 super_smash_bros.,超级粉碎兄弟
 hyper_muscles,肌肉发达
-skirt_pull,裙拉
+skirt_pull,裙拉下扯下
 monster_hunter_(series),怪物猎人（系列）
 arm_grab,手臂抓握
 showgirl_skirt,歌舞女郎裙子
@@ -3994,7 +3996,7 @@ jaggy_lines,锯齿状线条
 wardrobe_malfunction,衣柜故障
 cooking,烹饪
 soaking_feet,泡脚
-reverse_cowgirl_position,反向女牛仔式
+reverse_cowgirl_position,反向女牛仔式 性姿势
 race_queen,赛车皇后
 merry_christmas,圣诞快乐
 skeleton,骨骼
@@ -4020,7 +4022,7 @@ erune,埃鲁内
 body_part_in_mouth,嘴里的身体部位
 cum_in_hair,精液射在头发上
 misaka_mikoto,御坂美琴
-bikini_pull,比基尼拉
+bikini_pull,比基尼拉下扯下
 tape,磁带
 white_footwear,白色鞋
 doll_joints,娃娃关节
@@ -4206,7 +4208,7 @@ two-tone_jacket,双色夹克
 whiskers,晶须
 yellow_beak,黄喙
 beach_umbrella,沙滩伞
-urine_stream,尿流
+urine_stream,尿流 尿水 尿液流出
 bestiality,兽交
 weapon_over_shoulder,肩上的武器
 yellow_sweater,黄色毛衣
@@ -4293,7 +4295,7 @@ brown_bow,棕色蝴蝶结
 glistening_hair,闪亮的头发
 face_fucking,脸部性交
 earclip,耳夹
-shirt_pull,衬衫拉
+shirt_pull,衬衫拉下扯下
 fur-trimmed_headwear,毛皮饰边头饰
 swivel_chair,转椅
 asymmetrical_sleeves,不对称袖子
@@ -4333,7 +4335,7 @@ aggretsuko,烈子
 bride,新娘
 finger_in_mouth,手指放进嘴里
 partially_unzipped,部分解压
-multicolored_nails,多彩指甲
+multicolored_nails,多彩 彩色 多色指甲
 sepia,棕褐色
 photo,照片
 cake_slice,蛋糕片
@@ -4349,7 +4351,7 @@ leotard_under_clothes,衣服下面的紧身衣
 purple_areola,紫色乳晕
 waist_bow,腰弓
 holding_butt,抱着屁股
-presenting_armpit,腋窝
+presenting_armpit,呈现 展示 露出腋窝
 bra_strap,胸罩带
 bottom_heavy,底部较重
 chain-link_fence,铁丝网
@@ -4607,9 +4609,9 @@ makima_(chainsaw_man),玛基玛（电锯人）
 asking,询问
 food_play,食物游戏
 notebook,笔记本
-shorts_pull,短裤拉
+shorts_pull,短裤拉下扯下
 saki_(manga),咲（漫画）
-horn_ribbon,喇叭带
+horn_ribbon,角带
 udders,乳房
 medium_dress,中号连衣裙
 larger_human,较大的人类
@@ -4664,7 +4666,7 @@ occult_symbol,神秘符号
 coffee_mug,咖啡杯
 genital_torture,生殖器酷刑
 byleth_(fire_emblem),拜雷思（火焰之纹章）
-squatting_cowgirl_position,蹲式女牛仔姿势
+squatting_cowgirl_position,蹲式女牛仔姿势 性姿势
 splatoon_3,喷射战士 3
 ratchet_and_clank,棘轮与铿锵
 pyra_(xenoblade),pyra (异度之刃)
@@ -4711,7 +4713,7 @@ gridman_universe,電子人宇宙
 2:01,2:01
 small_tail,小尾巴
 kobayashi-san_chi_no_maidragon,小林先生的舞女龙
-multicolored_penis,多彩阴茎 屌 鸡巴
+multicolored_penis,多彩 彩色 多色阴茎 屌 鸡巴
 murakumo_(kancolle),群云 (舰娘)
 fatal_vore,致命的吞噬
 audible_music,可听音乐
@@ -4763,7 +4765,7 @@ open_beak,张嘴
 leather_jacket,皮夹克
 tiger_&_bunny,老虎和兔子
 lop_ears,垂耳
-bra_pull,胸罩拉力
+bra_pull,胸罩拉下扯下
 rose_petals,玫瑰花瓣
 talking_to_partner,与合作伙伴交谈
 coiling,卷取
@@ -4827,7 +4829,7 @@ female_on_bottom,雌性在底部
 yelling,大喊大叫
 back_cutout,背部镂空
 yuru_yuri,尤鲁尤里
-mastery_position,掌握地位
+mastery_position,掌握地位 性姿势
 sling_bikini,吊带比基尼
 damaged,损坏的
 shibuya_rin,渋谷凛
@@ -4932,7 +4934,7 @@ yellow_ears,黄耳朵
 breast_envy,乳房嫉妒
 thank_you,谢谢
 hairy,毛茸茸
-underwear_pull,内衣拉
+underwear_pull,内衣拉下扯下
 hata_no_kokoro,羽之心
 unworn_jacket,未穿过的夹克
 younger_anthro,年轻人类学
@@ -4940,7 +4942,7 @@ arm_hair,手臂上的毛
 gradient_sky,渐变的天空
 one-punch_man,一拳超人
 topless_female,赤裸上身的女性
-strap_pull,带子拉力
+strap_pull,带子拉下扯下
 rosa_(pokemon),羅莎 (神奇宝贝)
 romaji_text,罗马字文本
 orange_bikini,橙色比基尼
@@ -4968,7 +4970,7 @@ male_penetrating_human,男性穿透人类
 text_with_heart,带心的文字
 dimples_of_venus,维纳斯酒窝
 statue,雕像
-horn_jewelry,角饰品
+horn_jewelry,角饰品 珠宝
 breast_squeeze,挤压乳房
 torn_dress,破裙子
 fur-trimmed_boots,毛皮边饰靴子
@@ -5216,14 +5218,14 @@ tengu-geta,天狗
 same_size_vore,相同尺寸
 nishikigi_chisato,錦木千里
 jar,罐
-button_(fastener),纽扣（扣件）
+button_(fastener),纽扣 扣子（扣件）
 female_humanoid,女性类人生物
 kasodani_kyouko,笠谷今日子
 blue_pantyhose,蓝色连裤袜
 winged_humanoid,有翼人形生物
 kurodani_yamame,黑谷山目
 orange_ears,橙色耳朵
-reverse_stand_and_carry_position,反向站立和携带姿势
+reverse_stand_and_carry_position,反向站立和携带  性姿势
 neck_tattoo,颈部纹身
 floating_clothes,漂浮的衣服
 mother_and_son,母亲和儿子
@@ -5263,7 +5265,7 @@ living_machine,生活机器
 petruz_(modeler),petruz（建模师）
 fart_cloud,放屁云
 spread_anus,肛门扩张
-blue_overalls,蓝色工作服
+blue_overalls,蓝色工作服 背带裤
 garreg_mach_monastery_uniform,加尔古·马赫修道院制服
 emiya_shirou,宮閣士郎
 red_sclera,红色巩膜
@@ -5274,7 +5276,7 @@ anthro_penetrating_female,人类穿透女性
 centered_hair_bow,居中发弓
 nipple_suck,吸吮乳头
 basic_sequence,基本序列
-multiple_positions,多个职位
+multiple_positions,多个体位   性姿势
 stuttering,口吃
 klee_(genshin_impact),克利 (原神)
 condom_in_mouth,避孕套在嘴里
@@ -5343,7 +5345,7 @@ buttplug_in_ass,屁眼插进屁眼
 cattle_humanoid,牛人形生物
 breast_suppress,乳房抑制
 dakimakura,抱枕
-unbuttoned_shirt,解开扣子的衬衫
+unbuttoned_shirt,解开扣子解开纽扣开扣 衬衫
 ftm_crossgender,ftm 跨性别
 no_nipples,没有乳头
 colored_pencil_(medium),彩色铅笔（中）
@@ -5421,7 +5423,7 @@ multiple_earrings,多只耳环
 flashing,闪烁
 faceless_anthro,无面人類
 mejiro_mcqueen_(umamusume),mejiro mcqueen (妈妈)
-colorful,丰富多彩的
+colorful,丰富多彩 彩色 多色的
 male_penetrating_ambiguous,男性穿透暧昧
 butt_expansion,臀部扩张
 flaccid,松弛
@@ -5445,13 +5447,13 @@ circle,圆圈
 toeless_(marking),无趾（标记）
 ambiguous_prey,模棱两可的猎物
 camera_view,相机视图
-multicolored_skirt,多彩裙子
+multicolored_skirt,多彩 彩色 多色裙子
 new_super_mario_bros._u_deluxe,新超级马里奥兄弟 U 豪华版
 clover,三叶草
 pink_leotard,粉色紧身衣
 blender_cycles,搅拌机循环
 studio_trigger,工作室触发器
-table_lotus_position,桌莲花坐
+table_lotus_position,桌莲花坐   性姿势
 jeanne_d'arc_(ruler)_(fate),圣女贞德 (统治者) (命运)
 asashio_(kancolle),朝潮 (舰娘)
 gulonine,古洛宁
@@ -5469,7 +5471,7 @@ improvised_gag,即兴表演
 medical_eyepatch,医用眼罩
 meiko_(vocaloid),meiko (声乐)
 dragon_print,龍印
-one-piece_swimsuit_pull,连体泳衣拉
+one-piece_swimsuit_pull,连体泳衣拉下扯下
 black_latex,黑色乳胶
 serval_print,薮猫印花
 cat_paws,猫爪
@@ -5504,12 +5506,12 @@ purple_markings,紫色标记
 taur,金牛座
 argyle_background,菱形背景
 yellow_balls,黄球
-dress_pull,连衣裙拉
+dress_pull,连衣裙拉下扯下
 knock-kneed,膝内翻
 base_three_layout,基础三布局
 size_play,尺寸游戏
 red_armband,红袖章
-paizuri_under_clothes,衣服下的 paizuri
+paizuri_under_clothes,衣服下的 夹乳 用手将乳房聚拢 波推飞机
 tie_clip,领带夹
 black_beak,黑喙
 off-topic,离题
@@ -5558,7 +5560,7 @@ tomoe_(symbol),巴（符号）
 beak,喙
 imminent_vaginal,即将阴道
 breast_lift,隆胸
-multicolored_wings,多彩的翅膀
+multicolored_wings,多彩 彩色 多色的翅膀
 green_coat,绿色外套
 gloria_(pokemon),格洛丽亚 (神奇宝贝)
 pince-nez,夹鼻眼镜
@@ -5603,7 +5605,7 @@ pom_pom_hair_ornament,绒球发饰
 after_anal,肛交后
 envelope,信封
 tomato,番茄
-stand_and_carry_position,站立和携带姿势
+stand_and_carry_position,站立和携带姿势  性姿势
 queen's_blade,女王之刃
 furisode,振袖
 my_hero_academia,我的英雄学院
@@ -5766,7 +5768,7 @@ glowing_weapon,发光武器
 armpit_fetish,腋窝恋物癖
 hk416_(girls'_frontline),hk416（少女前线）
 white_cat,白猫
-mask_pull,面罩拉力
+mask_pull,面罩拉下扯下
 yellow_hat,黄帽子
 fishing_rod,钓竿
 biting_own_lip,咬自己的嘴唇
@@ -6335,7 +6337,7 @@ willing_prey,心甘情愿的猎物
 holding_hammer,拿着锤子
 inside_stomach,胃内
 puckered_lips,撅起嘴唇
-kneeling_oral_position,跪式口交姿势
+kneeling_oral_position,跪式口交姿势  性姿势
 puyopuyo,噗哟噗哟
 city_lights,城市之光
 octoling_player_character,八字算命玩家角色
@@ -6390,7 +6392,7 @@ throwing,投掷
 hair_horns,毛角
 horned_headwear,有角的头饰
 atago_(azur_lane),爱宕 (azur lane)
-anvil_position,砧座位置
+anvil_position,砧座姿势  性姿势
 requesting,请求
 smokestack,烟囱
 shirt_only,仅限衬衫
@@ -6510,7 +6512,7 @@ corrin_(fire_emblem),科林（火焰之纹章）
 jack-o'_pose,杰克姿势
 red_cloak,红色斗篷
 on_shoulder,在肩膀上
-leg_glider_position,腿部滑行姿势
+leg_glider_position,腿部滑行姿势   性姿势
 alternate_form,替代形式
 owl_demon,鸮妖
 needy_girl_overdose,需要帮助的女孩过量服用
@@ -6610,7 +6612,7 @@ tiger_boy,虎孩
 kemono_friends_v_project,兽人朋友 5 项目
 master,掌握
 flats,公寓
-grinding,研磨
+grinding,素股 研磨
 silence_suzuka_(umamusume),沉默的铃鹿 (妈妈)
 ex-keine,除此以外
 blue_pupils,蓝色瞳孔
@@ -6620,7 +6622,7 @@ djeeta_(granblue_fantasy),djeeta (碧蓝幻想)
 layered_bikini,分层比基尼
 glistening_balls,闪闪发光的球
 strap_between_breasts,乳房之间的带子
-harem_outfit,后宫装
+harem_outfit,后宫装 舞娘装
 open_dress,敞开的衣着 连衣裙 裙子
 white_sports_bra,白色运动胸罩
 newspaper,报纸
@@ -6700,7 +6702,7 @@ wood_floor,木地板
 kodomo_doushi,儿童导师
 ladder_piercing,梯子穿孔
 atelier_ryza,莱莎的炼金工房
-multicolored_swimsuit,多彩泳衣
+multicolored_swimsuit,多彩 彩色 多色泳衣
 orange_penis,橙色阴茎 屌 鸡巴
 grey_horns,灰色的角
 :i,：我
@@ -6713,7 +6715,7 @@ pink_bag,粉色包包
 dark_souls_(series),黑暗之魂（系列）
 frilled_socks,荷叶边袜子
 energy_wings,能量翼
-prone_bone_position,俯卧骨位
+prone_bone_position,俯卧骨位  性姿势
 large_hat,大帽子
 candy_cane,拐杖糖
 dungeon_and_fighter,地下城与勇士
@@ -6803,7 +6805,7 @@ aqua_neckerchief,水绿色围巾
 holding_sign,举牌
 sticker,贴纸
 rareware,稀有器皿
-peeing_self,尿尿
+peeing_self,尿尿 撒尿
 tan_clothing,棕褐色服装
 how_to_train_your_dragon,驯龙高手
 glistening_fur,闪闪发光的毛皮
@@ -6922,7 +6924,7 @@ wolfdog,狼狗
 thigh_pouch,大腿袋
 realistic_feral,现实野性
 thick_arms,粗手臂
-multicolored_topwear,多彩上衣
+multicolored_topwear,多彩 彩色 多色上衣
 cigar,雪茄
 white_tail,白尾
 orange_kimono,橙色和服
@@ -6942,7 +6944,7 @@ path,小路
 cone_horns,锥形喇叭
 holding_syringe,持注射器
 on_lap,在腿上
-colorful_theme,多彩主题
+colorful_theme,多彩 彩色 多色主题
 ceiling_light,天花板灯
 purple_underwear,紫色内衣
 gegege_no_kitarou,咯咯咯的鬼太郎
@@ -7026,7 +7028,7 @@ club_(weapon),棍棒（武器）
 pregnant_male,怀孕男性
 fucking_machine,他妈的机器
 monstrous_humanoid,怪物人形生物
-sandwich_position,三明治位置
+sandwich_position,三明治位置  性姿势
 frilled_ribbon,褶边丝带
 carpet,地毯
 sitting_on_bed,坐在床上
@@ -7206,7 +7208,7 @@ bow_bikini,蝴蝶结比基尼
 confused,使困惑
 skull_and_crossbones,骷髅和交叉骨
 necklace_only,仅限项链
-fetal_position,胎位
+fetal_position,胎位  性姿势
 mismatched_bikini,不匹配的比基尼
 kurokote,黑手
 bread_slice,面包片
@@ -7319,7 +7321,7 @@ ch'en_(arknights),陈（明暗骑士）
 cum_on_legs,射在腿上
 species_request,物种要求
 colored_inner_animal_ears,彩色的动物内耳
-perching_position,栖息位置
+perching_position,栖息位置  性姿势
 plaid_necktie,格子领带
 octopodiform,八足动物
 peeking,偷看
@@ -7343,7 +7345,7 @@ metal_gear_(series),合金装备（系列）
 terrier,梗犬
 clothes_hanger,衣架
 mechanical_tail,机械尾
-tatsumaki,龍卷
+tatsumaki,一拳超人 龙卷
 young_humanoid,年轻的类人生物
 suspension,暂停
 paddle,桨
@@ -7463,7 +7465,7 @@ cat_print,猫咪印花
 sekaiju_no_meikyuu,世界树的迷宫
 pig,猪
 ump45_(girls'_frontline),ump45（少女前线）
-spoon_position,勺子位置
+spoon_position,勺子位置  性姿势
 bound_ankles,脚踝被绑住
 murasame_(kancolle),村雨 (舰娘)
 three_frame_image,三帧图像
@@ -7655,7 +7657,7 @@ cheating_(relationship),欺骗（关系）
 transparent_umbrella,透明雨伞
 bow_underwear,蝴蝶结内衣
 hirogaru_sky!_precure,hirogaru sky! 光之美少女
-urine_pool,尿池
+urine_pool,尿池 小便池
 burning,燃烧
 pink_fur,粉红色的皮毛
 instagram_username,Instagram 用户名
@@ -7664,7 +7666,7 @@ studded_belt,铆钉腰带
 gaping_mouth,张大嘴巴
 black_rose,黑玫瑰
 fishnet_armwear,渔网臂饰
-multicolored_fur,多彩的毛皮
+multicolored_fur,多彩 彩色 多色的毛皮
 white_perineum,白色会阴
 oda_nobunaga_(fate),织田信长 (命运)
 hourglass_figured_female,沙漏型身材的女性
@@ -7814,7 +7816,7 @@ tribadism,三角恋
 anubis,阿努比斯
 hand_on_own_butt,手放在自己的屁股上
 spread_fingers,张开手指
-piledriver_position,打桩机位置
+piledriver_position,打桩机 性姿势
 hiiragi_tsukasa,柊司
 hands_on_lap,双手放在膝盖上
 phimosis,包茎
@@ -7845,7 +7847,7 @@ cervix,宫颈
 nervous_sweat,紧张出汗
 gloves_only,仅限手套
 katyusha_(girls_und_panzer),喀秋莎（少女与战车）
-multicolored_bodysuit,多彩连身衣
+multicolored_bodysuit,多彩 彩色 多色连身衣
 inflatable_toy,充气玩具
 zero_suit,零服
 robot_anthro,机器人人类学
@@ -8166,7 +8168,7 @@ omorashi,奥莫拉希
 adjusting_gloves,调整手套
 pyonta,碧翁塔
 z3_max_schultz_(kancolle),z3 max schultz (舰娘)
-multicolored_shirt,多彩衬衫
+multicolored_shirt,多彩 彩色 多色衬衫
 freckled_breasts,有雀斑的乳房
 higashikata_josuke,东方仗助
 censored_nipples,乳头被审查
@@ -8183,7 +8185,7 @@ pussyjob,阴部性交
 alternate_skin_color,替代肤色
 punch,冲床
 dizzy_(guilty_gear),头晕 (罪恶装备)
-oni_mask,鬼面具
+oni_mask,日本鬼面具
 eyelashes_through_hair,睫毛穿过头发
 blood_from_eyes,眼睛流血
 luna_child,卢娜儿童
@@ -8218,7 +8220,7 @@ muzzle_piercing,枪口穿刺
 warspite_(kancolle),厌战 (舰娘)
 two_tone_feathers,双色羽毛
 store,店铺
-have_to_pee,有尿意
+have_to_pee,有尿意 憋尿
 bandaid_hair_ornament,创可贴发饰
 smaller_intersex,较小的双性人
 swat_kats,斯瓦特猫
@@ -8256,7 +8258,7 @@ plaid_bikini,格子比基尼
 ethan_(pokemon),伊森 (神奇宝贝)
 mineral_fauna,矿物动物群
 purple_claws,紫色爪子
-multicolored_leotard,多彩紧身衣
+multicolored_leotard,多彩 彩色 多色紧身衣
 stuck,卡住
 evangelion:_2.0_you_can_(not)_advance,福音战士新剧场版：2.0 你可以（不）前进 EVA
 species_in_dialogue,对话中的物种
@@ -8357,10 +8359,10 @@ hearts_around_body,心围绕身体
 foot_on_balls,脚踩球
 cheek_poking,戳脸颊
 screencap,屏幕截图
-straddling_paizuri,跨坐式 paizuri
+straddling_paizuri,跨坐 乳交 夹乳 用手将乳房聚拢 波推飞机
 text-only_page,纯文本页面
-multicolored_gloves,多彩手套
-multicolored_footwear,多彩鞋类
+multicolored_gloves,多彩 彩色 多色手套
+multicolored_footwear,多彩 彩色 多色鞋类
 crotchless_clothing,开裆衣
 urusei_yatsura,福星小子
 knotted_humanoid_penis,打结的类人阴茎 屌 鸡巴
@@ -8497,7 +8499,7 @@ standing_on_liquid,站在液体上
 musky_penis,麝香阴茎 屌 鸡巴
 balto_(series),巴尔托（系列）
 tangzhuang,唐庄
-reverse_missionary_position,反向传教士体位
+reverse_missionary_position,反向传教士体位  性姿势
 qiqi_(genshin_impact),qiqi (原神)
 pastel_colors,柔和的色彩
 birth,出生
@@ -8654,7 +8656,7 @@ kanna_kamui,康娜卡姆依《小林家的龙女仆》
 tripping,绊倒
 kirima_syaro,切りなら
 shiratsuyu_(kancolle),白露 (kancolle)
-arm_pull,手臂拉
+arm_pull,手臂拉下扯下
 sunset_shimmer_(eg),落日余晖（例如）
 hladilnik,赫拉迪尔尼克
 sweet_potato,甘薯
@@ -8738,7 +8740,7 @@ bow_(music),弓（音乐）
 multiple_braids,多条辫子
 pink_markings,粉红色标记
 little_busters!_school_uniform,little busters! 校服
-buttoned_cuffs,袖口有纽扣
+buttoned_cuffs,袖口有纽扣 扣子
 striped_sweater,条纹毛衣
 older_on_young,年长者对年轻人
 kiyoshimo_(kancolle),kiyoshimo (舰娘)
@@ -8835,7 +8837,7 @@ d-pad,方向键
 side-tie_leotard,侧系紧身衣
 mismatched_pubic_hair,阴毛不匹配
 goblin,妖精
-fangs_out,露出獠牙
+fangs_out,露出獠牙 虎牙 尖牙
 slap_mark,拍击标记
 darkness_(konosuba),黑暗（konosuba）
 dusk_(arknights),黄昏（明日方舟）
@@ -8853,7 +8855,7 @@ police_officer,警官
 echinoderm,棘皮动物
 nipple_lick,舔乳头
 unzan,云山
-train_position,列车位置
+train_position,列车位置  性姿势
 open_pants,开裤子
 humanoid_genitalia_on_feral,野性人形生殖器
 kid_icarus_uprising,圣光骑士伊卡洛斯起义
@@ -8886,11 +8888,11 @@ lion,狮子
 skull_earrings,骷髅耳环
 fully_clothed_female,穿着整齐的女性
 charizard,喷火龙
-multicolored_antennae,多彩天线
+multicolored_antennae,多彩 彩色 多色天线
 my_little_pony:_friendship_is_magic,我的小马驹：友谊就是魔法
 aircraft_humanoid,飞机人形机器人
 hatsuyuki_(kancolle),初雪 (舰娘)
-bottomwear_pull,底裤拉
+bottomwear_pull,底裤拉下扯下
 chaps,章节
 thick_mustache,浓密的胡子
 blender_(medium),搅拌机（中）
@@ -9106,7 +9108,7 @@ green_claws,绿爪
 pink_claws,粉红色的爪子
 admire_vega_(umamusume),仰慕 vega (umamusume)
 waving_at_viewer,向观众挥手
-after_paizuri,paizuri 之后
+after_paizuri,paizuri之后 夹乳 用手将乳房聚拢 波推飞机
 naked_sheet,裸片
 polo_shirt,马球衫
 yahagi_(kancolle),矢作 (舰娘)
@@ -9143,7 +9145,7 @@ censored_pussy,审查阴部
 excessive_pubic_hair,阴毛过多
 urethral_bulge,尿道膨出
 failure,失败
-multicolored_face,多彩的脸
+multicolored_face,多彩 彩色 多色的脸
 hippogriff,鹰头马身有翼兽
 ouro_kronii_(1st_costume),ouro kronii (第一套服装)
 purple_anus,紫色肛门
@@ -9171,7 +9173,7 @@ akitsu_maru_(kancolle),秋津丸 (舰娘)
 vambrace,臂铠
 twin_turbo_(umamusume),双涡轮（妈妈）
 purple_hoodie,紫色连帽衫
-doyagao,多亚高
+doyagao,"脸表情 ""怎么样?"" 骄傲"
 dewclaw,狼爪
 sports_bikini,运动比基尼
 dinosaur,恐龙
@@ -9197,7 +9199,7 @@ female_rimming_male,女性舔肛 男性
 heaven_burns_red,天堂燃烧着红色
 meandros,梅安德罗斯
 gate,门
-clitoral_fingering,阴蒂指法
+clitoral_fingering,阴蒂指法 指交
 jewelry_only,仅限珠宝
 checkered_kimono,格子和服
 projected_inset,投影插入图
@@ -9343,7 +9345,7 @@ hanekawa_tsubasa,羽川翼
 prunus_(flower),李属植物（花）
 gnoll,豺狼人
 wheel,车轮
-speed_bump_position,减速带位置
+speed_bump_position,减速带位置  性姿势
 pussy_juice_puddle,阴道汁液
 flower_creature,花生物
 i_wani_hug_that_gator,我想拥抱那只鳄鱼
@@ -9360,7 +9362,7 @@ jojo's_bizarre_adventure,jojo的奇妙冒险
 pokemon_horizons,口袋妖怪地平线
 teal_hair,青色头发
 variations,变化
-presenting_foot,先露足
+presenting_foot,呈现 展示 露出脚 足部
 saenai_heroine_no_sodatekata,可爱的女主角的继承者
 butterfly_on_hand,手上的蝴蝶
 ichika_(blue_archive),ichika（碧蓝档案）
@@ -9511,7 +9513,7 @@ mash_kyrielight_(dangerous_beast),mash kyrielight（危险的野兽）
 vulpera,狐人
 veiny_knot,脉结
 mutsuki_(kancolle),mutsuki (舰娘)
-multicolored_mane,多彩鬃毛
+multicolored_mane,多彩 彩色 多色鬃毛
 4_missing_limbs,4条肢体缺失
 tight_foreskin,包皮过紧
 louise_francoise_le_blanc_de_la_valliere,路易丝·弗朗索瓦丝·勒·布兰克·德拉瓦利埃
@@ -9548,7 +9550,7 @@ jaeh,杰赫
 las_lindas,拉斯林达斯
 caninu,卡尼努
 curren_chan_(umamusume),curren chan（妈妈）
-multicolored_legwear,多彩的腿部服饰
+multicolored_legwear,多彩 彩色 多色的腿部服饰
 cum_on_hands,射在手上
 avante92,avante92
 mleonheart,莱昂哈特
@@ -9612,7 +9614,7 @@ mayano_top_gun_(umamusume),mayano top gun (妈妈)
 instagram_logo,Instagram 徽标
 tsumiki_mikan,蜜柑
 hyper_cum,射精过多
-prison_guard_position,狱警岗位
+prison_guard_position,狱警体位  性姿势
 bodice,紧身胸衣
 higashiyama_kobeni,东山小红
 skimpy_bikini,比基尼
@@ -10197,7 +10199,7 @@ bud,芽
 in_bucket,在桶里
 holding_jacket,拿着夹克
 ass_ripple,屁股波纹
-harem_pants,哈伦裤
+harem_pants,舞娘装裤 后宫装
 monster_musume,妖怪娘
 graveyard,墓地
 wrist_guards,护腕
@@ -10313,7 +10315,7 @@ seiun_sky_(umamusume),星云天空（妈妈）
 halberd,戟
 angstrom,埃
 senz,森茨
-button_ears,纽扣耳朵
+button_ears,纽扣 扣子 耳朵
 yae_sakura,八重樱<崩坏3>
 vibrator_in_pussy,阴道振动器
 four_frame_sequence,四帧序列
@@ -10739,7 +10741,7 @@ slightly_chubby_intersex,稍微胖一点的双性人
 icing,糖霜
 handjob_while_penetrating,手淫同时插入
 voyeurism,偷窥癖
-cooperative_paizuri,合作社 paizuri
+cooperative_paizuri,一起合作 夹乳 用手将乳房聚拢 波推飞机
 adam's_apple,喉结
 pokemon_on_shoulder,肩膀上的口袋妖怪
 saliva_on_face,脸上有唾液
@@ -10877,7 +10879,7 @@ kin-iro_mosaic,金黄色马赛克
 disembowell_(modeler),开膛破肚（建模者）
 video_game,电子游戏
 hip_tuft,臀丛
-fingering_through_clothes,隔着衣服指法
+fingering_through_clothes,隔着衣服指法 指交
 yi_sang_(project_moon),李尚 (project moon)
 jewel_buttplug,宝石肛塞
 takeba_yukari,竹叶キャン
@@ -11064,7 +11066,7 @@ stink_fumes,臭气
 momota_kaito,桃田快斗
 hand_on_lap,手放在膝盖上
 soda,苏打
-thighhighs_pull,大腿拉
+thighhighs_pull,大腿袜拉下扯下
 muscular_feral,肌肉野性
 swallowing_sound_effect,吞咽音效
 spiked_shell,带刺的贝壳
@@ -11142,7 +11144,7 @@ tennoji_rina,天王寺莉奈
 black_armband,黑色臂章
 touhou_lostword,东方 失落之语
 suspension_bondage,悬挂束缚
-fleshlight_position,fleshlight 位置
+fleshlight_position,fleshlight 位置  性姿势
 proboscis_(anatomy),喙（解剖学）
 ponytail_ears,马尾耳朵
 simple_coloring,简单着色
@@ -11296,7 +11298,7 @@ shibuya_kanon,涩谷花音
 looking_at_breasts,看着乳房
 split_ponytail,分开的马尾辫
 looking_up_at_partner,抬头看着伴侣
-presenting_cum_inside,呈现内部精液
+presenting_cum_inside,呈现 展示 露出内部精液
 lava,岩浆
 makizushi,卷寿司
 nakano_ichika,中野一佳
@@ -11305,7 +11307,7 @@ cooler,冷却器
 full-package_futanari,全套双性人
 shirayuki_(kancolle),白雪 (舰娘)
 on_motorcycle,骑摩托车
-button_eyes,纽扣眼
+button_eyes,纽扣 扣子 眼睛
 frisk_(undertale),frisk (传说之下)
 breast_cutout,乳房切口
 cursor,光标
@@ -11373,7 +11375,7 @@ thighhighs_over_pantyhose,过膝袜套在连裤袜上
 kemomimi-chan_(naga_u),兽耳酱（naga u）
 finger_ring,戒指
 dominant_humanoid,占主导地位的人形生物
-eyelid_pull,眼睑拉
+eyelid_pull,眼睑拉下
 onegai_my_melody,我的旋律
 morning_glory,喇叭花
 arthropod_webbing,节肢动物织带
@@ -11708,7 +11710,7 @@ race_vehicle,赛车
 kris_(pokemon),克里斯（神奇宝贝）
 round_window,圆窗
 kasugano_sakura,春日樱花
-multicolored_kimono,多彩和服
+multicolored_kimono,多彩 彩色 多色和服
 anchor_print,锚打印
 cat_ear_hairband,猫耳发带
 breast_expansion,乳房扩张
@@ -11780,7 +11782,7 @@ redishdragie,雷迪什德拉吉
 dante_(devil_may_cry),但丁（鬼泣）
 magi_the_labyrinth_of_magic,魔笛magi魔法迷宫
 ahri_(lol),阿狸 (哈哈)
-perpendicular_paizuri,垂直 paizuri
+perpendicular_paizuri,垂直 夹乳 用手将乳房聚拢 波推飞机
 thunderouserections,雷鸣般的勃起
 sakamoto_mio,坂本美绪
 tsukihime_(remake),月姬 (翻拍)
@@ -11942,7 +11944,7 @@ gynomorph/herm,雌雄同体
 repeated_text,重复的文字
 watatsuki_no_yorihime,绵月依姬
 hamaya,哈玛亚
-kimono_pull,和服拉
+kimono_pull,和服拉下扯下
 blue_poison_(arknights),藍色毒藥 (明日方舟騎士)
 kaiju,怪兽
 saber_lily,剑百合
@@ -12080,7 +12082,7 @@ tropical_drink,热带饮料
 text_on_body,正文
 call_of_duty:_modern_warfare_2,使命召唤：现代战争2
 komiya_kaho,小宮花步
-bodyguard_position,保镖岗位
+bodyguard_position,保镖岗位  性姿势
 penis_peek,阴茎 屌 鸡巴窥视
 glistening_tail,闪闪发光的尾巴
 diva_(hyxpk),diva (hyxpk)
@@ -12114,7 +12116,7 @@ blood_on_hand,手上有血
 rokugou_daisuke,六乡大辅
 streetwear,街头服饰
 sperm_cell,精子细胞
-groping_from_behind,从后面摸索
+groping_from_behind,从后面猥亵
 tan_topwear,棕褐色上衣
 noose,套索
 wetsuit,潜水衣
@@ -12181,7 +12183,7 @@ aqua_gloves,水上手套
 silly,愚蠢的
 minamino_kanade,南野奏
 tutu,芭蕾舞裙
-mouth_pull,嘴拉
+mouth_pull,嘴拉下
 siberian_husky,西伯利亚雪橇犬
 saliva_drip,口水滴落
 red_robe,红袍
@@ -12384,7 +12386,7 @@ tail_around_own_leg,尾巴缠绕在自己的腿上
 dandelion,蒲公英
 sakuragi_mano,樱木真乃
 black_thong,黑色丁字裤
-presenting_cloaca,先露泄殖腔
+presenting_cloaca,呈现 展示 露出泄殖腔
 noire_(neptunia),黑色（海王星）
 pink_text,粉红色文字
 long_horn,长角
@@ -12644,7 +12646,7 @@ monster_hunter_rise,怪物猎人崛起
 montgomery_glands,蒙哥马利腺体
 intersex_on_human,双性人
 faun_(spyro),牧神（斯派罗）
-multicolored_underwear,多彩内衣
+multicolored_underwear,多彩 彩色 多色内衣
 eimi_(blue_archive),eimi（碧蓝档案）
 endosoma,内体
 ankama,安卡玛
@@ -12870,7 +12872,7 @@ pussy_juice_on_pussy,阴道汁液在阴道上
 grey_serafuku,灰色 serafuku
 sailor_mercury,水手水星
 patto,帕托
-horn_ring,喇叭环
+horn_ring,角环
 stocky,矮壮
 cracked_wall,墙裂
 peculiart,奇特的
@@ -13035,7 +13037,7 @@ fuuin_no_tsue,风之轨迹
 toilet_use,使用厕所
 pigeon_toed,内八字
 musou_isshin_(genshin_impact),无双一心 (原神)
-multicolored_thigh_highs,多彩过膝袜
+multicolored_thigh_highs,多彩 彩色 多色过膝袜
 hair_on_horn,角上有毛
 thebigbadwolf01,thebigbadwolf01
 hanging_plant,悬挂植物
@@ -13254,11 +13256,11 @@ bullet_hole,枪眼
 theodore_riddle,西奥多·里德尔
 skull_ornament,骷髅饰品
 adjusting_legwear,调整腿部服饰
-presenting_pussy,呈现阴部
+presenting_pussy,呈现 展示 露出阴部
 winnie_the_pooh_(franchise),小熊维尼 (系列)
 mizunashi_akari,水无明里
 nearly_naked_apron,近乎裸体的围裙
-handsfree_paizuri,免提 paizuri
+handsfree_paizuri,免提 夹乳 用手将乳房聚拢 波推飞机
 amami_rantaro,天海连太郎
 yellow_footwear,黄色鞋类
 sleeveless_clothing,无袖衣服
@@ -13637,7 +13639,7 @@ shell_necklace,贝壳项链
 milk_container,牛奶容器
 tk8d32,tk8d32
 procreate_(artwork),繁衍（艺术品）
-buruma_pull,布鲁玛拉
+buruma_pull,布鲁玛拉下扯下
 youjomodoki,尤乔莫多基
 vrchat,聊天室
 marie_(girls_und_panzer),玛丽（少女与战车）
@@ -13780,7 +13782,7 @@ tools,工具
 nanachi,娜娜奇
 hair_dryer,电吹风
 4_panel_comic,四格漫画
-topwear_pull,上衣拉
+topwear_pull,上衣拉下扯下
 tokyo_revengers,东京复仇者
 translated_description,翻译说明
 tsurumaru_kuninaga,鹤丸国永
@@ -13808,7 +13810,7 @@ anti_dev,反开发
 meowscarada,喵喵
 facebook_username,Facebook 用户名
 embroidery,刺绣
-presenting_ass,呈现屁股
+presenting_ass,呈现 展示 露出屁股
 holding_plectrum,握住拨片
 shirt_cuffs,衬衫袖口
 welwraith,韦尔幽灵
@@ -13982,7 +13984,7 @@ passionlip_(fate),激情唇 (命运)
 miku_day,未来日
 bus,公共汽车
 3_horns,号角
-himeko_(honkai:_star_rail),姬子（崩坏：星之铁道）
+himeko_(honkai:_star_rail),姬子（崩坏：星穹铁道）
 elateroid,类风湿性关节炎
 lupin_iii,羽扇豆三世
 breast_milk,母乳
@@ -14079,9 +14081,9 @@ asteroid_ill,小行星病
 gwen_(league_of_legends),格温 (英雄联盟LOL)
 face_mounting,面贴装
 asamura_hiori,浅村日织
-cheek_pull,脸颊拉
+cheek_pull,脸颊拉下
 houndstooth,千鸟格
-presenting_partner,呈现伙伴
+presenting_partner,呈现 展示 露出伙伴
 gyro_zeppeli,旋翼机齐贝利
 food_humanoid,食物人形机器人
 arm_above_head,手臂举过头顶
@@ -14139,7 +14141,7 @@ psy101,psy101
 kazooie,卡祖伊
 chrono_trigger,时空之轮
 fishnet_socks,渔网袜
-naked_overalls,裸体工作服
+naked_overalls,裸体工作服 背带裤
 holding_coin,持有硬币
 fidget_(elysian_tail),坐立不安（极乐尾）
 guided_penetration,引导穿透
@@ -14202,7 +14204,7 @@ aqua_gemstone,海蓝宝石
 hand_to_head,用手触及头
 holding_dildo,拿着假阳具
 latex_body,乳胶身体
-multicolored_scarf,多彩围巾
+multicolored_scarf,多彩 彩色 多色围巾
 interjection,欹
 conker's_bad_fur_day,康克尔糟糕的皮毛日
 agent_8_(splatoon),特工 8 (splatoon)
@@ -14302,7 +14304,7 @@ white_fingers,白手指
 frapowa,弗拉波瓦
 maid_day,女佣日
 amanogawa_kirara,天川ひかなら
-horn_accessory,喇叭配件
+horn_accessory,角配件
 myriapod,多足类
 blaze_(arknights),火焰（明日骑士）
 yamada_anna,山田安娜
@@ -14358,7 +14360,7 @@ striped_genitalia,条纹生殖器
 third-party_watermark,第三方水印
 professor_niyaniya_(blue_archive),niyaniya教授（碧蓝档案）
 cargo_pants,工装裤
-jacket_pull,夹克拉
+jacket_pull,夹克拉下扯下
 meta_knight,元骑士
 otaku,宅男
 <o>_<o>,< 哦 >< 哦
@@ -14465,7 +14467,7 @@ yopparai_oni,尤帕莱奥尼
 mysticalpha,神秘阿尔法
 neck_flower,颈花
 yabuki_kentarou,矢吹健太郎
-bent_spoon_position,弯勺姿势
+bent_spoon_position,弯勺姿势  性姿势
 pichu,比丘
 labbit_(artist),labbit（艺术家）
 purple_text,紫色文字
@@ -14498,7 +14500,7 @@ medial_ringed_humanoid_penis,内侧有环的人形阴茎 屌 鸡巴
 azaleesh,杜鹃花
 tails_(sonic),尾巴（音速）
 tearing_clothing,撕破衣服
-implied_fingering,暗示指法
+implied_fingering,暗示指法 指交
 shiuk,什乌克
 scaramouche_(kabukimono)_(genshin_impact),Scaramouche（歌舞伎物）（原神冲击）
 elaina_(majo_no_tabitabi),elaina (魔女之旅)
@@ -14890,7 +14892,7 @@ precum_on_own_penis,自己的阴茎 屌 鸡巴上射出精液
 intestines,肠子
 mitsumoto_jouji,三本让司
 holding_burger,拿着汉堡
-swimwear_pull,泳衣拉
+swimwear_pull,泳衣拉下扯下
 cum_dumpster,精液垃圾桶
 scribble_censor,涂鸦审查员
 watatsuki_no_toyohime,绵月的丰姬
@@ -14929,7 +14931,7 @@ garfield_(series),加菲猫（系列）
 hello_kitty,凯蒂猫
 tohsaka_tokiomi,远坂时臣
 metal_slug,合金弹头
-male_underwear_pull,男性内裤拉
+male_underwear_pull,男性内裤拉下扯下
 sylphiette_(mushoku_tensei),sylphiette（无色转生）
 crewmate_(among_us),船员（我们之中）
 tsuruya,鹤屋<凉宫春日的忧郁>
@@ -15108,7 +15110,7 @@ grave,严重
 frankenstein's_monster_(fate),弗兰肯斯坦的怪物（命运）
 kagami_hirotaka,鏡神広隆
 3_panel_comic,三格漫画
-leapfrog_position,跃居
+leapfrog_position,跃居  性姿势
 garnet_til_alexandros_xvii,石榴石至亚历山大十七世
 gwen_stacy,格温·史黛西
 polar_bear,白熊
@@ -15119,7 +15121,7 @@ white_stripes,白色条纹
 outis_(project_moon),outis（月球计划）
 newt,蝾螈
 twin_hair_bows,双发蝴蝶结
-multicolored_bottomwear,多彩的底裤
+multicolored_bottomwear,多彩 彩色 多色的底裤
 sheathed_while_penetrated,被刺穿时被护套
 6_nipples,个乳头
 pineapple,菠萝
@@ -15218,7 +15220,7 @@ minotaur,牛头怪
 shoulder_bite,肩部咬伤
 high_heeled_sandals,高跟凉鞋
 tan_sheath,棕褐色鞘
-nipple_pull,乳头拉扯
+nipple_pull,乳头拉下扯下
 secretary_bird,秘书鸟
 arachne,蛛形纲
 92m,92 分钟
@@ -15422,7 +15424,7 @@ hori_(hori_no_su),hori_(hori_no_su)《单风格艺术画师》
 apron_lift,停机坪升降机
 negative_space,负空间
 ness_(mother_2),ness（母亲 2）
-multicolored_hat,多彩帽子
+multicolored_hat,多彩 彩色 多色帽子
 antique_phone,古董电话
 white_dress_shirt,白色正装衬衫
 pelt,毛皮
@@ -15461,7 +15463,7 @@ aoshima,大岛
 penis_in_tentacle,触手中的阴茎 屌 鸡巴
 green_one-piece_swimsuit,绿色连体泳衣
 amniotic_fluid,羊水
-multicolored_tail,多彩的尾巴
+multicolored_tail,多彩 彩色 多色的尾巴
 popped_button,弹出按钮
 caliburn_(fate),卡利本（命运）
 arm_around_back,双手环抱后背
@@ -15539,7 +15541,7 @@ female_goblin,女妖精
 sports_bra_lift,掀开掀起 运动胸罩
 yorumi_rena,夜エリナ
 checkered_shirt,格纹衬衫
-jockey_position,骑师位置
+jockey_position,骑师位置  性姿势
 gyaru_v,辣妹
 undressing_self,脱衣服
 sandalphon_(granblue_fantasy),sandalphon（碧蓝幻想）
@@ -15740,7 +15742,7 @@ shark_humanoid,鲨鱼人形生物
 gymnastics,体操
 guard_rail,护栏
 armwear_only,仅限臂饰
-sweatshirt,运动衫
+sweatshirt,运动衫 卫衣
 devil_may_cry_5,鬼泣5
 roboco-san,羅博科桑
 ecmajor,电子商务专业
@@ -15749,7 +15751,7 @@ looking_up_at_another,抬头看着另一个
 no_mole,没有痣
 nebula,星云
 raccoon,狸
-multicolored_hairband,多彩发带
+multicolored_hairband,多彩 彩色 多色发带
 berserker_(fate/zero),狂战士 (命运/零)命运之夜
 black-kitten,黑色小猫
 blue_t-shirt,蓝色 T 恤
@@ -15845,7 +15847,7 @@ prinz_eugen_(unfading_smile)_(azur_lane),欧根亲王（不褪色的微笑）（
 contrast,对比
 malicekira,马利切基拉
 ring_gag,口塞
-ear_pull,耳拉
+ear_pull,耳拉下
 scottie_(phantom2),斯科蒂（phantom2）
 bathrobe,浴衣
 tokisadame_school_uniform,时定校服
@@ -15923,7 +15925,7 @@ violet_evergarden,薇尔莉特·伊芙加登 <紫罗兰永恒花园>
 stella_(gvh_beta),stella (gvh 测试版)
 niwarhythm,尼瓦节奏
 mordred_(memories_at_trifas)_(fate),莫德雷德（特里法斯的回忆）（命运）
-anthro_fingering,拟人指法
+anthro_fingering,动物指法 指交
 panties_under_buruma,布鲁玛下面的内裤
 rambley_raccoon,浣熊
 anzio_military_uniform,安齐奥军装
@@ -16145,7 +16147,7 @@ denizen1414,居民1414
 yamagumo_(kancolle),山云
 king_hassan_(fate),哈桑国王（命运）
 master_detective_archives:_rain_code,侦探大师档案：雨密码
-presenting_breasts,乳房露出
+presenting_breasts,呈现 展示 露出 乳房露出
 lipstick_on_balls,球上的口红
 teeth_hold,牙齿紧咬
 uryuu_ryuunosuke,雨龙之介
@@ -16378,7 +16380,7 @@ night_raven_college_uniform,夜渡鸦 学院 制服
 skinny_anthro,瘦弱的人类学
 japari_bun,日式面包
 toes_tied,脚趾被绑住
-step_position,步进位置
+step_position,步进位置  性姿势
 inside_mouth,口腔内
 gold_city_(umamusume),黄金城（妈妈）
 on_tongue,在舌头上
@@ -16566,7 +16568,7 @@ abmayo,阿布马约
 titfuck_under_clothes,衣服下的乳交
 odawara_hakone,odawara 不可用
 aurora_(phenomenon),极光现象
-amazon_position,亚马逊立场
+amazon_position,亚马逊立场  性姿势
 2_frame_animation,2帧动画
 lifting_partner,起重伙伴
 samuel_b._roberts_(kancolle),塞缪尔湾罗伯茨（cancolle）
@@ -16655,7 +16657,7 @@ unzipped_pants,拉开拉链的裤子
 alvin_and_the_chipmunks,艾尔文与花栗鼠
 lapras,拉普拉斯
 corruption_of_champions,冠军腐败
-toe_cleavage,趾裂
+toe_cleavage,趾乳沟
 hoshimachi_suisei_(casual),星町休闲
 cure_melody,治愈旋律
 tadatomo_(tas),忠友（tas）
@@ -16740,7 +16742,7 @@ wingedwilly,翼威利
 narancia_ghirga,纳兰恰吉尔加
 anna_(frozen),安娜（冰雪奇缘）
 sayagata,沙阿加塔
-anby_demara,安比·德玛拉（Anby Demara）绝区零
+anby_demara_(zenless_zone_zero),安比·德玛拉（Anby Demara）绝区零
 jun_(navigavi),jun (导航)
 implied_masturbation,暗示手淫
 oka_asahi,冈朝日
@@ -16941,7 +16943,7 @@ kami_jigen_game_neptune_v,我们是游戏海王星v
 dirtymac,肮脏的麦克
 tenken_(gotannda),tenken（gotannda）
 wide_oval_eyes,宽大的椭圆形眼睛
-black_babydoll,黑色娃娃装
+black_babydoll,黑色情趣睡衣
 prehensile_clitoral_hood,阴蒂包皮
 checkered_dress,格纹连衣裙
 armored_leotard,装甲紧身衣
@@ -16986,7 +16988,7 @@ booth_seating,展位座位
 ganguro,黑妹
 danaume,达瑙梅
 monkey_boy,猴男孩
-white_babydoll,白色娃娃装
+white_babydoll,白色情趣睡衣
 yuuji_(yukimimi),yuuji（雪耳）
 throwing_knife,飞刀
 layla_(genshin_impact),莱拉 (原神)
@@ -17032,11 +17034,11 @@ worldwide_miku,全球初音未来
 sugiura_ayano,杉浦绫乃
 hashtag,井号
 ryugasaki_rene,龍崎玲奈
-fanged_bangs,獠牙刘海
+fanged_bangs,獠牙尖牙 刘海
 deadnooodles,deadnooodles《单风格艺术画师》
 rengar_(lol),雷恩加尔 (哈哈)
 wendell_(fortnite),温德尔（堡垒之夜）
-multicolored_hoodie,多彩连帽衫
+multicolored_hoodie,多彩 彩色 多色连帽衫
 mykegreywolf,韓國
 inside_clothing,衣服里面
 grid,网格
@@ -17046,7 +17048,7 @@ fascinator,迷人之处
 zerofox1000,零狐1000
 chochi,乔奇
 babs_bunny,宝宝小兔
-horn_grab,喇叭抓取
+horn_grab,角抓取
 holding_both_thighs,抱住双腿
 black_jumpsuit,黑色连身裤
 blattodea,蜚蠊目
@@ -17457,7 +17459,7 @@ konnyaku_(kk-monmon),魔芋（kk-monmon）
 white_rabbit_(alice_in_wonderland),白兔（爱丽丝梦游仙境）
 nika_sharkeh,妮卡·沙尔克
 satsumalord,萨摩领主
-multicolored_beak,多彩的喙
+multicolored_beak,多彩 彩色 多色的喙
 anatomically_inaccurate,解剖学上不准确
 bb_(swimsuit_mooncancer)_(second_ascension)_(fate),bb（泳装月癌）（二次升天）（命运）
 alternate_wings,替代翼
@@ -17762,7 +17764,7 @@ white_speech_bubble,白色气泡
 kabocha_torute,南瓜
 tieria_erde,蒂埃里亚·埃尔德
 tablet_computer,平板电脑
-clone_harem,克隆后宫
+clone_harem,克隆后宫装
 nardack,nardack《单风格艺术画师》
 st._louis_(luxurious_wheels)_(azur_lane),圣路易斯 (豪华轮子) (azur lane)
 striped_swimwear,条纹泳衣
@@ -17970,7 +17972,7 @@ camychan,卡米昌
 panda_hood,熊猫头罩
 sailor_moon_(series),美少女战士（系列）
 grandia,格兰迪亚
-male_fingering_male,男性指法男性
+male_fingering_male,男性指法男性 指交
 mel_(melty_pot),mel（融化锅）
 afterglow,余辉
 tea_bagging,茶叶袋
@@ -18137,7 +18139,7 @@ drill_curls,钻弯举
 raised_dress,凸起连衣裙
 eyes_rolling_back,眼睛往上翻
 mal0,mal0
-multicolored_bowtie,多彩领结
+multicolored_bowtie,多彩 彩色 多色领结
 arcade_cabinet,街机柜
 himeragoldtail,金尾草
 stated_incest,乱伦
@@ -18335,7 +18337,7 @@ red_candle_games,红蜡烛游戏
 head_steam,头部蒸汽
 raptor7,猛禽7
 small_ears,小耳朵
-peeing_while_penetrated,插入时撒尿
+peeing_while_penetrated,插入时撒尿 潮吹 高潮
 ill,患病的
 nakagawa_natsuki,中川菜月
 koizumi_mahiru,小泉真昼
@@ -18594,7 +18596,7 @@ reisen_(touhou_bougetsushou),铃仙 (东方防月抄)
 smoke_from_nose,鼻子冒烟
 hand_on_own_crotch,手放在自己的裤裆上
 joker_(persona_5),小丑（女神异闻录 5）
-anal_bead_pull,肛门珠拉
+anal_bead_pull,肛门珠拉下扯下
 honey_strap,蜂蜜带
 mignon,mignon《单风格艺术画师》
 grey_hands,灰色的手
@@ -18629,11 +18631,11 @@ paul_bunyan_(fate),保罗·班扬（命运）
 see-through_sarong,透明纱笼
 wildstar,狂野之星
 dire_machine,恐怖机器
-flesh_fang,肉牙
+flesh_fang,肉牙 牙齿
 jrjresq,留言反馈
 takanashi_kiara_(casual),takanashi kiara (休闲)
 celebi,凯莱比
-horn_hairband,牛角发带
+horn_hairband,角发带
 donquixote_doflamingo,堂吉诃德·多弗朗明哥
 cum_on_fur,射在毛上
 komusou_(jinrikisha),小無辦（人力車）
@@ -19106,7 +19108,7 @@ rikatan,接触
 ring_necklace,戒指 项链
 yanami_anna,むナナ
 tickling_armpits,挠腋窝
-overalls_only,仅限工作服
+overalls_only,仅限工作服 背带裤
 the_giant_hamster,巨型仓鼠
 strong,强的
 gang_rape,轮奸
@@ -19142,7 +19144,7 @@ yuki_(evov1),雪 (evov1)
 dramamine,晕车药
 tail_in_own_ass,尾巴插在自己的屁股里
 mtu_virus,mtu病毒
-paizuri_invitation,paizuri 邀请
+paizuri_invitation,夹乳 用手将乳房聚拢 波推飞机 邀请
 daring_do_(mlp),勇敢做 (mlp)
 exoskeleton,外骨骼
 reverse_fellatio,反向口交
@@ -19164,7 +19166,7 @@ hands_on_another's_waist,双手放在别人的腰上
 red_camisole,红色吊带背心
 yun_jin_(genshin_impact),云锦（原神）
 erlenmeyer_flask,锥形瓶
-suspenders_slip,吊带滑
+suspenders_slip,吊带 背带 滑
 virtuareal,虚拟现实
 kredri,信用
 pillowymounds,枕丘
@@ -19554,7 +19556,7 @@ double_oral,双口
 adsouto,广告
 living_room,客厅
 cupcake_(fnaf),纸杯蛋糕 (fnaf)
-sock_pull,袜子拉
+sock_pull,袜子拉下扯下
 multicolored_flower,五彩花
 angel_devil_(chainsaw_man),天使魔鬼（电锯人）
 feet_together_knees_apart,双脚并拢，膝盖分开
@@ -19565,7 +19567,7 @@ k_hiro,韓希羅
 assisted_rape,协助强奸
 togepi,托盖皮
 rhine_lab_logo,莱茵实验室徽标
-multicolored_armwear,多彩臂饰
+multicolored_armwear,多彩 彩色 多色臂饰
 mask_lift,掀开掀起 面罩
 biting_another,咬另一只
 gravity_daze,重力眩晕
@@ -19676,7 +19678,7 @@ teil,泰伊尔
 amazuyu_tatsuki,amazuyu tatsuki《单风格艺术画师》
 living_toy,活体玩具
 lain_paterson,莱恩·帕特森
-black_overalls,黑色工作服
+black_overalls,黑色工作服 背带裤
 swablu,斯瓦布卢
 miyamoto_iori_(fate),宫本八神（命运）
 agrias_oaks,阿格里亚斯橡树
@@ -19887,7 +19889,7 @@ dragon_ball_super_super_hero,龙珠超超级英雄
 two_tone_arms,双音臂
 vertical_bar_eyes,竖条眼
 mia_(fire_emblem),mia（火焰之纹章）
-carrying_position,携带位置
+carrying_position,携带位置  性姿势
 polka_dots,波尔卡圆点
 snow_globe,雪球
 crotch_apron,裆部围裙
@@ -20116,7 +20118,7 @@ suit_transformation,套装改造
 log_horizon,对数地平线
 yellow_cloak,黄色斗篷
 implied_extra_ears,暗示额外的耳朵
-presenting_removed_panties,展示脱下的内裤
+presenting_removed_panties,呈现 展示 露出脱下的内裤
 hieroglyphics,象形文字
 furronika,弗罗尼卡
 distorted_contour,扭曲的轮廓
@@ -20229,7 +20231,7 @@ purple_face,紫脸
 mash_kyrielight_(swimsuit_of_perpetual_summer),mash kyrielight（永恒之夏的泳衣）
 setsuna_f._seiei,刹那 F 诚荣
 fab3716,fab3716
-lying_and_blow_position,躺卧吹气姿势
+lying_and_blow_position,躺卧吹气姿势  性姿势
 jtveemo,韓國電腦
 aristocratic_clothes,贵族服饰
 holding_candy_apple,拿着苹果糖
@@ -20930,7 +20932,7 @@ adult_on_baby,成人对婴儿
 commissioner_insert,专员插入
 feces_on_body,身体上的粪便
 shuangyaji,双鸭鸡
-reverse_piledriver_position,反向打桩机位置
+reverse_piledriver_position,反向打桩机  性姿势
 allosaurid,异特龙科
 torn_socks,袜子破了
 kaname_madoka_(cosplay),鹿目圆 (角色扮演)
@@ -21065,7 +21067,7 @@ pozyomka_(arknights),明日方舟
 racing_suit,赛车服
 souryuu_asuka_langley_(cosplay),惣流（式波）·明日香·兰格雷（角色扮演）EVA
 cum_in_water,射在水里
-harem_jewelry,后宫珠宝
+harem_jewelry,后宫装 珠宝 舞娘装
 kamen_rider_revice,假面骑士Reveice
 touwa_erio,東和绘里奧
 mutsuki_kai_ni_(kancolle),睦月改二 (舰娘)
@@ -21229,7 +21231,7 @@ purple_headband,紫色头带
 fungi_humanoid,真菌类人生物
 ponporio,蓬波里奥
 steven_universe,史蒂文宇宙
-multicolored_thigh_socks,多彩过膝袜
+multicolored_thigh_socks,多彩 彩色 多色过膝袜
 douki-chan_(douki-chan),douki-chan（douki-chan）
 cad_(caddo),cad（caddo）
 apex_build_koraidon,apex build koraidon
@@ -21316,7 +21318,7 @@ hero,英雄
 animal_print_thigh_highs,动物图案过膝长筒袜
 bus_interior,巴士内饰
 clothed_robot,穿衣服的机器人
-multicolored_necktie,多彩领带
+multicolored_necktie,多彩 彩色 多色领带
 announcement_celebration,公告庆典
 sapphire_(gem),蓝宝石（宝石）
 kawashima_ami,川岛マネマ
@@ -21503,7 +21505,7 @@ masayo_(gin_no_ame),masayo (银之雨)
 homu,霍穆
 yamada_aoi,山田葵
 holding_arms,持有武器
-presenting_mouth,呈递口
+presenting_mouth,呈现 展示 露出 嘴巴 口中
 inflatable_whale,充气鲸鱼
 hasegawa_kobato,长谷川小鸠
 courtney_(pokemon),考特尼 (神奇宝贝)
@@ -21561,7 +21563,7 @@ mamemaki,豆卷
 prey_penetrating_predator,猎物穿透捕食者
 selvaria_bles,塞尔瓦里亚·布莱斯
 suikawari,打西剛
-horn_flower,牛角花
+horn_flower,角花
 amberpendant,琥珀吊坠
 pregnant_andromorph,怀孕的雄激素
 kayamori_ruka,櫻森流花
@@ -21647,7 +21649,7 @@ lunaris_parukia,月神花
 hairless_tail,无毛的尾巴
 morrigan_aensland_(cosplay),莫里甘·安斯兰特（角色扮演）
 iahfy,伊阿菲
-presenting_panties,展示内裤
+presenting_panties,呈现 展示 露出内裤
 vestia_zeta,维斯蒂亚·泽塔
 michii_yuuki,道井优希
 sailoranna,水手安娜
@@ -21786,7 +21788,7 @@ amazon_(dragon's_crown),亚马逊（龙之冠）
 pinup_(style),海报女郎（风格）
 blokfort,布洛克福特
 yellow_cum,黄色精液
-arch_position,拱形位置
+arch_position,拱形位置  性姿势
 phathusa,帕图萨
 darkmaya,暗黑魔女
 higgyy,希吉
@@ -22342,7 +22344,7 @@ foxinuhhbox,狐狸盒子
 yagami_light,八神之光
 dicknipples,阴茎 屌 鸡巴乳头
 severed_hair,断掉的头发
-surtr_(colorful_wonderland)_(arknights),surtr（多彩仙境）（明日方舟）
+surtr_(colorful_wonderland)_(arknights),surtr（多彩 彩色 多色仙境）（明日方舟）
 kar98k_(girls'_frontline),kar98k（少女前线）
 peach_(fruit),桃子（水果）
 brushing_own_hair,梳理自己的头发
@@ -22482,7 +22484,7 @@ air_creature,空气生物
 niko_(blue_archive),niko（碧蓝档案）
 cheshire_cat_(species),柴郡猫（种）
 toukaairab,图凯拉布
-big_fangs,大獠牙
+big_fangs,大獠牙 牙齿
 married,已婚
 udagawa_tomoe,宇达川朋惠
 butt_lick,舔屁股
@@ -22850,7 +22852,7 @@ red_t-shirt,红色 T 恤
 countershade_snout,反荫口
 egg_yolk,蛋黄
 sword_of_st._catherine_(fate),圣凯瑟琳之剑（命运）
-multicolored_handwear,多彩手饰
+multicolored_handwear,多彩 彩色 多色手饰
 aikatsu_friends!,偶像活动朋友们！
 mimic_chest,模仿胸
 penis_riding,阴茎 屌 鸡巴骑乘
@@ -22969,7 +22971,7 @@ saitou_masatsugu,斋藤政嗣
 shaped_balloon,异形气球
 anmi,anmi《单风格艺术画师》
 hanae_(blue_archive),hanae（碧蓝档案）
-multicolored_shoes,多彩的鞋子
+multicolored_shoes,多彩 彩色 多色的鞋子
 hounori,霍诺里
 brown_bodysuit,棕色紧身衣
 azumi_(myameco),azumi (myameco)
@@ -23116,7 +23118,7 @@ irish_mythology,爱尔兰神话
 nemophila_(flower),粉蝶花（花）
 hololive_en,hololive zh
 heterochromatic_eyewear,异色眼镜
-glove_pull,手套拉
+glove_pull,手套拉下扯下
 koi_wa_sensou_(vocaloid),恋は感す (vocaloid)
 david_martinez,大卫·马丁内斯
 land_forme_shaymin,土地形态谢敏
@@ -23143,7 +23145,7 @@ riding_on_back,骑在背上
 katayama_kei,片山圭
 tail_over_skirt,裙子上的尾巴
 blue_blood,蓝血
-multicolored_butt,多彩屁股
+multicolored_butt,多彩 彩色 多色屁股
 mashiro_(blue_archive),mashiro（碧蓝档案）
 green_tongue,绿舌头
 chi-class_torpedo_cruiser,芝级鱼雷巡洋舰
@@ -23178,7 +23180,7 @@ canada_lynx,加拿大猞猁
 stanley_lau,刘展灏
 russian_blue,俄罗斯蓝
 colored_eyepatch,彩色眼罩
-unbuttoned_pants,解开裤子
+unbuttoned_pants,解开裤子的纽扣 解开扣子解开纽扣开扣
 :s,：秒
 redcomet,红彗星
 white_dog,白狗
@@ -23435,7 +23437,7 @@ hay,干草
 yellow_bandana,黄色头巾
 wonderslug,奇迹
 kyogoku_shin,京极新
-wheelbarrow_position,手推车位置
+wheelbarrow_position,老汉推车  性姿势
 fake_video,假视频
 zuwai_kani,逃出蟹壳
 mochizuki_ryouji,望月凉二
@@ -23653,7 +23655,7 @@ arizonathevixen,arizonathevixen
 string_bow,弦弓
 yuri_kyanon,尤里·卡亚农
 naughtymorg,顽皮的
-green_overalls,绿色工作服
+green_overalls,绿色工作服 背带裤
 luck_(animancer),运气（化灵师）
 amane_hasuhito,天音莲人
 final_space,最后的空间
@@ -23826,7 +23828,7 @@ hockey_mask,曲棍球面具
 lilith_calah,莉莉丝·卡拉
 mishima_kazuya,三岛和也
 steam_locomotive,蒸汽机车
-implied_paizuri,暗示的paizuri
+implied_paizuri,暗示夹乳 用手将乳房聚拢 波推飞机
 heart_boxers,心脏拳击手
 clothing_grab,衣服抢
 stretched_urethra,尿道拉伸
@@ -24166,7 +24168,7 @@ amakusa_shirou_(fate),天草四郎 (命运)
 ncs,国家计算机系统
 monori_rogue,莫诺里盗贼
 bubble_bath,泡泡浴
-bikini_top_pull,比基尼上衣
+bikini_top_pull,比基尼上衣拉下扯下
 supercell_(company),超级单体（公司）
 mabel_able,梅布尔·艾布尔
 asking_why,问为什么
@@ -24520,7 +24522,7 @@ reku,雷库
 cherrikissu,切里基苏
 queen_of_sheba_(fate),示巴女王（命运）
 amagi-chan_(azur_lane),amagi-chan (碧蓝航线)
-male_fingering_female,男性 指法 女性
+male_fingering_female,男性 指法 女性 指交
 vonboche,冯博什
 tachibana_makoto,橘真琴
 phone_booth,电话亭
@@ -24621,7 +24623,7 @@ hume,休谟
 nemes_(clothing),尼美斯（服装）
 takozonesu,つこがそば
 nagato_kai_ni_(kancolle),长门改二 (舰娘)
-grey_overalls,灰色工作服
+grey_overalls,灰色工作服 背带裤
 ibara_mayaka,井原真也
 midna_(true),midna（真）
 hijikata_toshizou_(fate),土方岁三 (fate)
@@ -24842,7 +24844,7 @@ ore_twintail_ni_narimasu,我的双马尾
 yuuki_rika,结城梨香
 tonarikeru,托纳里克鲁
 front-tie_clothing,前系带服装
-suspenders_pull,吊带拉
+suspenders_pull,吊带 背带 拉下扯下
 mochizuki_shiina,mochizuki_shiina《单风格艺术画师》
 glistening_bottomwear,闪亮的裤子
 lotusgarden,莲花园
@@ -25107,7 +25109,7 @@ kamen_rider_dcd,室内骑手 dcd
 papi_(monster_musume),帕皮 (魔物娘)
 devo87,devo87
 kakizaki_(chou_neji),柿崎（水白菜）
-t_square_position,丁字方位置
+t_square_position,丁字方  性姿势
 christmas_topwear,圣诞上装
 takanashi_ringo,高梨戒指
 electrode,电极
@@ -25293,7 +25295,7 @@ kirito_(sao-ggo),kirito（sao-ggo）
 kurotofu,黑豆腐
 himimi,実みほみ
 theblackrook,黑鸦
-fingering_from_behind,从后面指法
+fingering_from_behind,从后面指法 指交
 shortalls,短裤
 flower_bed,花坛
 dashie116,达西116
@@ -25311,7 +25313,7 @@ freng,freng《单风格艺术画师》
 unworn_crown,未佩戴的王冠
 rock_paper_scissors,石头剪刀布
 constructed_language,构建语言
-full_nelson_position,全尼尔森位置
+full_nelson_position,全尼尔森  性姿势
 fungi_(genshin_impact),真菌（原神）
 seiren_academy_school_uniform,圣莲学院校服
 horrified,惊恐
@@ -25389,7 +25391,7 @@ fishnet_handwear,渔网手套
 apple_slice,苹果片
 glitched_securitron,故障的安保机器
 salmonid_(splatoon),鲑鱼（splatoon）
-multicolored_sky,多彩的天空
+multicolored_sky,多彩 彩色 多色的天空
 tsukudani_norio,佃谷则夫
 jade_(honkai:_star_rail),翡翠（崩坏：星穹铁道）
 bestiality_kiss,兽交之吻
@@ -25831,7 +25833,7 @@ hinata_yukari,日向由香里
 billy_kid,比利·奇德（Billy Kid）绝区零
 giraffe,长颈鹿
 arceus,阿尔宙斯
-multicolored_skinsuit,多彩紧身衣
+multicolored_skinsuit,多彩 彩色 多色紧身衣
 penis_bite,阴茎 屌 鸡巴咬伤
 hand_on_pecs,手放在胸肌上
 one_after_another,先后
@@ -25915,7 +25917,7 @@ oscillating_fan,摇头风扇
 pusspuss,猫猫
 clothes_in_front,前面的衣服
 lacing,系带
-cradle_position,摇篮位置
+cradle_position,摇篮  性姿势
 blazblue:_central_fiction,蜃翼默示錄：中心虛構
 mustelid_humanoid,鼬科人形生物
 sido_(slipknot),sido (活结)
@@ -26061,7 +26063,7 @@ hyakkaou_academy_school_uniform,百花王学园 校服
 water_slide,水滑梯
 autofacial,自体面部
 cranebear,鹤熊
-pink_babydoll,粉色娃娃装
+pink_babydoll,粉色情趣睡衣
 beyblade,陀螺战士
 instruction_on_body,身体上的指示
 tour_guide,导游
@@ -26287,7 +26289,7 @@ serasuku,瑟拉苏库
 taking_shelter,寻求庇护
 ero_(erobos),ero (erobos)
 foregrip,前握把
-multicolored_headwear,多彩头饰
+multicolored_headwear,多彩 彩色 多色头饰
 purple_suit,紫色西装
 genre_connection,类型连接
 science_babies,科学宝宝
@@ -26604,7 +26606,7 @@ yoshizawa_tsubaki,吉沢椿
 kuroran,黑兰
 takano_miyo,高野美代
 kiryu_coco_(loungewear),kiryu coco (家居服)
-unusual_position,不寻常的位置
+unusual_position,不寻常的  性姿势
 xu_fu_(fate),徐福
 pegging,挂钩
 squeaking,吱吱作响
@@ -26869,7 +26871,7 @@ pink_cloaca,粉红色泄殖腔
 tailtufts,尾簇
 borrowed_hairstyle,借来的发型
 gift_wrapping,礼品包装
-bloomers_pull,灯笼裤拉
+bloomers_pull,灯笼裤拉下扯下
 shamisen,三味线
 precum_through_clothes,透过衣服射出的精液
 jonty,琼蒂
@@ -27001,12 +27003,12 @@ adjusting_another's_hair,调整他人的头发
 artoria_pendragon_(swimsuit_archer)_(fate),阿尔托莉雅·潘德拉贡 (泳装弓箭手) (命运)
 radish_p,萝卜
 fainting,昏厥
-horn_(instrument),喇叭（乐器）
+horn_(instrument),角（乐器）
 orange_trim,橙色装饰
 nea_(chihuri),nea（奇胡里语）
 brown_beak,棕色喙
 bones_in_stomach,胃里的骨头
-sit_and_blow_position,坐吹姿势
+sit_and_blow_position,坐吹姿势  性姿势
 terraria,玻璃容器
 vsk-94_(girls'_frontline),vsk-94（少女前线）
 sea_salt,海盐
@@ -27066,7 +27068,7 @@ loose_bikini,宽松比基尼
 saidra,说
 body_in_anus,肛门内有异物
 komori_kiri,小森切
-yellow_overalls,黄色工作服
+yellow_overalls,黄色工作服 背带裤
 notched_fin,缺口鳍
 military_clothing,军装
 open-back_swimsuit,露背泳衣
@@ -27322,7 +27324,7 @@ blue_rose_(tiger_&_bunny),蓝玫瑰（老虎与兔子）
 izuku_midoriya,绿谷
 afro_puffs,蓬蓬头
 pride_color_piercing,骄傲色彩穿孔
-presenting_genitalia,生殖器呈现
+presenting_genitalia,生殖器呈现 展示 露出
 humanoid_penis_on_feral,野性人形阴茎 屌 鸡巴
 stick_figure,简笔画
 monotone_briefs,单色调三角裤
@@ -27452,7 +27454,7 @@ sesield,塞希尔德
 indominus_rex,暴虐霸王龙
 empty_pool,空池
 pettan_p,佩坦 p
-non_oviparous_oviposition,非卵生产卵
+non_oviparous_oviposition,非卵生产卵  性姿势
 ezreal,埃兹雷亚尔
 monobe_yuri,物部由莉
 parody_request,模仿请求
@@ -27569,7 +27571,7 @@ pancaketiffy,煎饼蒂菲
 holding_magazine,拿着杂志
 drum_bunker_dragon,鼓碉堡龙
 goback,返回
-cleavage_reach,卵裂范围
+cleavage_reach,乳沟范围
 omamori_himari,御守绯鞠
 whitesmith_(ragnarok_online),白匠（仙境传说）
 usami_ichika,宇佐美一香
@@ -27702,7 +27704,7 @@ cutlass,弯刀
 craft_lawrence,克拉夫特劳伦斯
 usami_(danganronpa),宇佐美 (弹丸论破)
 musuko_ga_kawaikute_shikatanai_mazoku_no_hahaoya,可爱的小鹿的魔族的哈哈屋
-victory_position,胜利位置
+victory_position,胜利位置  性姿势
 gulp_(sound_effect),吞咽（音效）
 backless_shirt,露背衬衫
 north_american_river_otter,北美水獭
@@ -27801,7 +27803,7 @@ tibetan_mountain_dog,藏山犬
 oversized_flower,超大花朵
 takao_(aoki_hagane_no_arpeggio),takao（青木羽根的琶音）
 kouyouen_academy_school_uniform,光耀园学院 校服
-bike_shorts_pull,自行车短裤拉
+bike_shorts_pull,自行车短裤拉下扯下
 floatie,浮标
 hand_under_swimsuit,泳衣下面的手
 sincrescent,呈新月状
@@ -27981,7 +27983,7 @@ camus_(dq11),加缪（dq11）
 seelie_(genshin_impact),西莉（原神）
 kamen_rider_01_(series),假面骑士01（系列）
 melianah,梅利雅娜
-guard_position,后卫位置
+guard_position,后卫位置  性姿势
 spider-man_(2099),蜘蛛侠（2099）
 chigasaki_yukari,茅崎由香里
 marugoshi_teppei,丸越鐵平
@@ -28020,7 +28022,7 @@ yellow_jacket_(clothing),黄夹克（衣服）
 togruta,托格鲁塔
 sword_art_online:_alicization_-_war_of_underworld,刀剑神域 Alicization 冥界之战
 mega_mewtwo,超级超梦
-presenting_buttplug,呈现肛塞
+presenting_buttplug,呈现 展示 露出肛塞
 mocchi_(mocchichani),莫奇（mocchichani）
 ambiguous_on_bottom,底部模糊
 hinoka_(fire_emblem),日乃香 (火焰之纹章)
@@ -28248,7 +28250,7 @@ ashley-arctic-fox,ashley-北极狐
 meloetta,美洛耶塔
 ameto_yuki,雨人雪
 ewgengster,埃格斯特
-multicolored_buttons,多彩按钮
+multicolored_buttons,多彩 彩色 多色按钮
 nena_trinity,三位一体
 tsukemon,附門
 snips_(mlp),剪辑（mlp）
@@ -28389,7 +28391,7 @@ hyena_tail,鬣狗尾巴
 huge_deltoids,巨大的三角肌
 eye_of_senri,千里之眼
 green_buruma,绿色布鲁玛
-naked_suspenders,裸吊带
+naked_suspenders,裸 单一 吊带 背带
 nabeshima_tetsuhiro,锅岛哲宏
 voltron:_legendary_defender,战神金刚：传奇守护者
 ox_horns,牛角
@@ -28658,7 +28660,7 @@ vulapa,信封
 remote_controlled_vibrator,遥控振动器
 ship's_wheel,船舵
 emyo,埃米
-horn_play,吹喇叭
+horn_play,吹号角
 yuusha_ou_gaogaigar,勇者或恶人
 cracked_screen,屏幕破裂
 cum_in_tentacles,触手中射精
@@ -28771,7 +28773,7 @@ camera_flash,相机闪光灯
 alexmaster,亚历克斯马斯特
 standing_on_object,站在物体上
 potoobrigham,波图布里格姆
-multicolored_swimwear,多彩泳衣
+multicolored_swimwear,多彩 彩色 多色泳衣
 kuribon,栗坂
 kanna_(blaster_master),卡娜 (爆能大师)
 smooch_(sound_effect),亲吻（音效）
@@ -28780,7 +28782,7 @@ reona_west,雷奥纳西部
 masanaga_(tsukasa),正永（司）
 osprey,鱼鹰
 hypnotic_clothing,催眠服装
-brown_overalls,棕色工作服
+brown_overalls,棕色工作服 背带裤
 index_to_index,索引到索引
 errant,错误的
 beanie_only,仅限无檐小帽
@@ -28822,7 +28824,7 @@ fakepucco,假普科
 thomasz,托马斯
 twink_protagonist_(tas),twink 主角 (tas)
 alternative_girls,另类女孩
-anal_oviposition,肛门产卵
+anal_oviposition,肛门产卵  性姿势
 urethral_plug,尿道塞
 barista,调酒师
 kairakuen_umenoka,偕乐园梅冈
@@ -29194,7 +29196,7 @@ ariane_yeong,阿丽亚娜
 ch'en_(ageless_afterglow)_(arknights),永恒余辉 (明日方舟)
 ephraim_(fire_emblem),埃弗拉伊姆（火焰之纹章）
 full_stomach,饱腹
-standing_position,站姿
+standing_position,站姿  性姿势
 cosmiclife,宇宙生命
 sumisu_(mondo),sumisu（寄送）
 sett_(league_of_legends),塞特（英雄联盟LOL）
@@ -29294,7 +29296,7 @@ jigen_daisuke,次元大辅
 mykiio,米基奥
 latex_mask,乳胶面膜
 cham_cham,湛湛
-foreskin_pull,包皮拉
+foreskin_pull,包皮拉下扯下
 skimpy_swimwear,暴露的泳衣
 esdeath,埃斯德思
 ofuda_on_pussy,操逼
@@ -29438,7 +29440,7 @@ blue_bandeau,蓝色胸罩
 ama_usa_an_uniform,ama usa 制服
 megacoolbear_(artist),megacoolbear（艺术家）
 sayonara_wo_oshiete,再见了
-multicolored_stockings,多彩丝袜
+multicolored_stockings,多彩 彩色 多色丝袜
 ivorylagiacrus,象牙狐
 kamioka_shun'ya,神岡春也
 detached_arm,断臂
@@ -29753,7 +29755,7 @@ nude_in_front_of_audience,在观众面前裸体
 akemiho_tabi_nikki,明美穗或妮基
 pooka,普卡
 raljoy,拉尔乔伊
-presenting_teats,呈现乳头
+presenting_teats,呈现 展示 露出乳头
 ehrrr,呃呃
 four_frame_staggered_grid,四框交错网格
 tenshinranman,天心乱跑
@@ -30567,10 +30569,10 @@ rhinoceros_beetle,犀牛甲虫
 dragonplayer_(character),dragonplayer（角色）
 sola-ui_nuada-re_sophia-ri,索拉维诺里
 american_shorthair,美国短毛猫
-top_pull,顶部拉
+top_pull,顶部拉下
 green_thigh_highs,绿色过膝袜
 lucifer_(shingeki_no_bahamut),路西法 (进击的巴哈姆特)
-necktie_pull,领带拉
+necktie_pull,领带拉下扯下
 guardians_of_the_galaxy,银河护卫队
 new_year_2024,2024 年新年
 upright_restraints,直立约束
@@ -30705,7 +30707,7 @@ isekai_maou_to_shoukan_shoujo_no_dorei_majutsu,异世界魔王与召唤少女的
 servo,伺服
 sei_shounagon_(first_ascension)_(fate),清少纳言 (初代) (命运)
 third_eye_on_chest,胸口的第三只眼睛
-multicolored_t-shirt,多彩 T 恤
+multicolored_t-shirt,多彩 彩色 多色 T 恤
 svarz,斯瓦茨
 nanao_(mahaya),（要做）
 panda_costume,熊猫服装
@@ -30909,7 +30911,7 @@ utsuki_maito,宇月舞斗
 tenten_(naruto),天天 (火影忍者)
 voyager_(fate),航海者 (命运)
 rectangle,长方形
-multicolored_capelet,多彩披肩
+multicolored_capelet,多彩 彩色 多色披肩
 lilish,莉莉什
 alcremie_(vanilla_cream),香草奶油
 flutterthrash,扑动
@@ -30930,7 +30932,7 @@ meerkat_(kemono_friends),猫鼬（兽人朋友）
 feena_(grandia),feena（格兰迪亚）
 greenmarine,绿色海洋
 anal_head_gulp,肛门头吞咽
-frilled_babydoll,荷叶边娃娃裙
+frilled_babydoll,荷叶边情趣睡衣
 amane_kanata_(nurse),天音彼方 (护士)
 chinese_bellflower,桔梗
 pinky_and_the_brain,小指和大脑
@@ -30980,7 +30982,7 @@ bald_girl,光头女孩
 hooded_shrug,连帽耸肩
 jaw_spikes,下颌尖刺
 itsuka_neru,五香ネル
-white_overalls,白色工作服
+white_overalls,白色工作服 背带裤
 greatodoggo,格雷戈多戈
 box_wonderland,盒子仙境
 transformers_(live_action),变形金刚（真人版）
@@ -31098,7 +31100,7 @@ wing_print,翼印
 shirogane_hina,白金雏
 lube_on_sex_toy,性玩具上的润滑油
 incest_play,乱伦游戏
-tail_button_bottoms,尾部纽扣裤
+tail_button_bottoms,尾部纽扣扣子裤
 dishes,菜肴
 nirvana3,涅槃3
 pokemon_on_arm,手臂上的口袋妖怪
@@ -31432,7 +31434,7 @@ cervina7_(artist),cervina7（艺术家）
 hiroyuki_(morenatsu),hiroyuki（morenatsu）
 elsword_(character),艾尔之光 (角色)
 muoto,形状
-pajamas_pull,睡衣拉
+pajamas_pull,睡衣拉下扯下
 red_slingshot_swimsuit,红色弹弓泳衣
 sorey_(tales),sorey（故事）
 jasony,杰森
@@ -31812,7 +31814,7 @@ neck_warmer,颈部保暖器
 south_dakota_(azur_lane),南达科他州（碧蓝航线）
 princess_carolyn,卡洛琳公主
 brown_tail_tuft,棕色尾簇
-standing_69_position,站立 69 姿势
+standing_69_position,站立 69 姿势  性姿势
 sama_samasa,都一样
 panini_(chowder),帕尼尼（杂烩）
 alanisawolf777,alanisawolf777
@@ -31880,7 +31882,7 @@ clitoris_slip,阴蒂滑脱
 kiriyama_taichi,犯罪太极
 longma,龙马
 doseisan,道世散
-after_fingering,指法后
+after_fingering, 指交后 指法后
 horkeu_kamui,神威
 aimbot-jones,aimbot-jones
 nurarihyon_no_mago,需要 nurarihyon
@@ -32067,7 +32069,7 @@ selene_girls_school_uniform,selene 女童校服
 gin_(shioyude),杜松子酒 (shioyude)
 kizaki_yuuri,木崎由莉
 tan_shorts,棕褐色短裤
-red_overalls,红色工作服
+red_overalls,红色工作服 背带裤
 alcohol_bottle,酒精瓶
 holding_hair_dryer,拿着吹风机
 stroking_another's_chin,抚摸别人的下巴
@@ -32119,7 +32121,7 @@ minamoto_shizuka,源静香
 asriel_dreemurr,阿斯里尔·德雷穆尔
 giant_brush,巨型刷子
 re:zero,Re：从零开始的异世界生活
-multicolored_thighhighs,多彩的过膝袜
+multicolored_thighhighs,多彩 彩色 多色的过膝袜
 dobrynya_nikitich_(fate),多布雷尼亚·尼基蒂奇 (命运)
 ramza_beoulve,拉姆扎·贝乌尔夫
 maitetsu,前悦
@@ -32137,7 +32139,7 @@ go-1,前往-1
 shiranui_mai_(cosplay),不知火舞 (角色扮演)
 shimamura_hougetsu,島村放月
 implied_handjob,暗示手淫
-groping_chest,摸胸
+groping_chest,猥亵 摸胸
 clutching_chest,捂胸
 sceptile,潜伏的
 unikitty!,一只小猫！
@@ -32580,7 +32582,7 @@ spirit_blossom_(league_of_legends),灵魂绽放 (英雄联盟LOL)
 julicat,朱利卡特
 saeki_tatsuya,佐木達也
 tenneko_yuuri,yuuri 的时态
-multicolored_tongue,多彩舌头
+multicolored_tongue,多彩 彩色 多色舌头
 nidy,尼迪
 super-tuler,超级图勒
 koshika_rina,越狩里奈
@@ -32750,7 +32752,7 @@ yuuki_(yuyuki000),yuuki (yuyuki000)
 strikeanywhere,随处罢工
 taki_(soulcalibur),taki（剑魂）
 keita_(tundereyuina),keita（tundereyuina）
-carry_position,携带位置
+carry_position,携带位置  性姿势
 stomach_punch,胃击
 reichsadler,帝国沙德勒
 nomad_(tas),游牧民族（tas）
@@ -32991,7 +32993,7 @@ sticker_pack,贴纸包
 sheriff,警长
 viosgit,维欧斯吉特
 double_biceps_pose,双二头肌姿势
-lei_fang,雷方
+lei_fang,雷牙
 black_jack_(character),黑杰克（角色）
 viriathus_vayu,维里亚图斯
 jamearts,杰梅茨
@@ -33260,7 +33262,7 @@ glowing_halo,发光的光环
 ginga_eiyuu_densetsu,银河英雄传说
 milim_nava,米利姆·纳瓦
 kassen_akoll,卡森阿科尔
-ao_oni_(onioni-aoi),青鬼 (onioni-aoi)
+ao_oni_(onioni-aoi),日本青鬼 (onioni-aoi)
 enlightened_byleth_(male),开明的拜雷思（男性）
 masha,帕夏
 glaucus_(arknights),格劳卡斯 (明日骑士)
@@ -33303,7 +33305,7 @@ jungle_cat_(kemono_friends),丛林猫 (兽娘朋友)
 cafe-chan_to_break_time,cafe-chan 休息时间
 rappa_(honkai:_star_rail),乱破（崩坏：星穹铁道）
 badsheep,坏羊
-oni_costume,鬼服
+oni_costume,日本鬼服
 commander_(last_origin),指挥官 (最后起源)
 m14,m14
 tamaki_ui,玉衣
@@ -33848,7 +33850,7 @@ fukuro_(maruaru00),袋 (maruaru00)
 hitowa,日和
 fukuro_daizi,袋大子
 onodera_kosaki,小野寺小崎
-imminent_paizuri,迫在眉睫的 paizuri
+imminent_paizuri,迫在眉睫的 夹乳 用手将乳房聚拢 波推飞机
 sit-up,仰卧起坐
 one_finger_selfie_challenge_(meme),一根手指自拍挑战（模因）
 tribadism_on_penis,阴茎 屌 鸡巴摩擦
@@ -33858,7 +33860,7 @@ tjpones,蒂蓬内斯
 peanut_butter_(housepets!),花生酱（家养宠物！）
 rachel_gardner,雷切尔·加德纳
 karen_(pokemon),卡倫 (神奇宝贝)
-paizuri_on_lap,paizuri 在腿上
+paizuri_on_lap,夹乳 用手将乳房聚拢 波推飞机 在腿上
 vanity_table,梳妆台
 table_sex,餐桌性爱
 clumsy,笨拙
@@ -34056,7 +34058,7 @@ spoken_emoji,语音表情符号
 love_live!_the_school_idol_movie,Love Live！学园偶像剧场版
 power_fist,力量拳
 leather_skirt,皮裙
-multicolored_jewelry,多彩珠宝
+multicolored_jewelry,多彩 彩色 多色珠宝
 blue_leggings,蓝色紧身裤
 makai_senki_disgaea_5,魔界战记 Disgaea 5
 rindou_(p41neko),rindou (p41neko)
@@ -34135,7 +34137,7 @@ chiester_sisters,切斯特姐妹
 fernando_faria,费尔南多·法里亚
 irua,伊鲁阿
 akiyama_rinko,秋山凛子
-slit_fingering,缝隙指法
+slit_fingering,缝隙指法 指交
 mole_on_crotch,裆部有痣
 tomo_(sjim),tomo（sjim）
 canvas,帆布
@@ -34534,7 +34536,7 @@ south_korean_flag,韩国国旗
 slipping,滑倒
 riz_(beastars),riz（beastars）
 featureless_legs,没有特征的腿
-lap_dance_position,膝上舞姿势
+lap_dance_position,膝上舞姿势  性姿势
 citra,西特拉
 teri_(tawog),泰瑞（塔沃格）
 irasutoya_challenge,伊拉苏托亚挑战
@@ -34978,7 +34980,7 @@ asaga_aoi,朝贺葵
 hiryuu_kai_ni_(kancolle),飞龙改に（舰娘）
 female_supporting_yaoi,女性配角
 sotheby,苏富比
-groping_crotch,摸胯裆
+groping_crotch,猥亵 摸胯裆
 pija_(pianiishimo),pija（pianiishimo）
 glowing_balls,发光球
 webbed_feet,蹼足
@@ -35308,7 +35310,7 @@ abandoned_building,废弃建筑
 tonguejob,舌头工作
 maihama_ayumu,舞滨步
 pointing_sword,指向剑
-multicolored_sleeves,多彩袖子
+multicolored_sleeves,多彩 彩色 多色袖子
 tentaclejob,触手工作
 syrazor,希拉佐尔
 corset_piercing,紧身胸衣穿孔
@@ -35839,7 +35841,7 @@ roll.exe_(mega_man),roll.exe（洛克人）
 cum_on_abs,射在腹肌上
 rope_marks,绳痕
 nabe_puyo,火锅
-sheath_fingering,鞘指法
+sheath_fingering,鞘指法 指交
 kagayaki_homare,光辉耀辉
 purple_sister,紫色姐妹
 uchiha_obito,宇智波带土
@@ -35926,7 +35928,7 @@ kawfee,卡菲
 warabeda_meiji,幼辺明治
 alex_spastic,亚历克斯痉挛
 aeug,奥格
-presenting_sheath,先露鞘
+presenting_sheath,呈现 展示 露出 鞘 剑鞘
 toofer,托弗
 charging,收费
 hanging_by_tail,尾巴悬挂
@@ -36138,7 +36140,7 @@ light262,光262
 silver_body,银色机身
 okioppai,奥基奥帕伊
 rune_knight_(ragnarok_online),符文骑士 (仙境传说)
-deck_chair_position,躺椅位置
+deck_chair_position,躺椅位置  性姿势
 glowing_clothes,发光的衣服
 dragonfly_wings,蜻蜓的翅膀
 lemurian,利莫里亚人
@@ -36254,7 +36256,7 @@ shield_print,盾牌印花
 uzi,乌兹
 kidouko_(zakusi),kidouko（扎库西）
 kaptivate,吸引
-thong_pull,丁字裤拉
+thong_pull,丁字裤拉下扯下
 cum_from_offscreen,从屏幕外射精
 indoraptor,暴盗龙
 mash_kyrielight_(cosplay),玛修·基列莱特（角色扮演）
@@ -36450,7 +36452,7 @@ turnip,芜菁
 sith,西斯
 cape_hold,开普霍尔德
 ono_misao,小野美佐绪
-kneeling_position,跪姿
+kneeling_position,跪姿  性姿势
 toy_gun,玩具枪
 funkspunky,时髦朋克
 cypress_(hinokidou),柏树 (hinokidou)
@@ -36549,7 +36551,7 @@ kangaroo_rat,袋鼠鼠
 working_buddies!,工作伙伴们！
 glimmer_(xenoblade),微光（异度之刃）
 apple_hair_ornament,苹果发饰
-presenting_underwear,展示内衣
+presenting_underwear,呈现 展示 露出内衣
 fellatrix,口交狂
 rowboat,划艇
 h-new,h-new
@@ -36594,7 +36596,7 @@ noyama_takenoko,野山竹野子
 anisis,阿尼西斯
 nozomi_(princess_connect!),望 (公主连结！)
 hidden_vibrator,隐藏式振动器
-multicolored_outline,多彩轮廓
+multicolored_outline,多彩 彩色 多色轮廓
 penny_fenmore,彭妮·芬莫尔
 bincu,宾库
 natural_furfrou,天然糠醛
@@ -36625,7 +36627,7 @@ purple_kerchief,紫色头巾
 ukulele,尤克里里琴
 taylor_renee_wolford_(darkflamewolf),泰勒·蕾妮·沃尔福德 (darkflamewolf)
 buggy_the_clown,小丑巴吉
-multicolored_accessory,多彩配饰
+multicolored_accessory,多彩 彩色 多色配饰
 orushibu,奥鲁西布
 jenny_jinya,珍妮·金娅
 joshi_kousei_rich_thots,joshi kousei rich thots
@@ -37030,7 +37032,7 @@ chaika_trabant,柴卡特拉班特
 red_flag,红旗
 cammy_white_(cosplay),cammy white (角色扮演)
 thecumrat,特库姆拉
-multicolored_pawpads,多彩的爪垫
+multicolored_pawpads,多彩 彩色 多色的爪垫
 olive_(fruit),橄榄（果实）
 doritos,多力多滋
 hentai_boy_(artist),hentai boy（艺术家）
@@ -37164,7 +37166,7 @@ tenkellyart,滕凯利艺术
 red_goggles,红色护目镜
 kurebayashi_noe,黑林乃江
 zatch_(notkastar),zatch (notkastar)
-gold_buttons,金纽扣
+gold_buttons,金纽扣金扣子
 sekiguchi_miiru,関口未瑠
 jaho,贾霍
 suomi_kp/-31,芬兰语 kp/-31
@@ -37214,7 +37216,7 @@ quilted_jacket,绗缝夹克
 cloacalingus,泄殖腔
 ogiue_chika,荻上千佳
 tama_(songe),塔玛（松格）
-presenting_another,介绍另一个
+presenting_another,呈现 展示 露出另一个
 mazume,真目
 io_(granblue_fantasy),io（碧蓝幻想）
 amogan,阿莫甘
@@ -37246,7 +37248,7 @@ sakura_taisen_v,樱花大战v
 knotting,打结
 murakami_hisashi,村上久
 fubuki_(spring)_(kancolle),吹雪 (春天) (舰娘)
-deep_cleavage,深裂
+deep_cleavage,深乳沟
 black_and_yellow,黑色和黄色
 barghest_(swimsuit_archer)_(fate),barghest（泳装弓箭手）（命运）
 yongdasom,龙多颂
@@ -37517,7 +37519,7 @@ knife_in_head,头上插着刀
 shouk,舒克
 horizon_(apex_legends),地平线 (Apex 英雄)
 nattou,纳豆
-pink_overalls,粉色工作服
+pink_overalls,粉色工作服 背带裤
 savannah,萨凡纳
 sleeping_beauty,睡美人
 nose_hook,鼻钩
@@ -37639,7 +37641,7 @@ the_yuudachi-like_creature,类似夕太刀的生物
 vashperado,瓦什佩拉多
 impaledwolf,刺穿狼
 ruteko_(ruko220),ruteko (ruko220)
-presenting_to_viewer,呈现给观众
+presenting_to_viewer,呈现 展示 露出给观众
 female_shepard,女牧羊人
 gundam_f91,高达f91
 nakasone_haiji,中曾根废二
@@ -37817,7 +37819,7 @@ mawaifu,麻衣府
 hijiki_(hijikini),羊栖菜（羊栖菜）
 blue_heart,蓝色的心
 georgette_(disney),乔其纱（迪士尼）
-tail_pull,尾拉
+tail_pull,尾拉下扯下
 litho_(stormysparkler),平版印刷 (stormysparkler)
 isa_(peien516),isa (peien516)
 holding_horn,握着喇叭
@@ -37947,7 +37949,7 @@ uchuu_no_stellvia,宇宙的星灵
 luviagelita_edelfelt,luviagelita 埃德费尔特
 cross_facial_mark,十字面部标记
 cherryfox73,cherryfox73
-cloacal_fingering,泄殖腔指法
+cloacal_fingering,泄殖腔指法 指交
 indomitable_(ms._motivationless_maid)_(azur_lane),不屈不挠 (无动力女仆) (碧蓝航线)
 kasuya_baian,海洋问题
 tatsunami_youtoku,龍波妖德
@@ -37980,7 +37982,7 @@ hjl,哈吉利
 hori_masayuki,堀雅之
 hori_shin,早上好
 jikuno,吉久野
-sex_toy_pull,性玩具拉
+sex_toy_pull,性玩具拉下扯下
 aaassstaro,啊啊啊啊
 my_dear_vampire_(idolmaster),我亲爱的吸血鬼（偶像大师）
 black_tipped_ears,耳朵尖呈黑色
@@ -38015,7 +38017,7 @@ splattershot_jr._(splatoon),飞溅小队（喷射战士）
 medieval_fantasy,中世纪幻想
 unapoppo,乌纳波波
 card_between_breasts,乳房之间的卡
-paizuri_over_clothes,衣服上的 paizuri
+paizuri_over_clothes,衣服上的 夹乳 用手将乳房聚拢 波推飞机
 ishigami_nozomi_(1st_costume),石上望 (第一套服装)
 repede_(tales),很快（说）
 goshaag,戈沙格
@@ -38178,7 +38180,7 @@ frog_headband,青蛙头带
 floral_print_sash,花卉印花腰带
 top_cat_(series),头号猫（系列）
 lunar_tear,月泪
-presenting_slit,先露裂
+presenting_slit,呈现 展示 露出 裂 裂缝
 maple_tree,枫树
 erection_under_shirt,衬衫下的勃起
 ombok_diving_and_delivery_services,ombok 潜水和送货服务
@@ -38196,12 +38198,12 @@ predicament_bondage,困境 束缚
 sunshower_(e.g.o),太阳雨（自我）
 pale_eyes,苍白的眼睛
 trickster_(ntreev_soft),trickster (ntreev 软件)
-multicolored_boots,多彩靴子
+multicolored_boots,多彩 彩色 多色靴子
 spoken_light_bulb,语音灯泡
 spefides,特定
 axo_(fortnite),axo (堡垒之夜)
 shia,什叶派
-full_cleavage,完全裂解
+full_cleavage,完全乳沟
 shirt_tan,衬衫棕褐色
 invincible_(series),无敌（系列）
 yumemizuki_mizuki,夢水木みす
@@ -38248,7 +38250,7 @@ dion_lesage,迪翁·勒萨热
 mochiya_marosuke,持屋麻羅介
 nicoby,尼科比
 bikini_bralette,比基尼胸罩
-kneeling_and_blow_position,跪吹式
+kneeling_and_blow_position,跪吹式  性姿势
 thigh_stockings,大腿袜
 cancer_(constellation),巨蟹座
 protean_assassin_melona,变形刺客梅洛娜
@@ -38552,7 +38554,7 @@ hoop_skirt,环裙
 wasabi_(sekai),wasabi_(sekai)《单风格艺术画师》
 biozs,生物素
 konosuba!_fantastic_days,Konosuba！美妙的日子
-ballerina_position,芭蕾舞演员的姿势
+ballerina_position,芭蕾舞演员的姿势  性姿势
 arkaid,阿卡伊德
 wolf_spirit_(touhou),狼魂（东方）
 white_rhinoceros_(kemono_friends),白犀牛（兽妖之友）
@@ -38779,7 +38781,7 @@ hecatia_lapislazuli_(moon),赫卡提亚 青金石 (月亮)
 spunkubus,精力充沛的巴士
 pedipalps,须肢
 nuriko-kun,錦子君
-multicolored_polka_dots,多彩圆点
+multicolored_polka_dots,多彩 彩色 多色圆点
 h0rs3,h0rs3
 cure_precious,治愈珍贵
 wo262_(modeler),wo262（型号）
@@ -38892,7 +38894,7 @@ tilted_hat,斜帽
 ushiwakamaru_(swimsuit_assassin)_(first_ascension)_(fate),ushiwakamaru (泳装刺客) (初代再临) (命运)
 kiddy_grade,儿童级别
 sillywerwolf,傻狼人
-unusual_fingering,不寻常的指法
+unusual_fingering,不寻常的指法 指交
 mabinogi_heroes,洛奇英雄传
 xatu,夏塔
 dibujosv12,发表
@@ -39288,7 +39290,7 @@ grey_exoskeleton,灰色外骨骼
 x-ray_glasses,射线眼镜
 ishtar_(swimsuit_rider)_(fate),伊什塔尔 (泳装骑士) (命运)
 vaggie,维吉
-2_finger_fingering,2 指指法
+2_finger_fingering,2 两指指法 指交
 panties_under_bike_shorts,自行车短裤下的内裤
 scone,烤饼
 muntins,窗格
@@ -39603,7 +39605,7 @@ ana_(rznuscrf),ana (rznuscrf)
 rabi-ribi,拉比－拉比
 elysia_de_lute_ima,琵琶的极乐世界和
 yuman,玉曼
-reverse_carry_position,反向进位
+reverse_carry_position,反向进位  性姿势
 damage_numbers,损坏数量
 kosmos_beta,宇宙测试版
 monian,莫尼安
@@ -40326,10 +40328,10 @@ shire,郡
 blacksmith_(ragnarok_online),铁匠（仙境传说）
 fishnet_stockings,渔网袜
 using_wings,使用翅膀
-multicolored_neckwear,多彩领带
+multicolored_neckwear,多彩 彩色 多色领带
 pandora_(mega_man),潘多拉 (洛克人)
 katiko,卡蒂科
-multicolored_elbow_gloves,多彩肘部手套
+multicolored_elbow_gloves,多彩 彩色 多色肘部手套
 urasekai_picnic,浦濑溪野餐
 piyopoyo,皮约波约
 kataokasan,片冈山
@@ -40589,7 +40591,7 @@ darknetic,暗网
 starheart,星心
 hephaestus_(housamo),赫菲斯托斯 (housamo)
 aladdin_(disney),阿拉丁（迪士尼）
-piercing_pull,刺穿拉力
+piercing_pull,刺穿拉下扯下
 huei_nazuki,huei 我醒了
 fujiko_(emnprmn),藤子 (emnprmn)
 fusou_(azur_lane),扶桑（蓝色车道）
@@ -40601,7 +40603,7 @@ witch_craft_works,巫术作品
 neet_co.,尼特公司
 tedain,泰丹
 ochikobore_fruit_tart,ochikobore 水果挞
-multicolored_armor,多彩盔甲
+multicolored_armor,多彩 彩色 多色盔甲
 tatujapa,塔图贾帕
 rufus_black,鲁弗斯·布莱克
 ootsuka_shin'ichirou,大塚慎一郎
@@ -40664,7 +40666,7 @@ tenkuu_no_crystalia,天空的水晶
 globus_cruciger,十字球
 derickk76,德里克76
 holding_utensil,盛放器具
-colorful_festival_(project_sekai),多彩的节日（project sekai）
+colorful_festival_(project_sekai),多彩 彩色 多色的节日（project sekai）
 kuroda_kazuya,黑田和也
 natsumi_akira,夏美晶
 devilhs,魔鬼
@@ -40861,7 +40863,7 @@ mykendyke,米肯戴克
 isabella_bandicoot,伊莎貝拉袋狸
 yellow_sandals,黄色凉鞋
 skaifox,斯凯狐
-multicolored_tail_feathers,多彩的尾羽
+multicolored_tail_feathers,多彩 彩色 多色的尾羽
 takamine_noa,高峰なら
 shiina_kuro,shiina_kuro《单风格艺术画师》
 mouth_scar,嘴部疤痕
@@ -40869,7 +40871,7 @@ lectern,讲台
 amemori_sayo,雨森小夜
 6_limbs,6条肢体
 barleyshake,大麦奶昔
-presenting_crotch,展示裆部
+presenting_crotch,呈现 展示 露出裆部
 silver_hairband,银色发带
 hair_branch,发枝
 obstagoon,障碍者
@@ -40924,7 +40926,7 @@ morhlis,莫里斯
 dive_ball,潜水球
 demogorgon,德摩高根
 tail_out_of_water,尾巴露出水面
-bodysuit_pull,紧身衣拉
+bodysuit_pull,紧身衣拉下扯下
 medama_oyaji,梅达玛·奥亚吉
 c.c._lemon_(character),cc 柠檬（角色）
 mammary_slits,乳房裂隙
@@ -40945,9 +40947,9 @@ dogfluid,狗液
 sat-c,sat-c
 kangetsu_(fhalei),觀月（fhalei）
 snapsuit,快扣式套装
-blue_babydoll,蓝色娃娃装
+blue_babydoll,蓝色情趣睡衣
 crocodile_(petruz),鳄鱼 (petruz)
-presenting_bulge,先露凸起
+presenting_bulge,呈现 展示 露出先露凸起
 sara_(granblue_fantasy),莎拉 (碧蓝幻想)
 eurasian_lynx,欧亚猞猁
 window_curtains,窗帘
@@ -41002,7 +41004,7 @@ haiba_09,灰巴 09
 velouria_(fire_emblem),velouria（火焰之纹章）
 mail,邮件
 cum_through_jockstrap,透过丁字裤射精
-presenting_anus,肛门先露
+presenting_anus,呈现 展示 露出肛门 屁股
 purple_exoskeleton,紫色外骨骼
 gavial_the_invincible_(arknights),无敌的加维尔 (明日方舟)
 animal_charm,动物魅力
@@ -41290,7 +41292,7 @@ miss_kitty_mouse,小猫小姐
 construction_site,工地
 haori_himo,羽织纽扣
 orin_the_red,或红色
-purple_overalls,紫色工作服
+purple_overalls,紫色工作服 背带裤
 flower_hat,花帽
 riv_(rivleaf),riv （rivleaf）
 single_hair_streak,单条发丝
@@ -41679,7 +41681,7 @@ re-re,再再
 shere_khan,谢利·卡恩
 oruka_(kamituki0827),oruka (kamituki0827)
 mane-iac_(mlp),mane-iac (mlp)
-simulated_paizuri,模拟 paizuri
+simulated_paizuri,模拟 夹乳 用手将乳房聚拢 波推飞机
 matsuo_chizuru,松尾千鹤
 feiqizi_(fkey),飞奇子 (fkey)
 kokutou_nikke,黑刀日语
@@ -41776,7 +41778,7 @@ churchill_(tank),丘吉尔（坦克）
 bendzz,弯弯
 black_santa_costume,黑色圣诞老人服装
 zipper_footwear,拉链鞋类
-reverse_fleshlight_position,反向 Fleshlight 位置
+reverse_fleshlight_position,反向 Fleshlight 位置  性姿势
 kiryu_tsukasa_(idolmaster),桐生司（偶像大师）
 fighting_master_alleyne,格斗大师阿莱恩
 eddybird55555,eddybird55555
@@ -42176,7 +42178,7 @@ amano_keita,天野圭太
 pattern_bow,花纹蝴蝶结
 smile_pretty_cure,微笑美少女
 grey_head,灰头
-multicolored_tentacles,多彩触手
+multicolored_tentacles,多彩 彩色 多色触手
 duo_(artist),二人組（藝術家）
 zephyr_breeze_(mlp),西风 (mlp)
 tapirclip,貘夹
@@ -42222,7 +42224,7 @@ oatchi_(pikmin),oatchi（皮克敏）
 5rwpvc,5rwpvc
 sylvia_marpole,西尔维娅·马波尔
 kamiki_mirai,神木未来
-nipple_fingering,乳头指法
+nipple_fingering,乳头指法 指交
 w_corp._(identity)_(project_moon),公司（身份）（月球计划）
 reflect_(gawr_gura),反映（憎恨）
 hatsumiilkshake,初乳奶昔
@@ -42530,7 +42532,7 @@ phantom_(gavis_bettel),幻影（加维斯·贝特尔）
 matsukai_mao_(1st_costume),松井真央 (第一套服装)
 kawashima_sapphire,川岛蓝宝石
 cheshirrr,柴郡
-multicolored_sweater,多彩毛衣
+multicolored_sweater,多彩 彩色 多色毛衣
 excalibur_(fate/prototype),王者宝剑 (命运/原型)
 kuramoto_takato,倉本隆人
 oteruko_(wanabeee),oteruko (wanabeee)
@@ -42578,7 +42580,7 @@ glistening_cum,闪闪发光的精液
 dokugamine_riruka,独峰莉瑪卡
 shamu_meruruusa,莎木
 the_buzz_on_maggie,关于玛吉的热门话题
-reverse_wheelbarrow_position,反向手推车位置
+reverse_wheelbarrow_position,反向老汉推车位置  性姿势
 kindle_(frisky_ferals),kindle（活泼的野性）
 maruro,丸鲁罗
 masaki_(ekakiningen),masaki（叶卡捷琳堡）
@@ -42637,7 +42639,7 @@ small_pupils,小学生
 igazella,贾斯汀·比伯
 ninja_gaiden,忍者龙剑传
 long_pseudo_hair,长假毛
-presenting_belly,先露腹部
+presenting_belly,呈现 展示 露出 腹部
 nitako,尼塔科
 resu_desu,就是那么
 suiting,套装
@@ -42910,7 +42912,7 @@ glistening_swimwear,闪亮的泳衣
 beepunz,蜂点
 quail,鹌鹑
 darksorm,黑暗精灵
-groping_motion,摸索动作
+groping_motion,猥亵 摸索动作
 urotan,乌洛坦
 kunkun,坤坤
 fenyon,芬永
@@ -43091,7 +43093,7 @@ wajuniorbox,wajuniorbox
 palanquin_ship,轿子
 nanashi_mumei_(new_year),無無名（新年）
 golden_delmo,金色德尔莫
-scarf_pull,围巾拉
+scarf_pull,围巾拉下扯下
 sig_mcx_(girls'_frontline),sig mcx (少女前线)
 golden_retriever,金毛猎犬
 eighteen_(fate),十八（命运）
@@ -43105,7 +43107,7 @@ biting_another's_tail,咬别人的尾巴
 xiacheng_tatsuya,下城達也
 sena_izumi_(ensemble_stars!),sena izumi（全体明星！）
 higa_(gominami),比嘉（お南）
-orange_overalls,橙色工作服
+orange_overalls,橙色工作服 背带裤
 selianth,塞利安斯
 kinon_bachika,金农巴奇卡
 tororo_ten,托罗罗十
@@ -43184,7 +43186,7 @@ umbrella_gun,伞枪
 cure_summer,治愈夏天
 skarmory,小冲突
 lvi,列维
-multicolored_pantyhose,多彩连裤袜
+multicolored_pantyhose,多彩 彩色 多色连裤袜
 chikuwa_(tks),竹轮（tks）
 equipment_layout,设备布置
 gold_sandals,金色凉鞋
@@ -43632,7 +43634,7 @@ hair_over_crotch,裤裆上的毛
 cream_hair,奶油色头发
 biting_finger,咬手指
 fairy_kei,仙女姬
-multicolored_breasts,多彩的乳房
+multicolored_breasts,多彩 彩色 多色的乳房
 year_of_the_monkey,猴年
 kyle_(animal_crossing),凯尔（动物之森）
 clicking,点击
@@ -44800,7 +44802,7 @@ stella_vermillion,星朱红
 mahou_shoujo_madoka_magica_plus,Mahou Shoujo Madoka Magica Plus 免费 Mp3 下载
 muskydusky,麝香
 kouzuki_kei,幸月圭
-male_fingering,男性指法
+male_fingering,男性指法 指交
 nanaroba_hana,nanaroba 拒绝了
 clubroom,俱乐部室
 chou-10cm-hou-chan_(hatsuzuki's),Chou-10cm-Hou-chan（初月的）
@@ -44994,7 +44996,7 @@ ray_(yakusoku_no_neverland),ray (约束的梦幻岛)
 susie_(kirby),苏西（柯比）
 dot_pupils,点瞳
 tan_hooves,棕褐色的蹄子
-male_harem,男性后宫
+male_harem,男性后宫装 舞娘装
 stielhandgranate,钢制手榴弹
 polecat_(mustelid),鼬科动物
 first_aid,急救
@@ -45300,7 +45302,7 @@ chest_(container),箱子（容器）
 ryokucha_michi,绿茶道
 mr.ink_(artist),墨先生 (艺术家)
 z-ton,z-ton
-mutual_fingering,互相指法
+mutual_fingering,互相指法 指交
 chosen_undead,选定的亡灵
 nixeu,nixeu《单风格艺术画师》
 fujinoki_(horonabe-ken),藤乃木（幌边县）
@@ -45385,7 +45387,7 @@ mage_(dq3),法师 (dq3)
 omegazuel,奥米加苏尔
 wigfritter,假发
 r_dorothy_wayneright,多萝西·韦内赖特
-reverse_jackhammer_position,反向凿岩机位置
+reverse_jackhammer_position,反向打桩机  性姿势
 labia_minora_piercing,小阴唇穿孔
 elysia_(peachy_spring)_(honkai_impact),爱莉希雅 (桃色春天) (崩坏3)英杰
 gotou_toushirou,後藤藤四郎
@@ -45446,7 +45448,7 @@ pringles_can,品客薯片罐头
 shimamura_charlotte,島村夏洛特
 shuckle,洗刷
 standing_tough,坚守
-castorice_(honkai:_star_rail),遐蝶（崩坏：星穹铁道）
+castorice_(honkai:_star_rail),霞蝶（崩坏：星穹铁道）
 rokuichi,六一
 embroidered_panties,绣花内裤
 218,218
@@ -45719,7 +45721,7 @@ ano_(gccx8784),嘴巴 (gccx8784)
 toru_nagase,长濑徹
 drossel_von_flugel_(fireball),火球怪（火球）
 bimbofication,生物化
-multicolored_bra,多彩胸罩
+multicolored_bra,多彩 彩色 多色胸罩
 lunatone,月光石
 beast_boy_(dc),野兽男孩（DC）
 broken_bottle,破瓶子
@@ -45753,7 +45755,7 @@ kyoka_(halloween)_(princess_connect!),镜香（万圣节）（公主连结！）
 sky_striker_ace_-_roze,闪刀王牌 - 粉色
 body_exploration,身体探索
 wulfer-shepherd,伍尔弗－谢泼德
-human_fingering,人类手指
+human_fingering,人类手指 指交
 whitev,怀特夫
 yuriwhale,尤里鲸鱼
 kissing_head,亲吻头
@@ -46484,7 +46486,7 @@ it_(stephen_king),它（斯蒂芬·金）
 romancing_saga,浪漫传奇
 minatsuki_alumi,水月铝业
 futami_yayoi,二見弥生
-presenting_cervix,宫颈先露
+presenting_cervix,呈现 展示 露出宫颈
 leather_hat,皮帽
 wamu_(chartreuse),wamu (黄绿色)
 silvrsterlng,银饰
@@ -46906,7 +46908,7 @@ accidental_incest_(lore),意外乱伦（传说）
 ribbon_as_bra,丝带作为胸罩
 female_fighter_(dungeon_and_fighter),女斗士 (地下城与勇士)
 puni_(miku_plus),puni (miku plus)
-horn_piercing,喇叭穿孔
+horn_piercing,角穿孔
 clove_the_pronghorn,丁香叉角羚
 seofon_(granblue_fantasy),书风 (碧蓝幻想)
 extra_tails,额外的尾巴
@@ -47094,7 +47096,7 @@ raripunk,摇滚朋克
 nail_(hollow_knight),钉子（空洞骑士）
 silverlay_(estories),silverlay (故事)
 spirit_blossom_kindred,精神绽放亲属
-multicolored_arms,多彩的手臂
+multicolored_arms,多彩 彩色 多色的手臂
 narumi_tsuyu,鸣海露
 unnamed_fox_(utterangle),无名狐狸 (utterangle)
 dark_inner_ear,耳内呈深色
@@ -47135,7 +47137,7 @@ maybecrosswise,也许是横向的
 mizutamako,水玉子
 noto_(soranoto),noto（索拉诺托）
 argentina,阿根廷
-human_fingering_anthro,人类指法人类学
+human_fingering_anthro,人类指法人类学 指交
 doghouse,狗窝
 nice_nature_(umamusume)_(cosplay),美好的自然 (umamusume) (cosplay)
 kudou_(ooabareteng),kudou（ooabareteng）
@@ -47885,7 +47887,7 @@ chris_sawyer,克里斯·索耶
 seri_(vyrlw),seri (vyrlw)
 shimeji_simulation,姬菇模拟
 mythological_chimera,神话嵌合体
-eagle_position,鹰位
+eagle_position,鹰位  性姿势
 hayyan,哈扬
 rebecca_chambers,丽贝卡·钱伯斯
 kisaragi_ryou_(sougetsu-tei),如月寮（槙月亭）
@@ -48086,7 +48088,7 @@ nagano_rira,长野里拉
 orange_perineum,橙色会阴
 power_rangers,电力别动队
 fulgur_ovid,富尔古·奥维德
-viennese_oyster_position,维也纳牡蛎位置
+viennese_oyster_position,维也纳牡蛎位置  性姿势
 kahlua_(artist),kahlua<单风格艺术画师>
 sevi_blaze,塞维·布雷兹
 moisesgrafic,莫伊塞斯格拉菲克
@@ -48292,7 +48294,7 @@ devilenby,德维伦比
 yunoru,尤诺鲁
 center_cross_lace,中心十字花边
 daiishori,大石塚
-multicolored_legs,多彩的腿
+multicolored_legs,多彩 彩色 多色的腿
 magui3,马圭3
 basil_(mikrogoat),罗勒（小山羊）
 claire_francois,克莱尔·弗朗索瓦
@@ -48715,7 +48717,7 @@ sr-3mp_(girls'_frontline),sr-3mp（少女前线）
 oyaman,奥亚曼
 vivian_(paper_mario),薇薇安 (纸片马里奥)
 rhea_(summer)_(fire_emblem),瑞亚（夏季）（火焰之纹章）
-cumshot_after_pull_out,拔出后射精
+cumshot_after_pull_out,拔出后射精 外射
 sobek,索贝克
 finger_on_chin,手指放在下巴上
 pussy_to_mouth,阴部至嘴部
@@ -49263,7 +49265,7 @@ suzuki_hina,像铃木
 @@@_(eckzahn),@@@ （埃克萨恩）
 drunkoak,醉橡树
 playing_with_hair,玩头发
-camisole_pull,拉式吊带背心
+camisole_pull,吊带背心拉下扯下
 aztec_mythology,阿兹特克神话
 ootori_tatta,鳥鸟
 nidalee_(lol),补充（笑）
@@ -49740,7 +49742,7 @@ minedoo_(character),minedoo（角色）
 ivy_(sena0119),常春藤 (sena0119)
 dots,点
 karasuma_chitose,乌丸千岁
-multicolored_bracelet,多彩手链
+multicolored_bracelet,多彩 彩色 多色手链
 omega_symbol,欧米茄符号
 partial_line_speech_bubble,部分线条对话泡泡
 mogamiya_honu,最上宫本
@@ -49750,7 +49752,7 @@ mutual,相互的
 sakura_no_uta,樱之弓
 xichii,西池
 blonde_dog_girl_(ri-net),金发狗女孩 (ri-net)
-multicolored_collar,多彩项链
+multicolored_collar,多彩 彩色 多色项链
 blitzpitz,闪电战
 ittybittyshark,伊蒂比蒂鲨鱼
 hardmeow,硬喵
@@ -49858,7 +49860,7 @@ jake_the_dog,杰克狗
 coffee_cat,咖啡猫
 tied_sweater,系带毛衣
 implied_erection,暗示勃起
-female_fingering_female,女性指法女性
+female_fingering_female,女性指法女性 指交
 tauros,金牛座
 keyhole_panties,锁孔内裤
 dg254,dg254
@@ -49930,7 +49932,7 @@ craig_tucker,克雷格·塔克
 kasuga_yuuki,春日结希
 odaibako,台箱
 sengoku_musou_2,戰國無雙2
-twisted_sandwich_position,扭曲三明治位置
+twisted_sandwich_position,扭曲三明治位置  性姿势
 grove_(game),小树林（游戏）
 mizuki_(uzuki_no_sato),mizuki（卯月之里）
 kamiya_yuu,神谷优
@@ -49998,7 +50000,7 @@ sasaki_mutsumi,佐佐木睦美
 utsumi_erice_(swimsuit_avenger),内海爱丽丝（泳装复仇者）
 sonken_(koihime_musou),孙宪 (恋姬无双)
 okami_bark,大神树皮
-reverse_dancer_position,反向舞者位置
+reverse_dancer_position,反向舞者位置  性姿势
 cioccolatodorima,巧克力气味
 ineka_ka,伊内卡卡
 tiger1001,老虎1001
@@ -50025,7 +50027,7 @@ raki_boi,拉基男孩
 shoelaces_untied,鞋带解开了
 sunga2usagi,桑加2乌萨吉
 kona_ming,我的名字是
-purple_babydoll,紫色娃娃装
+purple_babydoll,紫色情趣睡衣
 shawl_lapels,披肩翻领
 vogold,沃戈尔德
 okiyo,冲绳
@@ -50604,7 +50606,7 @@ kumarang,库马朗
 dinosaucers,恐龙
 fiery_ears,火热的耳朵
 strinova,斯特里诺娃
-reverse_nursing_fingering,反向护理手指法
+reverse_nursing_fingering,反向护理手指法 指交
 sophie_slam,索菲·斯拉姆
 viva!!,万岁！！
 kuromori_yako,黑森夜子
@@ -50614,7 +50616,7 @@ wd_(1106592840),WD (1106592840)
 hoshiguma_(ronin_huntress)_(arknights),星熊 (浪人女猎手) (明日方舟)
 hiita_(yu-gi-oh!),hiita（游戏王！）
 fukase,深濑
-small_fangs,小尖牙
+small_fangs,小尖牙 牙齿 虎牙
 indigo_(arknights),靛蓝（明日方舟）
 li_meiling,李美玲
 tomo_(tmtm_mf_mf),音量 (tmtm mf mf)
@@ -50784,7 +50786,7 @@ pouncing,猛扑
 je_o_mo,耶喔摩
 cutie_mark_on_balls,球上的可爱标记
 dirty_talk,脏话
-spread_cleavage,扩展裂解
+spread_cleavage,扩展乳沟
 toybox_pals,玩具箱伙伴
 grey_eyelids,灰色眼睑
 oarfish,皇带鱼
@@ -51681,7 +51683,7 @@ moorina,莫里纳
 chiri_(ch!),叽里呱啦（叽！）
 silky_anteater_(kemono_friends),丝质食蚁兽（兽娘的朋友）
 chopstick_rest,筷子架
-sex_during_oviposition,产卵期间的性行为
+sex_during_oviposition,产卵期间的性行为  性姿势
 xianjian_qixia_zhuan,仙剑奇侠传
 oddrich,奥德里奇
 itoichi.,糸市。
@@ -52125,7 +52127,7 @@ kurokaze_no_sora,黑风和空
 borba,博尔巴
 larger_gynomorph/small_male,雌雄同体体形较大/雄性较小
 mirin_(coene65),已死亡 (coene65)
-reverse_paizuri,反向 paizuri
+reverse_paizuri,反向 夹乳 用手将乳房聚拢 波推飞机
 kuroganeruto,黑金
 xenoyia,异种
 monster_hunter_x,怪物猎人X
@@ -53281,7 +53283,7 @@ ririko_(fhnngririko),ririko (fhnngririko)
 haerge,海尔格
 sunset_skyline,日落天际线
 riko-m,理光
-spread_eagle_position,展翅姿势
+spread_eagle_position,展翅姿势  性姿势
 birthday_candle,生日蜡烛
 sweaty_tail,出汗的尾巴
 tentacle_arms,触手
@@ -53351,7 +53353,7 @@ red_headphones,红色耳机
 didloaded,已加载
 watarai_hibari,渡云雀
 too_many_belts,皮带太多
-multicolored_arm_warmers,多彩臂套
+multicolored_arm_warmers,多彩 彩色 多色臂套
 utamaro,无用
 pia_carrot_e_youkoso!!_3,pia胡萝卜和youkoso！！ 3
 senadina,塞纳迪纳
@@ -53391,7 +53393,7 @@ stomak,胃
 kuroe_(madoka_magica),黑惠 (魔法少女小圆)
 plump_(character),丰满（性格）
 holly_zanzibar,霍莉桑给巴尔
-multicolored_leg_warmers,多彩暖腿套
+multicolored_leg_warmers,多彩 彩色 多色暖腿套
 pip_boy,点点男孩
 physen,酸浆果
 tobi_(nekomata_homara),飞（猫又凤蝶）
@@ -53727,7 +53729,7 @@ miyamoto_ryuuichi,宫本龙一
 scott_pilgrim_(comics),斯科特·皮尔格里姆 (漫画)
 cinnabus,肉桂
 super_famicom_gamepad,超级任天堂游戏手柄
-basket_position,篮筐位置
+basket_position,篮筐位置  性姿势
 sekiyu_(spartan),斯巴达 (斯巴达)
 avo_(weaver),avo（织布工）
 balloon_animal,气球动物
@@ -54304,7 +54306,7 @@ saturdaymorningproj,星期六早晨计划
 gregory_horror_show,格雷戈里恐怖秀
 pandora_(artist),潘多拉（艺术家）
 e-co,生态
-north_pole_position,北极位置
+north_pole_position,北极位置  性姿势
 scarf_on_head,头上的围巾
 chouun_shiryuu,天使子龙
 dr._mario_(game),博士马里奥（游戏）
@@ -54343,7 +54345,7 @@ othukimi,奥图基米
 matayoshi,又佳
 ipsywitch,伊普西巫师
 assertive_feral,自信野性
-apron_pull,围裙拉
+apron_pull,围裙拉下扯下
 chyoel,chyoel《单风格艺术画师》
 masamuuu,真真假假
 natsumiya_yuzu,夏宫使用
@@ -55981,7 +55983,7 @@ grimm_(rwby),格林 (rwby)
 thigh_scrunchie,大腿发带
 unnatural_colors,不自然的颜色
 mashio,正尾
-unbuttoned_sleeves,解开袖子
+unbuttoned_sleeves,解开袖子扣子纽扣
 ise_kai_ni_(kancolle),伊势改りなら (舰娘)
 dantes_ward,但丁斯·沃德
 graf_zeppelin_(beachside_urd)_(azur_lane),齐柏林伯爵号 (海滨 urd) (azur lane)
@@ -56511,7 +56513,7 @@ mashinatsu,エキャン
 atlantic_puffin,大西洋海鹦
 kokosando,科科桑多
 tadashi,正
-oral_fingering,口交
+oral_fingering,口交 指交
 rakeru_(dokidoki!_precure),rakeru（dokidoki！光之美少女）
 meimei_(meimei89008309),梅梅 (meimei89008309)
 fukurou_ya,猫头鹰屋
@@ -56818,7 +56820,7 @@ shioriha_ruri,汐叶瑠璃
 kimikage_yui,君影由衣
 juusenki_l-gaim,重戦者
 beast_(marvel),野兽（奇迹）
-standing_missionary_position,站立传教士体位
+standing_missionary_position,站立传教士体位  性姿势
 g_yuusuke,yuusuke
 ferdinand_(honzuki_no_gekokujou),费迪南德（本月的月光城）
 pine_squirrel,松鼠
@@ -57272,7 +57274,7 @@ closing_door,关门
 blazkenzxy,噴陣
 pepsi2330,百事可乐2330
 raru_(nanaharararu),raru（nanaharararu）
-buttoning,扣纽扣
+buttoning,扣上纽扣 扣上扣子
 8_panel_comic,8 格漫画
 cookiedraggy,饼干拖拽
 skunk_ears,臭鼬耳朵
@@ -57321,7 +57323,7 @@ imminent_crush,即将崩溃
 miyashiro_ryuutarou,宮代龍太郎
 cross-laced_gloves,交叉系带手套
 imminent_bestiality,即将发生的兽交
-nose_ring_pull,鼻环拉
+nose_ring_pull,鼻环拉下扯下
 yellow_leaves,黄叶
 gym_leader_badge,道馆领袖徽章
 cornered,陷入困境
@@ -58877,7 +58879,7 @@ belly_pop,腹部爆裂
 genderfluid_pride_colors,性别流动骄傲色彩
 pikurusu,皮库鲁苏
 genital_jewelry,生殖器首饰
-multicolored_feet,多彩的脚
+multicolored_feet,多彩 彩色 多色的脚
 durga_(first_ascension)_(fate),杜尔迦（第一次升天）（命运）
 spreader_straps,吊带
 mouthguard,护齿套
@@ -59026,7 +59028,7 @@ hakubi_washuu,hakubi 洗碗
 ripe.c,成熟.c
 pinstripe_thighhighs,细条纹过膝长筒袜
 kotyami,科蒂亚米
-leggings_pull,拉绑腿
+leggings_pull,绑腿拉下扯下
 mini_cooper,迷你库珀
 ice_cream_crepe,冰淇淋可丽饼
 charm_(jewelry),饰品（珠宝）
@@ -59547,7 +59549,7 @@ miitopia,密托邦
 revealing_breasts,露出乳房
 polka_dot_kimono,圆点和服
 greed_(fma),贪婪 (fma)
-jackhammer_position,风镐位置
+jackhammer_position,风镐位置  性姿势
 orange_cloak,橙色斗篷
 fte_(fifteen_199),全日制（15 199）
 blue_beard,蓝胡子
@@ -60033,7 +60035,7 @@ gausscannon,高斯炮
 chiba_kirino,千叶桐乃
 monotone_mouth,单调的嘴巴
 pulling_down_pants,拉下裤子
-multicolored_jockstrap,多彩护身
+multicolored_jockstrap,多彩 彩色 多色护身
 tachimukai_yuuki,慢慢地但稳步地
 dennhaze,登黑泽
 harukanaru_toki_no_naka_de,遥远的时空
@@ -60283,7 +60285,7 @@ world_war_1,第一次世界大战
 duct_tape_gag,胶带堵嘴
 dango_hair_ornament,团子发饰
 zephra,斑马
-bear_position,熊市位置
+bear_position,熊市位置  性姿势
 gashiboka,加希博卡
 twilight_(e.g.o),暮光（自我）
 a_jak,杰克
@@ -60611,7 +60613,7 @@ natsuki_(silent_selena),natsuki (沉默的赛琳娜)
 koguma_(super_cub),小熊（超级幼崽）
 raberu_ruru,拉贝鲁鲁鲁
 toki_(school_uniform)_(blue_archive),toki（校服）（碧蓝档案）
-yawning_position,打哈欠的姿势
+yawning_position,打哈欠的姿势  性姿势
 ruthenium77's_character,ruthenium77 的角色
 leeron_littner,李隆·利特纳
 faeki_(character),faeki（角色）
@@ -60872,7 +60874,7 @@ wynter,冬天
 kaerre,卡雷雷
 insane_black_rock_shooter,疯狂黑岩射手
 zinfyu,津福玉
-briefs_pull,三角裤拉
+briefs_pull,三角裤拉下扯下
 jurassic_park,侏罗纪公园
 jacqueling,杰奎琳
 blue_jockstrap,蓝色护身
@@ -61350,7 +61352,7 @@ professor_(neural_cloud),教授（神经云）
 withered,干枯
 xi_xeong,西雄
 gwen_mason,格温·梅森
-sports_bra_pull,运动胸罩拉
+sports_bra_pull,运动胸罩拉下扯下
 yuusha_no_kuse_ni_namaiki_da,yuusha 一点也不可爱
 gutted,被毁坏
 keyhat_tk10,钥匙扣 tk1
@@ -61867,7 +61869,7 @@ shishiou_no_mofumofu,雪人狮子王
 kearsarge_(all_night_charge)_(azur_lane),基尔沙吉 (通宵冲锋) (蔚蓝之路)
 mugen_gakuen_school_uniform,Mugen 购买校服
 mizuki_ryuu,水木竜
-multicolored_nose,多彩的鼻子
+multicolored_nose,多彩 彩色 多色的鼻子
 palmar_flexion,掌屈
 snail_shell,蜗牛壳
 sakazuki_(akainu),赤犬
@@ -62268,7 +62270,7 @@ fukunoki_tokuwa,fukunoki 不给
 childhood_friend-chan_(ramchi),青梅竹马 (Ramchi)
 owain_(fire_emblem),奥文 (火焰之纹章)
 betilla,贝蒂拉
-see-through_babydoll,透视娃娃装
+see-through_babydoll,透视情趣睡衣
 laufen_(sousou_no_frieren),烧焦（葬送的芙莉莲）
 piercing_hole,刺穿
 ciel_(elsword),天空 （艾尔之光）
@@ -63154,7 +63156,7 @@ death_flag,死亡旗帜
 haan_(character),哈恩（角色）
 ichinose_jun,一之瀬淳
 vjsins,维吉辛斯
-suspension_bridge_position,吊桥位置
+suspension_bridge_position,吊桥位置  性姿势
 lelie_(lelie_link),lelie (lelie 链接)
 habataki_academy_school_uniform,哈巴塔基学院校服
 black_suit_jacket,黑色西装外套
@@ -63424,7 +63426,7 @@ jader,贾德
 keikenchi_(style),keikenchi（风格）
 star_of_lakshmi,拉克希米之星
 serika_(new_year)_(blue_archive),Serika（新年）（碧蓝档案）
-eiffel_tower_position,艾菲尔铁塔的位置
+eiffel_tower_position,艾菲尔铁塔的位置  性姿势
 star-shaped_food,星形食物
 measho,梅绍
 oza_watto,你是个混蛋
@@ -63528,7 +63530,7 @@ united_states_marine_corps,美国海军陆战队
 tsukishima_shijima,月岛志岛
 akumu_(nightmareroa),akumu（噩梦者）
 master/slave,主/从
-multicolored_eyewear,多彩眼镜
+multicolored_eyewear,多彩 彩色 多色眼镜
 sheffy_(princess_connect!),谢菲 (公主连结！)
 oda_eiichirou_(style),尾田荣一郎（风格）
 hiking,远足
@@ -63610,7 +63612,7 @@ grumpyfloof,脾气暴躁的floof
 alekoin,阿莱币
 hiro_(hirohiro_gorira),hiro（大猩猩）
 sora_(tehkey),sora（手機）
-work_clothes,工作服
+work_clothes,工作服 背带裤
 vela_(kagekitsoon),vela（影吉顺）
 ladydino,拉迪诺
 haccan,黑客
@@ -64054,7 +64056,7 @@ nougat_(no_9ada),牛轧糖（如果有）
 witchking00,巫王00
 scavenger_(arknights),清道夫 (明日骑士)
 salem_(discordthege),塞勒姆 (discordthege)
-red_babydoll,红色娃娃装
+red_babydoll,红色情趣睡衣
 ballora_(fnafsl),ballora (fnafsl)
 game_avatar,游戏头像
 hyper_triceps,肱三头肌亢进
@@ -64881,7 +64883,7 @@ lingerie_(aki3240),内衣 (aki3240)
 belfast_(iridescent_rosa)_(azur_lane),贝尔法斯特（彩虹粉红）（Azure Lane）
 lollipop_chainsaw,棒棒糖电锯
 small_body,小身材
-bared_fangs,露出獠牙
+bared_fangs,露出獠牙 牙齿 尖牙
 yamada_yui,yamada yui 没有关注任何人。 Autodesk_new
 kranson,克兰森
 taishou_yakyuu_musume,慢慢地
@@ -65218,7 +65220,7 @@ kariya_(mizore),刈谷（霙）
 rokuyon,六四
 sonokido,園木戶
 fade_in,淡入
-mermaid_position,美人鱼姿势
+mermaid_position,美人鱼姿势  性姿势
 rocking_out,摇滚起来
 dr._mario,博士马里奥
 nori_(norinori_yrl),nori (norinori yrl)
@@ -65298,7 +65300,7 @@ dr_yamero,亚梅罗博士
 vinejob,藤活
 asusya,亞修士
 appledectomy,苹果切除术
-multicolored_tuft,多彩簇绒
+multicolored_tuft,多彩 彩色 多色簇绒
 shichouson,紫蝶尊
 yagisawa_teru,八木沢辉
 plague_doctor,瘟疫医生
@@ -65853,7 +65855,7 @@ antaria,安塔利亚
 kkia,基亚
 the_king_of_fighters_'97,拳皇 97
 mikono_suzushiro,手铃四郎
-mixed_sandwich_position,混合三明治位置
+mixed_sandwich_position,混合三明治位置  性姿势
 aster_arcadia,翠菊阿卡迪亚
 mei_(honkai_impact),梅 (崩坏3)
 seifer_almasy,塞法尔灵魂
@@ -65901,7 +65903,7 @@ kaz_mercais,喀麦隆商品报
 ottahz,奥塔赫
 amanagi_seiji,天木诚二
 reki_(haibane),灰羽
-cupless_babydoll,无罩杯娃娃装
+cupless_babydoll,无罩杯情趣睡衣
 shaving_crotch,剃裆
 lilac,紫丁香
 queen_(alfa995),女王 (alpha995)
@@ -67169,7 +67171,7 @@ reed_(bearra),芦苇（熊）
 therris,瑟里斯
 morphine_(artist),吗啡（艺术家）
 kikirara_vivi,活泼可爱
-forced_fingering,强迫指法
+forced_fingering,强迫指法 指交
 c1-11131,c1-11131
 sugiura,杉浦
 extended_upskirt,延长裙底
@@ -67264,7 +67266,7 @@ elizabeth_thompson,伊丽莎白·汤普森
 ross_tran,罗斯·陈
 aizono_manami,相园真奈美
 ion_(on01e),离子（on01e）
-male_swimwear_pull,男泳衣拉
+male_swimwear_pull,男泳衣拉下扯下
 amadchief,阿玛德酋长
 tuda6,tuda6
 kamii_momoru,上井桃
@@ -67696,7 +67698,7 @@ shukufuku_no_campanella,祝福之钟
 teruya_(6w6y),teruya (6w6y)
 apophis_(mge),阿波菲斯 (mge)
 tunic_(video_game),束腰外衣（电子游戏）
-multicolored_hands,多彩多姿的手
+multicolored_hands,多彩 彩色 多色多姿的手
 itamidome,伊達美
 mach_caliber,马赫口径
 kazeharu,风晴
@@ -67813,7 +67815,7 @@ glass_teacup,玻璃茶杯
 mirajane_strauss,米拉杰·施特劳斯
 dan_feng_(honkai:_star_rail),丹恒（崩坏：星穹铁道）
 rainbownspeedash,彩虹速度灰
-1691_position,1691 位置
+1691_position,1691 位置  性姿势
 seika_okawari,不要害怕
 piaki,皮亚基
 kisaragi_honey,蜂蜜香味
@@ -69242,7 +69244,7 @@ multiple_oviposits,多次产卵
 digitigrade_heels,趾行鞋跟
 fleatrollus,蚤状
 soramame_(corndog),空豆（玉米热狗）
-multicolored_pseudo_hair,多彩假发
+multicolored_pseudo_hair,多彩 彩色 多色假发
 alolan_marowak,阿罗兰·马拉瓦克
 futomomomoe,太桃惠
 pussy_expansion,阴道扩张
@@ -69521,7 +69523,7 @@ scarz,斯卡兹
 demon_hunter,獵人
 john_(nakoto),約翰 (Nakoto)
 chooco_(chocoshi),chooco (chocoshi)
-multicolored_fingerless_gloves,多彩露指手套
+multicolored_fingerless_gloves,多彩 彩色 多色露指手套
 wendy_testaburger,温迪·泰斯塔伯格
 decorative_pin,装饰别针
 family_guy_death_pose_(meme),家庭伙伴死亡姿势（模因）
@@ -69719,7 +69721,7 @@ baek_hyang,白香
 nemusuke,不客气
 xiho_(xi_ho_),西濱（西濱）
 cardigan_on_shoulders,肩部开衫
-reverse_table_lotus_position,倒桌莲花坐
+reverse_table_lotus_position,倒桌莲花坐  性姿势
 g-cat,g-cat
 shishidou_akiha,宍道秋叶
 yamabuki_(yamabuki_xxxxx),山吹 (山吹 xxxxx)
@@ -70256,7 +70258,7 @@ sheep_and_wolves,羊和狼
 lucia_(pangya),露西亚（蛇）
 miniwa_tsumiki,米轮月
 santana_(jojo),桑塔纳 (jojo)
-hakama_pull,拉袴
+hakama_pull,拉袴 拉下扯下
 dhiea,上帝
 kiruko_(tengoku_daimakyou),kiruko（天空大魔境）
 dc_(makezzal),dc（制作）
@@ -71024,7 +71026,7 @@ goodbye,再见
 padisarah_flower,帕迪萨拉花
 qing_yan_xia,青烟霞
 quill_hair,羽毛毛
-reverse_anvil_position,反向砧位
+reverse_anvil_position,反向砧位  性姿势
 tarou2,塔鲁2
 capybara-san,水豚先生
 m_mance,曼斯
@@ -71162,7 +71164,7 @@ shooting_star_(symbol),流星（符号）
 findoworld,查找世界
 unworn_blazer,未穿过的西装外套
 unknown_mother_goose_(vocaloid),不知名的鹅妈妈 (vocaloid)
-fingering_own_slit,用手指抚摸自己的阴部
+fingering_own_slit,用手指抚摸自己的阴部 指交
 audrey_(lizet),奥黛丽（lizet）
 united_states_air_force,美国空军
 ukai_saki,鹞崎
@@ -72409,7 +72411,7 @@ yashemao_qishi,慢慢地
 takigawa_yuu,泷川悠
 odeko_yma,过去的 odeko
 borderline7839,边界7839
-sling_bikini_pull,吊带比基尼拉
+sling_bikini_pull,吊带比基尼拉下扯下
 rio_wezley,韦兹利河
 cyllene_(pokemon),cyllene（神奇宝贝）
 turretless_tank,无炮塔坦克
@@ -72524,7 +72526,7 @@ yellow_haori,黄色羽织
 noke_(delicatessen),noke（熟食店）
 lakehounds,湖猎犬
 circi_(yobie),circi（yobie）
-sitting_69_position,坐 69 式
+sitting_69_position,坐 69 式  性姿势
 uno_usaya,乌诺乌萨亚
 color-coded,颜色编码
 mizuty,米祖蒂
@@ -72578,7 +72580,7 @@ ohakotome,大脚
 poporon_(jashin-chan_dropkick),poporon（邪神飞踢）
 naegi,苗木
 nemesis_(girls'_frontline_2),复仇女神（少女前线2）
-imminent_fingering,即将进行的指法
+imminent_fingering,即将进行的指法 指交
 tutinako,图蒂纳科
 twotail_(mlp),双尾 (mlp)
 yaya_hiyayaka,耶耶我们要走了
@@ -74954,7 +74956,7 @@ money_fan,金钱扇
 chtholly_nota_seniorious,chtholly 高级笔记
 yutoriko_(candy0905),yutoriko (candy0905)
 mask_with_sex_toy,带性玩具的面具
-babydoll_lift,掀开掀起揭开 娃娃吊
+babydoll_lift,掀开掀起揭开 情趣睡衣吊带
 pov_bullying,pov 欺凌
 c.a.m.,凸轮
 pov_legs,pov 腿
@@ -75330,7 +75332,7 @@ ssvanti,斯凡提
 ice_pick,冰锥
 mucknagabe,穆克纳加贝
 konoe_yuba,但腐竹
-multicolored_balls,多彩球
+multicolored_balls,多彩 彩色 多色球
 machulanko,马丘兰科
 futoshi_(darling_in_the_franxx),太史（Darling in the Franxx）比翼之吻
 korean_description,韩文描述
@@ -75348,7 +75350,7 @@ dinosaur_planet,恐龙星球
 shiba_(s_hi_ba_),柴犬 (s hi ba)
 aleu_moonshadow,阿留月影
 yukari_yakumo,尤卡里水
-multicolored_necklace,多彩项链
+multicolored_necklace,多彩 彩色 多色项链
 prism_ark,棱镜片
 e-bushi,绘武士
 tamaki.,塔马基。
@@ -75776,7 +75778,7 @@ nikorokumitsero,尼科罗库米塞罗
 asking_if_sure,询问是否确定
 nikumaru,尼丸
 calpish,卡尔皮什
-fundoshi_pull,裾すぎ拉
+fundoshi_pull,裾すぎ拉 拉下扯下
 fox0808,fox0808
 flugeldog,福尔格犬
 kumamiya,熊宮
@@ -75879,7 +75881,7 @@ martina_crespi,玛蒂娜·克雷斯皮
 eremite_(faction),隐士（派系）
 jigoku_meguri,地狱巡游
 hanahanamaki,花花卷
-nursing_fingering,护理指法
+nursing_fingering,护理指法 指交
 marie_antoinette_(swimsuit_caster)_(third_ascension)_(fate),玛丽·安托瓦内特 (泳装法师) (第三次登基) (命运)
 sakai_yuuji,酒井裕二
 mari_(dream_c_club),Mari（梦C社）
@@ -76424,7 +76426,7 @@ olivine_(nu_carnival),橄榄石（现为狂欢节）
 shirota69,shirota69
 rsk_(tbhono),rsk (tbhono)
 hisuian_braviary,耶稣会骑士团
-dancer_position,舞者位置
+dancer_position,舞者位置  性姿势
 armlock,臂章
 whistlerx,惠斯特勒克斯
 guitarist,吉他手
@@ -76837,7 +76839,7 @@ firstw1,firstw1
 iincho_(airi8751),伊因町 (airi8751)
 robin_(rodent_powered),知更鸟（啮齿动物动力）
 american_flag_panties,美国国旗内裤
-full_viennese_oyster_position,完整的维也纳牡蛎位置
+full_viennese_oyster_position,完整的维也纳牡蛎位置  性姿势
 shichimiya_satone,七宫佐根
 fullfolka,富尔福尔卡
 gufu_(guffuumu),gufu（guffuumu）
@@ -77591,7 +77593,7 @@ toe_tuft,趾簇
 oriana_thaffer,奥莉安娜·萨弗
 time_gear,時間齊鏈
 kyufe,基尤费
-lotus_position,莲花坐姿
+lotus_position,莲花坐姿  性姿势
 kashi_kosugi,喀什小杉
 orca_(kemono_friends),虎鲸 (兽娘朋友)
 orbeetle,金龟子
@@ -78065,7 +78067,7 @@ marcus_(thehades),马库斯（冥王）
 hanamaru_tsubaki,花丸椿
 dutchsyndicalist,荷兰工团主义者
 starrfluff,星毛
-multicolored_headgear,多彩头饰
+multicolored_headgear,多彩 彩色 多色头饰
 margevonn,玛格沃恩
 kidou_senkan_nadesico_-_prince_of_darkness,机动战记 Nadesico - 黑暗王子
 leos_vincent_(1st_costume),leos vincent（第一套服装）
@@ -78119,7 +78121,7 @@ capcom_vs_snk,capcom 对战 snk
 rope_gag,绳子塞口物
 nakano_haito,我听说过
 shideboo_(shideboh),shideboo (shideboh)
-eyelid_pull_taunt,眼睑拉扯
+eyelid_pull_taunt,眼睑拉下
 nakamura_sandayo,你长了凉鞋
 shadow_mewtwo,暗影超梦
 hand_on_muzzle,手放在枪口上
@@ -78643,7 +78645,7 @@ leg_twitch,腿抽搐
 cum_on_slit,阴道射精
 4040_(abonriya),4040 (已注销)
 kagto_(alterna),kagto（替代）
-fingering_through_clothing,隔着衣服指法
+fingering_through_clothing,隔着衣服指法 指交
 flying_squirrel,鼯鼠
 annlu_vazzel,安鲁·瓦泽尔
 striped_briefs,条纹三角裤
@@ -78779,7 +78781,7 @@ firekitty,火猫
 tideripples,潮汐涟漪
 bondagefanart,束缚同人艺术
 luster_dawn_(mlp),光泽黎明 (mlp)
-saint_position,圣位
+saint_position,圣位  性姿势
 eilinna,艾琳娜
 orange_pseudo_hair,橙色假发
 tiffany_lords,蒂芙尼领主
@@ -78961,7 +78963,7 @@ hashire,哈希
 duo_(duolingo),多多 (duolingo)
 happening18,发生18
 ajizza_(artist),ajizza（艺术家）
-presenting_tanlines,呈现晒黑线
+presenting_tanlines,呈现 展示 露出晒黑线
 kitano_tomotoshi,北野友志
 kitamura_sora,北村空
 mohumohudansi,穆胡穆胡丹西
@@ -79404,7 +79406,7 @@ aira_kokonatsu,艾拉椰子
 tom_q_(tomtoq),汤姆 q (tomq)
 seapall,海帕尔
 cev_rosa,粉红色的cev
-urethral_fingering,尿道指探
+urethral_fingering,尿道指探 指交
 barber_pole,理发店招牌
 doggydog_(character),小狗（角色）
 colophon,跋
@@ -80303,7 +80305,7 @@ colesense,科莱森斯
 momimaki,櫻
 star_wars:_visions,星球大战：愿景
 yonnixart,永尼克艺术
-button_up_skirt,纽扣裙
+button_up_skirt,纽扣裙 纽扣扣子扣上
 red_panda_waifu,小熊猫老婆
 stirrup_clothing,马镫服装
 kurozumi_tama,黑炭玉
@@ -80825,7 +80827,7 @@ a888_n22,a888 n22
 blinx_the_time_sweeper,时间清扫器 Blinx
 shroob,灌木
 jinguuji_ren,金宮祭人
-female_fingering,女性指法
+female_fingering,女性指法 指交
 font_request,字体请求
 polorinken,波洛林肯
 grey_jeans,灰色牛仔裤
@@ -81044,7 +81046,7 @@ barghest_(swimsuit_archer)_(second_ascension)_(fate),barghest (泳装弓箭手) 
 purple_leash,紫色皮带
 sebon_(sebochin),塞邦（sebochin）
 maki_natsuo,真木夏夫
-multicolored_border,多彩边框
+multicolored_border,多彩 彩色 多色边框
 tachibana_wataru_(123tsuki),橘涉（123月）
 lionberrymochi,狮子莓摩奇
 nude_sunbathing,裸体日光浴
@@ -81103,7 +81105,7 @@ kikurina,菊里那
 appl,应用
 pan_koujou,潘库乔
 bell_pepper_slice,甜椒片
-presenting_bra,展示胸罩
+presenting_bra,呈现 展示 露出胸罩
 panapoliz,帕纳波利什
 lady_rainicorn,雨角女士
 pokemon_panties,口袋妖怪内裤
@@ -81322,7 +81324,7 @@ alain_(unicorn_overlord),阿兰 (独角兽霸主)
 in_heat_(game),发情（游戏）
 totem,图腾
 sweets_paradise,糖果天堂
-babydoll_t-shirt,娃娃装 T 恤
+babydoll_t-shirt,情趣睡衣 T 恤
 howxu,浩旭
 reo_adriano,雷奥·阿德里安
 mege_(megechan),megechan (megechan)
@@ -81348,12 +81350,12 @@ vanilla_(arknights),香草（明日方舟）
 marmyadose_(fate),marmyadose（命运）
 donkey_(kemono_friends),驴子 (兽人朋友)
 sentharn,森瑟恩
-unbuttoned_shorts,解开扣子的短裤
+unbuttoned_shorts,解开扣子的短裤 解开扣子解开纽扣开扣
 nadaka_harutsugu,浅春继
 gigeresque_(genre),吉格风格（流派）
 shot_down,被击落
 knight_princess_annelotte,骑士公主安妮洛特
-unbuttoned_dress,解开纽扣的连衣裙
+unbuttoned_dress,解开扣子解开纽扣开扣 的连衣裙
 megazone_23,超级区域 23
 yellow_neck,黄颈
 milo_(cherryfox73),milo (cherryfox73)
@@ -81603,7 +81605,7 @@ greyshores,格雷肖尔斯
 auron,奥龙
 deadprince,死亡王子
 naked_hood,裸罩
-navel_fingering,肚脐指法
+navel_fingering,肚脐指法 指交
 smack,拍击
 frilled_tube_top,荷叶边抹胸
 queenbloodysky,女王血腥天空
@@ -82296,7 +82298,7 @@ roon_(muse)_(azur_lane),roon（muse）（蓝色车道）
 running_blades,运行刀片
 elliot_(unpopularwolf),艾略特（unpopularwolf）
 ak-47_(girls'_frontline),AK-47（少女前线）
-oni_gini,今天的几内亚
+oni_gini,日本鬼怪
 rosie_(animal_crossing),罗西（动物之森）
 lydia_macarthur,莉迪亚·麦卡瑟
 kouryuu,鳴流
@@ -82977,7 +82979,7 @@ atou_rie,阿图里耶
 staryume,星梅
 short_female,矮个子女性
 gr_greeze,gr 希腊
-sleeve_pull,袖拉
+sleeve_pull,袖拉下扯下
 konohoshi,此星
 ria_(piilsud),ria（piilsud）
 tachibana_misato,橘美里
@@ -83067,7 +83069,7 @@ boreoboros,博洛博罗斯
 kamiiart,卡米亚特
 sasha_khmel,萨沙·赫梅尔
 heatherwolf,希瑟沃尔夫
-shirt_pulled_up,衬衫被拉起来
+shirt_pulled_up,衬衫被拉下扯下
 sukiyaki,寿喜烧
 pharaoh_(cat),法老（猫）
 lua_(pacothegint),lua (pacothegint)
@@ -83170,7 +83172,7 @@ elise_liedl,艾丽丝·利德尔
 lileep,莉莉普
 rabbit_plushie,兔子毛绒玩具
 2t_(vmyz7342),2t (vmyz7342)
-butler_position,管家职位
+butler_position,管家职位  性姿势
 taisinkoku,大神国
 bamboo_stick,竹签
 knot_in_mouth,嘴里有结
@@ -84865,7 +84867,7 @@ torathi,托拉蒂
 dark_chao,黑暗混沌
 fengqun,峰群
 amalia_sheran_sharm,阿玛莉亚·谢兰·沙姆
-jockstrap_pull,丁字裤拉力
+jockstrap_pull,丁字裤拉下扯下
 fujimaru_ritsuka_(female)_(summer_street),藤丸立香（女）（Summer Street）
 yonezawa_mao,米泽脚
 qianqiu_wanxia,千秋万夏
@@ -85350,7 +85352,7 @@ denpa_(denpae29),denpa (denpae29)
 shenanigans,恶作剧
 difinex,迪芬尼克斯
 alexis_kerib,亚历克西斯·凯里布
-oni_kanzei,鬼管家
+oni_kanzei,日本鬼管家
 meru_(biggreen),梅鲁 (biggreen)
 horizontal-striped_sleeve_cuffs,横条纹袖口
 imjim007,imjim007
@@ -85546,7 +85548,7 @@ futon_fly_away,蒲团飞走了
 full_frontal_frog,全额青蛙
 bana_(stand_flower),芭娜娜（立花）
 hashibiro_kou_(garapiko_p),hashibiro kou (garapiko p)
-platform_leg_glider_position,平台腿滑翔机位置
+platform_leg_glider_position,平台腿滑翔机位置  性姿势
 yazwo,哇
 babs_(snoot_game),babs（snoot 游戏）
 disembodied_tail,无实体的尾巴
@@ -85835,7 +85837,7 @@ hakui_koyori_(school_uniform),白居小依（校服）
 awesomemazda04,awesomemazda04
 amakano_2,天が2
 lace-trimmed_socks,蕾丝边袜子
-overall_dress,工作服
+overall_dress,工作服 背带裤
 mr.takealook,看看先生
 shocho,小営
 hair_in_another's_mouth,别人嘴里的头发
@@ -86119,7 +86121,7 @@ nathan_(beatriz),nathan (比阿特丽斯)
 bed_head,床头
 two-sided_ribbon,双面丝带
 bobotatamu,博博塔塔穆
-side_saddle_position,侧鞍位置
+side_saddle_position,侧鞍位置  性姿势
 trixie_(jay_naylor),特丽克西（杰·奈勒饰）
 midori_no_baku,绿之爆
 maplesights,枫景
@@ -86997,7 +86999,7 @@ ventious,有气无力
 magitek_armor,魔导装甲
 hiichisato,樋一里
 shaga_ayame,沙加绫
-eyewear_pull,眼镜拉
+eyewear_pull,眼镜拉下扯下
 haonfest,豪恩菲斯特
 hiko_(scape),彦（景）
 ambiguous_oral,口语含糊
@@ -87046,7 +87048,7 @@ rk_(rktorinegi),rk (rktorinegi)
 wodahseht,沃达赫塞特
 abigrock,阿比格罗克
 rorikemo_(j7w),rorikemo (j7w)
-naval_working_uniform,海军工作服
+naval_working_uniform,海军工作服 背带裤
 sierra117renner,sierra117renner
 sena_chifuyu,濑名千冬
 multicolored_briefs,彩色三角裤
@@ -87140,7 +87142,7 @@ komachi_panko,小町面包糠
 mogupuchi,莫古普奇
 drum_bath,鼓浴
 cattail_(pvz),香蒲（例如）
-button_underwear,纽扣内衣
+button_underwear,纽扣内衣纽扣扣子
 bowsan,鲍桑
 admiral_arisugawa,有栖川海军大将
 animal_butchery_diagram,动物屠宰示意图
@@ -88081,7 +88083,7 @@ auzzie,奥齐
 tawni_tailwind,塔尼顺风
 metal_ball,金属球
 bryanth,布莱恩特
-multicolored_paws,多彩的爪子
+multicolored_paws,多彩 彩色 多色的爪子
 daisuke_(mouthwashing),大辅（漱口）
 tobitobi90,tobitobi90
 sonic_forces:_speed_battle,索尼克力量：速度之战
@@ -88375,7 +88377,7 @@ ippan_josei,每日女性
 acfun_girl,有趣的女孩
 ggab0621,ggab0621
 two_tone_outline,双色调轮廓
-nipple_clamp_pull,乳头夹拉
+nipple_clamp_pull,乳头拉下扯下
 forced_hug,强迫拥抱
 el_joey,埃尔乔伊
 magallan_(elite_ii)_(arknights),麦哲伦 (精英二号) (明日骑士)
@@ -89037,7 +89039,7 @@ pikachu_costume,皮卡丘服装
 ajax_(retrofit)_(azur_lane),Ajax（改造）（蓝道）
 ikazuchi_(azur_lane),ikazuchi（蓝色车道）
 kosaka_shunpei,打響平
-multicolored_head,多彩的头
+multicolored_head,多彩 彩色 多色的头
 tom_(lm),汤姆 (lm)
 ross_(senyuu),罗斯（故事）
 juliona_trans,朱莉奥娜翻译
@@ -89152,7 +89154,7 @@ yuki_miku_(2023),雪未来 (2023)
 john_doe_(artist),约翰·多伊（艺术家）
 closed_game,封闭式游戏
 makaze_(t-junction),型路口
-kneehighs_pull,膝盖拉
+kneehighs_pull,膝盖拉下
 unworn_scrunchie,未穿过的发带
 puffphox,粉虱
 chocolate_statue,巧克力雕像
@@ -89884,7 +89886,7 @@ saitou_furoufushi,saitou furoufushi 免费下载
 toilet_pov,厕所视角
 yakushimaru_ryota,药师丸光
 win_opz,获胜机会
-multicolored_bandeau,多彩头带
+multicolored_bandeau,多彩 彩色 多色头带
 amazons_quartet,亚马逊四重奏
 1340smile,1340微笑
 handpads,手垫
@@ -89937,7 +89939,7 @@ kouzaka_kouhei,高坂耕平
 yoyohachi,马
 mantucat,曼图卡特
 public_urination,随地小便
-lace-trimmed_babydoll,蕾丝边娃娃装
+lace-trimmed_babydoll,蕾丝边情趣睡衣
 ovipositor_in_ass,产卵器在屁股里
 p_(flavorppp),(口味)
 leonberger,莱昂贝格
@@ -90212,7 +90214,7 @@ akishisu_(air_balance),空气平衡
 beehive,蜂窝
 hoshizuki_sakusa,慢慢地星月
 yudesoba,汤荞麦面
-multicolored_feathers,多彩的羽毛
+multicolored_feathers,多彩 彩色 多色的羽毛
 brooz_(interspecies_reviewers),Brooz（跨物种审阅者）
 yeik_art,藝術
 spitting_drink,吐饮料
@@ -91890,7 +91892,7 @@ supervillain_costume,超级反派服装
 crash_man,撞车人
 lovers_(oc),愛人 (oc)
 chu_x_chu_idol,那 x 那偶像
-totem_pole_position,图腾柱位置
+totem_pole_position,图腾柱位置  性姿势
 espiozx,埃斯皮奥克斯
 drakthug,暴徒
 kurusu_yuzuko,柚子十字架
@@ -92954,9 +92956,9 @@ pointing_spider-man_(meme),指着蜘蛛侠（模因）
 garcia,加西亚
 comichipota,科米奇波塔
 asteriid,小行星
-kneeling_bodyguard_position,跪姿保镖
+kneeling_bodyguard_position,跪姿保镖  性姿势
 wisgarus,维斯加鲁斯
-squat_position,蹲姿
+squat_position,蹲姿  性姿势
 komori-san_wa_kotowarenai!,小森先生不在！
 bacon_(baconbakin),培根（baconbakin）
 swat,扑打
@@ -93398,7 +93400,7 @@ nomura_miki,野村美希
 supermansion,超级豪宅
 jacob_(pablo),雅各布（保罗）
 3ma_can_omochi,第三罐宝宝
-labia_pull,阴唇拉动
+labia_pull,阴唇拉下扯下
 monotone_bikini,单色比基尼
 gwon,权
 asakura_aoshi,朝仓衣服
@@ -93654,7 +93656,7 @@ vertical_mouth,垂直口
 jakescorp,杰克斯公司
 sakuradamanga,樱田漫画
 adeviantcritter,变异生物
-ouroboros_position,衔尾蛇的位置
+ouroboros_position,衔尾蛇的位置  性姿势
 hatsune_miku_(if),初音未来 (如果)
 asa_(teng_zi),asa (滕子)
 leo_llama,利奥打电话
@@ -94614,7 +94616,7 @@ sutamasque,苏达马斯克
 jegc,杰格克
 dan_kim,丹·金
 bodily_fluids_from_mouth,口腔中的体液
-seated_carry_position,坐姿携带
+seated_carry_position,坐姿携带  性姿势
 prudence_(oxventure),谨慎 (oxventure)
 crook,骗子
 azuma_ezu,東方がそば
@@ -94847,8 +94849,8 @@ cloudsdale,云中城
 starryprince,星光王子
 laser_beam,激光束
 gelgoog,格尔古格
-south_pole_position,南极位置
-sideboob_paizuri,侧乳喷水
+south_pole_position,南极位置  性姿势
+sideboob_paizuri,侧乳喷水 夹乳 用手将乳房聚拢 波推飞机
 bishamon_(darkstalkers),毘沙门天（恶魔战士）
 blitz_wulfen,闪电战
 sakamichi_no_apollon,坂道的阿波罗
@@ -95907,7 +95909,7 @@ papers_please,请出示文件
 kayou_(kayou-bi),kayou（kayou-bi）
 cloudy.r,cloudy.r
 mizumi_(pyrojey),mizumi（pyrojey）
-multicolored_socks,多彩袜子
+multicolored_socks,多彩 彩色 多色袜子
 daikokuten_(fate),大黒天 (命运)
 ruby_(jewelpet),红宝石（珠宝宠物）
 bingkuaihei,冰快黑
@@ -96497,7 +96499,7 @@ oimo_0imo,哦天啊
 sukedai,助代
 gamukami,がそばに
 cat_symbol,猫符号
-eyepatch_pull,眼罩拉
+eyepatch_pull,眼罩拉下扯下
 trapped_in_sock,困在袜子里
 happosai,八宝斋
 fox_(skunk_fu),狐狸（臭鼬）
@@ -96692,7 +96694,7 @@ nikaidooooooooo,二阶堂
 ga4me4,ga4me4
 medium_tail,中尾
 joltik_(artist),joltik（艺术家）
-button_skirt,纽扣裙
+button_skirt,纽扣裙 纽扣扣子
 heffer_wolfe,赫弗·沃尔夫
 nadnerbd,纳德纳堡
 ayukawa_tenri,鲇川天理
@@ -96816,7 +96818,7 @@ oruka0827,oruka0827
 kitajadner,基塔哈德纳
 izzyhime,伊兹姬
 red_pasties,红色乳贴
-foreskin_fingering,领班指法
+foreskin_fingering,领班指法 指交
 shiohari_kanna,塩塩罐
 red_shetland,红设得兰群岛
 donuts72,甜甜圈72
@@ -98159,7 +98161,7 @@ world_of_horror,恐怖世界
 eiyuu_(eiyuu04),愛尤 (eiyuu04)
 satanick_(funamusea),satanick（明白了）
 fuyou-chan,芙蓉酱
-multicolored_sash,多彩腰带
+multicolored_sash,多彩 彩色 多色腰带
 blue_uniform,蓝色制服
 mako_(macomaco7),mako (macomaco7) 免费下载
 futase_hijiri,二十濑回年
@@ -98393,7 +98395,7 @@ jonah_(insomniacovrlrd),乔纳 (insomniacovrlrd)
 ha-re_the_sword_mikanko,羽レウエ剑 mikanko
 quizzical_(artist),疑惑的（艺术家）
 dook_(lildooks),dook （lildooks）
-groping_diaper,摸索尿布
+groping_diaper,猥亵 摸索尿布
 kindrose,金玫瑰
 teslawolfen,特斯拉沃尔芬
 gaslight,煤气灯
@@ -99021,7 +99023,7 @@ akisame_rizu,秋雨莉兹
 chin_on_palm_challenge,下巴贴手掌挑战
 blonde_girl_(okpriko),金发女孩 (okpriko)
 simamanta,西马曼塔
-multicolored_headphones,多彩耳机
+multicolored_headphones,多彩 彩色 多色耳机
 antler_jewelry,鹿角首饰
 nova_1810,新星 1810
 ishimori_sakana,石森鱼
@@ -99054,7 +99056,7 @@ toki_to_shishin,朱雀与紫心
 toki_(tokihakashi),toki（时空櫃）
 aoraine,奥拉因
 anonymous_(yu-gi-oh!),匿名（游戏王！）
-chain_position,链条位置
+chain_position,链条位置  性姿势
 tuffthecat,tuffthecat
 max_(maxspite),max (最大危险)
 ohako,奥哈科
@@ -99722,7 +99724,7 @@ okuva,奥库瓦
 ol'_blue,老蓝
 girlpenisworld,girlpenisworld
 kichin_yarou,基钦亚鲁
-bandeau_pull,抹胸拉力
+bandeau_pull,抹胸拉下扯下
 rattail,鼠尾草
 natsugou_shinogi,夏乡忍者 免费下载
 hanukami,羽神
@@ -100463,7 +100465,7 @@ the_man_from_the_window,窗户外的男人
 text_on_shoes,鞋子上的文字
 outgrowing_clothes,衣服不合身
 cidolfus_telamon,西多尔福斯
-overalls_pull,拉工作服
+overalls_pull,拉工作服 背带裤 拉下扯下
 raccoon_nose,浣熊鼻子
 the_girl_(fear_&_hunger),女孩（恐惧和饥饿）
 the_fox_(falvie),狐狸 (falvie)
@@ -101879,8 +101881,8 @@ power_cord,电源线
 pound_puppies,磅小狗
 bugita,布吉塔
 kahlua_marjoram,甘露咖啡酒
-presenting_camel_toe,呈现骆驼趾
-colorful_kanan,多彩的卡南
+presenting_camel_toe,呈现 展示 露出骆驼趾
+colorful_kanan,多彩 彩色 多色的卡南
 mrbooshmaster,大师
 gokushufudou,极主不动道
 leg_around_partner,腿绕在伴侣身上
@@ -102448,7 +102450,7 @@ reptilian_penis,爬行动物阴茎 屌 鸡巴
 hitsuji_kusa,羊草
 akiyama_fumika_(pepper0),秋山富美加 (pepper0)
 andorozon,雄酮
-unbuttoned_bottomwear,解开扣子的裤子
+unbuttoned_bottomwear,解开扣子的裤子 解开扣子解开纽扣开扣
 reona_(mesuinupoke),reona（梅苏伊努波克）
 nimble_fabric,灵活的面料
 un_nm5sy,nm5sy
@@ -102902,7 +102904,7 @@ royalsimp,皇家辛普
 triceraton,三角龙
 eliotak,埃利奥塔克
 siren_(series),警笛（系列）
-multicolored_membrane,多彩膜
+multicolored_membrane,多彩 彩色 多色膜
 internet_survivor,互联网幸存者
 dust_514,灰尘 514
 gan-viking,甘维京
@@ -103111,7 +103113,7 @@ mac-10_(girls'_frontline),mac-10（少女前线）
 osouzai-kun,小骚货君
 fishbook5,fishbook5
 pulled_to_side,拉到一边
-filled_condom_pullout,已充满的避孕套拉出
+filled_condom_pullout,外射 避孕套内 拉出
 onionsketch,洋葱素描
 choujin_koukousei-tachi_wa_isekai_demo_yoyuu_de_ikinuku_you_desu!,超人高中生们，你们真开心啊！
 lucifer_(megami_tensei),路西法 (女神转生)
@@ -104139,7 +104141,7 @@ sengoku_koihime_~otome_kenran_sengoku_emaki~,战国恋姬～乙女狂乱战国�
 tomaire,托梅尔
 ratye_(zoohomme),ratye (动物园主人)
 anna_anon,安娜·阿农
-oni_(artist),鬼（艺术家）
+oni_(artist),日本鬼（艺术家）
 katlovesshrimp,凯特洛夫斯虾
 topwear_aside,上装除外
 hair_mustache,头发 胡子
@@ -105090,7 +105092,7 @@ leuco,白色的
 banpunsik,班蓬西克
 kadoya_tsukasa,角屋司
 jung_wonjo,郑元祖
-presenting_diaper,赠送尿布
+presenting_diaper,呈现 展示 露出尿布
 powdered_sugar,糖粉
 stray_hair,散落的头发
 commonalty,共通性
@@ -105441,7 +105443,7 @@ open_wetsuit,开放式潜水衣
 blade_catching,刀片捕捉
 open_dress_shirt,敞开式衬衫
 wheezie_(dragon_tales),喘息（龙的故事）
-arlan_(honkai:_star_rail),亚尔兰（崩坏：星之铁道）
+arlan_(honkai:_star_rail),亚尔兰（崩坏：星穹铁道）
 tiyi_(tiyi_a09),茶 (茶 a09)
 tiz_arrior,蒂兹·阿里尔
 itsme_takk,非常感谢
@@ -105728,7 +105730,7 @@ yumeno_akari,夢の明里
 garara_s_leep,加拉拉的睡眠
 yan_(gyee),yan (gyee)
 mortal_kombat_11,真人快打 11
-sheath_pull,鞘拉
+sheath_pull,鞘 剑鞘 拉下扯下
 zupat,祖帕特
 harumi_sawara,佐原晴美
 multicolored_belt,五彩腰带
@@ -106946,7 +106948,7 @@ pornstar_(meme),色情明星（模因）
 poni_(ichduhernz),poni（英语：poni）
 fight_yoghurt,对抗瑜伽
 toropp,托罗普
-presenting_body,呈报机构
+presenting_body,呈现 展示 露出身体
 oguro_(moyashi_2-hon),小黑（Moyashi 2-hon）
 head_tail,头尾
 meatspin,肉旋
@@ -107514,7 +107516,7 @@ bon_bon_eee,很好很好 eee
 moso_(expect66),明天 (expect66)
 tuuuh,呃
 koukawa_asuka,koukawa 结束
-breast_pull,乳房拉动
+breast_pull,乳房拉下扯下
 water_elemental,水元素
 mutsu_aya,箭射了
 robin_dassen,罗宾·达森
@@ -107556,7 +107558,7 @@ muart242,负载242
 sekiguchi_(odd_taxi),sekiguchi（单程出租车）
 nearu-senpai,近異先辈
 domas,家
-multicolored_claws,多彩的爪子
+multicolored_claws,多彩 彩色 多色的爪子
 rosphix,罗斯菲克斯
 honey_b._lovely,亲爱的 b。迷人的
 dupli,复制
@@ -107585,7 +107587,7 @@ hotwife,辣妻
 aika_zero,愛佳零
 shadify,阴影化
 matcha_cream_v,火柴奶油 v
-multicolored_shell,多彩外壳
+multicolored_shell,多彩 彩色 多色外壳
 shiro_(tamago_no_kara),白（鸡蛋之子）
 vyse,维瑟
 video_recording,视频录制
@@ -108182,7 +108184,7 @@ nagase_iori,长濑伊织
 mii_brawler_(smash_ultimate),Mii Brawler（Smash Ultimate）
 rufus_(mao_mao),rufus（毛毛）
 brittle_(plaga),脆（瘟疫）
-tube_top_pull,管顶拉
+tube_top_pull,管顶拉下扯下
 mark_iv_tank,四号坦克
 pon_(cielo),天空
 cywolf49,cywolf49
@@ -108405,7 +108407,7 @@ tove_(nikke),tove（妮可）
 tarrin,塔林
 kimero_(kimero_kat),测量（测量猫）
 how_long,多久
-towel_pull,毛巾拉
+towel_pull,毛巾拉下扯下
 beaded_anklet,串珠脚链
 hovering_kousin,徘徊表弟
 tsukimura_noe,月村饮料
@@ -108475,7 +108477,7 @@ oooeygoooey,好可爱
 nishimiya_yuzuru,西宮キャン
 ryshokka_syre,雷绍卡酸
 toa510,toa510
-jumpsuit_pull,连衣裤拉
+jumpsuit_pull,连衣裤拉下扯下
 impact_effect,冲击效应
 finnegan_lyonhardt,芬尼根莱昂哈特
 keikou_ryuudou,竜藤圭光
@@ -108748,7 +108750,7 @@ cupcake2007,纸杯蛋糕2007
 tangyuan,汤圆
 curse_seal,咒印
 lapushis,拉普希人
-multicolored_eyebrows,多彩的眉毛
+multicolored_eyebrows,多彩 彩色 多色的眉毛
 jiayi,嘉宜
 ibuibuyou,伊布布尤
 shiori_(jonsun),shiori (jonsun)
@@ -109747,7 +109749,7 @@ jeanne_d'arc_alter_(mystery_treasure)_(fate),圣女贞德 Alter (神秘宝藏) (
 tf2_demo_2004,tf2 演示
 pa-15_(high_school_thrills)_(girls'_frontline),pa-15（高中惊险刺激）（少女前线）
 callisto_(fisk_cerris),木卫四（塞里斯鱼）
-multicolored_ascot,多彩阿斯科特
+multicolored_ascot,多彩 彩色 多色阿斯科特
 haley_long,海莉朗
 ear_barbell,耳杠
 featherystorm,羽毛风暴
@@ -109907,7 +109909,7 @@ hand_on_cane,手拄拐杖
 amamiya_sophia_seren,雨宫索菲亚·塞伦
 tomdantherock,汤姆丹瑟洛克
 naishi-chan,などど
-multicolored_towel,多彩毛巾
+multicolored_towel,多彩 彩色 多色毛巾
 ishihara_souka,石原市场
 ankh_tattoo,安卡纹身
 neilos,内洛斯
@@ -110673,7 +110675,7 @@ religious_symbol,宗教象征
 billie_(billie_bust_up),猫（猫破裂）
 katsu_curry,猫咖喱
 broly,布罗利
-presenting_penis,阴茎 屌 鸡巴先露
+presenting_penis,呈现 展示 露出 阴茎 屌 鸡巴
 chokueji,直恵寺
 gecko_humanoid,人形壁虎
 rune_factory_1,符文工厂
@@ -111051,7 +111053,7 @@ vtalna1,vtalna1
 gore_magala,木炭
 munakata_isaomi,所需的 isaomi
 firenzesaika,佛罗伦萨彩卡
-overalls_down,工作服
+overalls_down,工作服 背带裤
 munch_(tribal_hunter),咀嚼（部落猎人）
 ktovhinao,克托夫希纳奥
 toxy,毒性
@@ -111901,7 +111903,7 @@ amiami,傑米尼
 dinned,吃饭
 feather_(magia_record),羽毛（魔法唱片）
 ninja_(tera_online),忍者 (TERA 在线)
-presenting_nipple,乳头露出
+presenting_nipple,呈现 展示 露出 乳头
 pom_(decoration),pom（装饰）
 legacy_(linkthehero5555),遗产 (linkhero5555)
 herringbone,人字形
@@ -112761,7 +112763,7 @@ hata_matsuri,旗祭
 adrian_vitalis,阿德里安·维塔利斯
 reddandwhyte,雷丹和怀特
 lavender_(arizonathevixen),薰衣草（arizonathevixen）
-multicolored_sailor_collar,多彩水手领
+multicolored_sailor_collar,多彩 彩色 多色水手领
 arthur_(fire_emblem:_genealogy_of_the_holy_war),亚瑟（火焰之纹章：圣战之系谱）
 wittleskaj,维特尔斯卡伊
 mishima_akane,三岛茜
@@ -113124,7 +113126,7 @@ yami_(lunaris_parukia),yami（lunaris parukia）
 finger_marks,指纹
 garbageman,垃圾工
 ameimo,阿梅莫
-presenting_penis_tip,阴茎 屌 鸡巴尖端突出
+presenting_penis_tip,呈现 展示 露出 阴茎 屌 鸡巴尖
 rodway,道路
 faech,法赫
 suecovsky,苏耶科夫斯基
@@ -113353,7 +113355,7 @@ orionfell,奥里昂山
 izuminnu,伊豆
 samantha_stathis,萨曼莎·斯塔西斯
 zuu_(kyuudo9),zuu（kyudo9）
-multicolored_pubic_hair,多彩的阴毛
+multicolored_pubic_hair,多彩 彩色 多色的阴毛
 kzcjimmy,韓國
 sniffing_own_armpit,闻自己的腋窝
 izumo_eoekaki,出云江户川
@@ -113724,7 +113726,7 @@ sakana-ko,沙奈湖
 mana_matitia_(okame_nin),Mana Matitia（奥卡梅尼）
 dianamon,戴安娜蒙
 nekogarasu,猫乌
-anthro_fingering_human,人类学 指法 人类
+anthro_fingering_human,人类学 指法 人类 指交
 halloween_baelz,万圣节贝尔茨
 73_(naa),73（北美）
 miserable,悲惨的
@@ -115085,7 +115087,7 @@ proxol_(artist),proxol（艺术家）
 yuna_(rutera),yuna（路由器）
 morosuhe,莫罗苏赫
 sen_no_hatou_tsukisome_no_kouki,比没有羽灯月染的光辉
-assisted_paizuri,辅助排便
+assisted_paizuri,辅助排便 夹乳 用手将乳房聚拢 波推飞机
 floating_tears,飘落的泪水
 joy_(red_velvet),喜悦（红色天鹅绒）
 sen_light,比光
@@ -115798,7 +115800,7 @@ lemo_(lemo_4),年（4年）
 urinary_drainage_bag,尿液引流袋
 neyuki_no_gen'ei,音雪不是現代
 stickdora,斯蒂克多拉
-presenting_pawpads,呈现爪子
+presenting_pawpads,呈现 展示 露出爪子
 bean_the_dynamite,豆子炸药
 mikan03260,mikan03260
 uori,鱼里
@@ -116072,7 +116074,7 @@ lunamuenster,明斯特
 nijisanji_fes_t-shirt,nijisanji 表情 T 恤
 ai-bon,爱本
 kasoku_souchi,服从苏奇
-horn_bell,喇叭铃
+horn_bell,角铃
 asian_small-clawed_otter,亚洲小爪水獭
 handa_seishuu,手憲
 pato_(ptro),鸭子（ptro）
@@ -117296,7 +117298,7 @@ mekakushi_code_(vocaloid),目隱代碼 (vocaloid)
 hand_on_shoulders,手放在肩膀上
 ringoanu,林戈阿努
 parasol_kirby,阳伞柯比
-aqua_overalls,浅绿色工作服
+aqua_overalls,浅绿色工作服 背带裤
 naruta_iyo,鸣太伊予
 almasy,阿尔马西
 eungi,恩吉
@@ -118454,7 +118456,7 @@ tygra,泰格拉
 freshtango,新鲜探戈
 phantom_of_the_opera_(fate),歌剧魅影（命运）
 berettiger26,贝雷蒂格26
-side-by-side_position,并排位置
+side-by-side_position,并排位置  性姿势
 phantom_meowscles,幻影喵喵
 bergmite,石榴石
 phone_charm,手机饰品
@@ -118606,7 +118608,7 @@ trigger12_(artist),trigger12（艺术家）
 kazami_windy,风见风
 blitz_(modblitzwing),blitz（modblitzwing）
 deep_one_(h.p._lovecraft),深海潜龙 (hp lovecraft)
-deep_victory_position,深胜地位
+deep_victory_position,深胜地位  性姿势
 gill_(street_fighter),吉尔（街头霸王）
 nyxiettenyxstar,nyxietenyxstar
 nyxqt,陳小鴨
@@ -120211,7 +120213,7 @@ bokutachi_no_seizon_tousou_(project_sekai),癫痫的世界（SEKAI 项目）
 amanda_the_adventurer,冒险家阿曼达
 kuroba.k,黑巴
 nefrubi,奈夫鲁比
-necklace_pull,项链拉
+necklace_pull,项链拉下扯下
 turkey_(bird),火鸡
 hyper_birth,超生
 niwatori5948,niwatori5948
@@ -120251,7 +120253,7 @@ shima_riu,志摩河
 chilli_646,辣椒 646
 shiro_marimo,白毬藻
 takahashi_kouta,高桥幸太
-multicolored_knee_highs,多彩膝盖高
+multicolored_knee_highs,多彩 彩色 多色膝盖高
 hayasui_(zuiun_festival)_(kancolle),瑞云祭 (kancolle)
 cloud_strife_(alphreid_costume),克劳德·斯特莱夫 (Alphreid 服装)
 rikitsu,力津
@@ -120465,7 +120467,7 @@ kumonryuu_eliza_(fate),kumonryuu eliza (命运)
 videogame_setting,电子游戏设定
 winged_victory_mercy,有翅膀的胜利仁慈
 munaage,穆纳阿格
-horn_cap,牛角帽
+horn_cap,角帽
 magic_(freak_magic1369),魔法 (怪胎 magic1369)
 cthulhu666,cthulhu666
 vien_quitonm,维恩·奎通
@@ -123916,7 +123918,7 @@ mostly_nude/nude,几乎全裸/赤裸
 sneakveek,偷窥
 chumu_(teuthidan),chumu（teuthidan）
 abriika,阿布里卡
-paizuri_while_penetrated,paizuri 而渗透
+paizuri_while_penetrated,夹乳 用手将乳房聚拢 波推飞机 而渗透
 vesna,维斯娜
 fluffydus,蓬松
 korai_(horokusa),高来（horokusa）
@@ -125228,7 +125230,7 @@ mymzi,麦子
 onizuka_hime,鬼冢姬
 urshifu_(rapid),urshifu（快速）
 anubis_(smite),阿努比斯 (惩戒)
-oni_tengu,鬼天狗
+oni_tengu,日本鬼天狗
 dark_eldar,黑暗灵族
 crackling_energy,噼啪作响的能量
 nurude_sasara,永恒的轮回
@@ -125575,7 +125577,7 @@ h_futako,h futako
 macha@meshi,がそばになら
 hatutaro,哈图太郎
 maskless,无掩模
-forced_groping,强迫摸索
+forced_groping,强迫猥亵
 ikinari_mojio,生成茂司
 ikenotori,池取
 gungnir_(toaru),gungnir（toaru）
@@ -126144,7 +126146,7 @@ mokutan_(link_machine),mokutan（链接机）
 kanojo_tachi_no_ryuugi,彼女们的龙套
 jessica_elwood_(character),杰西卡·艾尔伍德（角色）
 rabbit_fursuit,兔子皮衣
-multicolored_squares_background,多彩多姿的方块背景
+multicolored_squares_background,多彩 彩色 多色多姿的方块背景
 maeru,梅鲁
 lace_underwear,蕾丝内衣
 lacera_viscera,内脏撕裂
@@ -127119,7 +127121,7 @@ kado_(hametunoasioto),礼物（甲基丙酮）
 sisoha,西索哈
 torso_tied,躯干被绑住
 harusupu,哈鲁苏普
-hoodie_pull,毛衣连帽衫
+hoodie_pull,毛衣连帽衫 拉下扯下
 sabaku_(saba9),原因（原因9）
 toromi_chuuka,梁振动
 faust_(blue_archive),浮士德（碧蓝档案）
@@ -127141,7 +127143,7 @@ daisy_(insomniacovrlrd),黛西 (insomniacovrlrd)
 konchi_(63438789),康奇 (63438789)
 blue_curtains,蓝色窗帘
 zokkili,佐基利
-male_fingering_andromorph,雄性指型
+male_fingering_andromorph,雄性指型 指交
 mobile_legends:_bang_bang,移动传奇：bang bang
 demonic_creature,恶魔生物
 konbanwa01,konbanwa01
@@ -127370,7 +127372,7 @@ zhearun,听
 fallopian_penetration,输卵管渗透
 osakanadream,大阪之梦
 izei1337,izei1337
-half_lotus_position,半莲花坐姿
+half_lotus_position,半莲花坐姿  性姿势
 hugo_ardanach,雨果·阿达纳赫
 goretober,戈雷托伯
 osanai,长沙内
@@ -128112,7 +128114,7 @@ yuriko2755,尤里科2755
 coldesthands,冷手
 yonaga_tsuki25,yonaga tsuki25
 kamine_ayaka,上峰绫香
-presenting_nipples,乳头露出
+presenting_nipples,呈现 展示 露出 乳头
 leg_press,腿部推举
 jijing_zishui,鸡井资水
 yokoi_rego,横井里吾
@@ -128548,7 +128550,7 @@ disco_bear_(htf),迪斯科熊 (htf)
 fur_hood,毛皮兜帽
 sudzume,苏祖梅
 tricia_ren_sounhoff,特里西娅·伦·索恩霍夫
-lying_butler_position,躺着的管家姿势
+lying_butler_position,躺着的管家姿势  性姿势
 subjectnumber2394,主题编号2394
 pendant_removed,吊坠已移除
 hami_(3hm6gebdf619771),哈密 (3hm6gebdf619771)
@@ -128560,7 +128562,7 @@ monotone_speedo,单调速度计
 wheelie_(kirby),轮式离地 (柯比)
 fabiola_iglesias,法比奥拉·伊格莱西亚斯
 ayakadegozans,绫さくそばら
-sitting_position,坐姿
+sitting_position,坐姿  性姿势
 white_tongue,白舌
 sistermon_noir,黑色姐妹
 tadakichi-san,忠吉先生
@@ -128978,7 +128980,7 @@ matsubara_aoi,松原葵
 swatty_(can_can_bunny),swatty（罐罐兔子）
 bamboo_structure,竹结构
 shimeji_wyvern,姬路飞龙
-multicolored_diaper,多彩尿布
+multicolored_diaper,多彩 彩色 多色尿布
 blanket_cape,毯子斗篷
 shikke_gnsn,什麽是gnsn
 sweaty_underwear,汗湿的内衣
@@ -129540,7 +129542,7 @@ amagiri_yune,天雾ゆき
 firelight_(mlp),火光 (mlp)
 amai_hiyo,就是这样。
 dart_gun,飞镖枪
-oni_senpai_art,鬼前辈艺术
+oni_senpai_art,日本鬼前辈艺术
 velminth,维尔明斯
 zzinhimsum,紫云英
 himokawa_udon,冰川乌冬面
@@ -130223,7 +130225,7 @@ himetsuba,姬叶
 moyasiwhite,莫亚西怀特
 shadow_(modeler3622),阴影（modeler3622）
 yukino_(zeroshiki_kouichi),雪乃 (零式光一)
-forced_presenting,强制呈现
+forced_presenting,强制呈现 展示 露出
 gaming_console,游戏机
 kakato_0,卡卡托 0
 deadro,死神
@@ -130233,7 +130235,7 @@ deus_ex,杀出重围
 nyamunyamu,尼亚穆尼亚穆
 shinon_(blue_archive),shinon（碧蓝档案）
 plum_the_red_panda,小熊猫梅
-stealth_fingering,偷偷 隐秘 指法
+stealth_fingering,偷偷 隐秘 指法 指交
 plue,普卢埃
 oobashin,大巴辛
 shinomy,希诺尼
@@ -132193,17 +132195,17 @@ leaf_(arknights),叶子 (明日骑士)
 prince_demande,德曼德王子
 yoidore_shirazu_(vocaloid),yoidore shirazu (vocaloid)
 colin-tox,结肠毒素
-multicolored_text,多彩文字
+multicolored_text,多彩 彩色 多色文字
 angusart,安格萨特
 lcs_0209,LC0209
 kawairuka_ko,卡瓦伊鲁卡湖
 franschesco_(artist),franschesco（艺术家）
 noyama_(noyama8888),野山 (noyama8888)
 angry_noises,愤怒的声音
-colorful_dreams!_colorful_smiles!_(love_live!),多彩的梦想！多彩的笑容！（热爱生活！）
+colorful_dreams!_colorful_smiles!_(love_live!),多彩 彩色 多色的梦想！多彩 彩色 多色的笑容！（热爱生活！）
 dia_(genjitsu_no_yohane),dia（現實的夜羽）
 feriowind,费里奥风
-multicolored_eye_patch,多彩眼罩
+multicolored_eye_patch,多彩 彩色 多色眼罩
 kangy_(tegerio),康吉（tegerio）
 dutch_(skweekers),荷兰语 (skweekers)
 fpwrs,浮力压力传感器
@@ -132368,7 +132370,7 @@ namugriff,纳穆格里夫
 namuro,那村
 shigaoka,志丘
 meia,梅亚
-bridge_position,桥梁位置
+bridge_position,桥梁位置  性姿势
 shida_(xwheel),实达（xwheel）
 s.t.a.f.f._bot_(fnaf),员工机器人 (fnaf)
 cat_testicles,猫睾丸
@@ -132893,12 +132895,12 @@ nagumo_kuu,南云山脉
 rio_(rio_01),河流 (河流 01)
 riok_hh,riok hh
 borahorn,博拉峰
-shirt_pulled_down,衬衫被拉下来
+shirt_pulled_down,衬衫被拉下扯下
 nightingale_(gundam),夜莺 (高达)
 tosin,托辛
 wonpese,朝鲜平壤
 grail_beast,圣杯野兽
-button_boxers,纽扣平角裤
+button_boxers,纽扣扣子平角裤
 peppermintwolf,薄荷狼
 ortensia,奥滕西亚
 mayreel_(guardian_tales),mayreel （这样的监护人）
@@ -134380,7 +134382,7 @@ taoru,桃如
 jump_(blackbolt),跳跃（黑闪电）
 wadachitokakeru,和太知足
 gnsisir,格西西尔
-multicolored_cat,多彩猫
+multicolored_cat,多彩 彩色 多色猫
 mr._and_mrs._smith,史密斯先生和史密斯夫人
 denim_(artist),牛仔布（艺术家）
 belfry_(tamberlane),钟楼（坦伯兰）
@@ -135747,7 +135749,7 @@ matsuo_kunikuni,松尾现在
 dust_yang,尘阳
 linch,林奇
 aldenyates,阿尔登亚特斯
-pubic_hair_pull,拉扯阴毛
+pubic_hair_pull,拉扯阴毛 拉下扯下
 inflatable_collar,充气项链
 snork_(moomin),打鼾（姆明）
 bungo_(beartouma_0517),丰吾（Beartouma 0517）
@@ -138577,7 +138579,7 @@ nq_(nnq_q),nq (nnq q)
 tonde,通德
 corporal_(madagascar),下士（马达加斯加）
 the_bad_guys_(film),坏家伙们（电影）
-colorful_x_melody_(vocaloid),多彩 x 旋律 (vocaloid)
+colorful_x_melody_(vocaloid),多彩 彩色 多色 x 旋律 (vocaloid)
 construct,构造
 extremely_distracting_watermark,非常分散注意力的水印
 squirm,蠕动
@@ -139374,7 +139376,7 @@ kugiseiichi,钉诚一
 teckwolffr,泰克沃尔夫
 rin_penrose,鼻子彭罗斯
 slums,贫民窟
-button_down_shirt,纽扣衬衫
+button_down_shirt,纽扣扣子 衬衫
 menghuan_tian,梦幻天
 touboutenshi,东方天使
 techimi,泰奇米
@@ -140250,7 +140252,7 @@ ya.yu.,呀。
 flufflixx,flufflixx
 matsuppoi,松饼
 ancient_dragon_(elden_ring),远古巨龙 (Elden Ring)
-cardigan_pull,开衫拉
+cardigan_pull,开衫拉下扯下
 battle_of_titans,泰坦之战
 yunagi_(yng_hoti),yunagi（yng hoti）
 cristalavi,克里斯塔拉维
@@ -140348,7 +140350,7 @@ pink_snout,粉红色的鼻子
 albert_maverick,艾伯特·马维里克
 yorumi_rena_(5th_costume),夜レナ（第五套服装）
 hibarigaoka_yuki,云雀丘由希
-green_babydoll,绿色娃娃
+green_babydoll,绿色情趣睡衣
 tamago_toji,玉子东次
 kurojishi,黑狮子
 asou_natsumi,麻生奈がそば
@@ -141005,13 +141007,13 @@ kagutsuchi_(l'archange),kagutsuchi（l'archange）
 leaf_(pokemon)_(cosplay),叶子 (神奇宝贝) (角色扮演)
 height_envy,身高羡慕
 u_emmm,你嗯嗯
-multicolored_tail_accessory,多彩尾巴配饰
+multicolored_tail_accessory,多彩 彩色 多色尾巴配饰
 le_zhang_zhang,啦啦啦
 matsuzaka_(matsuzakagyu_29),松坂（松坂牛29）
 amethese,紫晶
 gokugetsu_momo,极月桃
 hip_check,髋关节检查
-multicolored_swimming_trunks,多彩泳裤
+multicolored_swimming_trunks,多彩 彩色 多色泳裤
 ihara,淫荡的
 watashi_no_oniichan,我的哥哥
 power_sword,力量剑
@@ -141041,7 +141043,7 @@ monark,莫纳克
 precure_netorare_(meme),光之美少女 netorare (模因)
 linfa_(futari_midara),linfa（二人ミダラ）
 curvy_herm,曲线美
-presenting_chest,先露胸
+presenting_chest,呈现 展示 露出 胸
 soukouryu,共和流
 sly930105,sly930105
 curves,曲线
@@ -142637,7 +142639,7 @@ misscaine,米斯凯恩
 dfm_(darknessdfm),dfm (黑暗dfm)
 bicikliszelep,比奇克利斯泽勒普
 younger_prey,年轻的猎物
-leg_pull,腿拉
+leg_pull,腿拉 拉下扯下
 cardinal-tanager,红衣主教唐纳雀
 hachiko_(kota091986),忠犬八公 (kota091986)
 uchida_shuu,小姝
@@ -143543,7 +143545,7 @@ alkhimow,炼金术
 doctor_stable_(mlp),医生稳定 (mlp)
 alyssa_bandicoot_(oc),艾丽莎·班迪科特（OC）
 shirosei_mochi,白糍糍
-open_cleavage,开放性裂解
+open_cleavage,开放性乳沟
 ena_(series),这（系列）
 vividblue,鲜活蓝
 digitalscratch,数字划痕
@@ -144680,7 +144682,7 @@ pussy_juice_in_container,容器里的阴道汁液
 leashed-in_vore,束缚吞食
 ten_cws,十个 cws
 toy_dinosaur,玩具恐龙
-multicolored_neck,多彩的脖子
+multicolored_neck,多彩 彩色 多色的脖子
 indisk_irio,印度伊里奥
 fumizuki_(sleepy_fairy)_(azur_lane),文月 (瞌睡仙子) (蓝色巷)
 terra_cruxis,关键地带
@@ -146567,7 +146569,7 @@ s7nsles,s7nsles
 umiushi_u,海牛さく
 hirasawa_yui_(cosplay),cosplay yui cosplay
 squid_neetommy,鱿鱼切开术
-crab_position,螃蟹姿势
+crab_position,螃蟹姿势  性姿势
 lewdert,莱德特
 konbuni,昆布尼
 pk_machine_gun,PK机枪
@@ -146880,7 +146882,7 @@ purple_mascara,紫色面具
 annie_barrs,安妮巴尔斯
 yuan_ji_(code:_kite),鹞鹞（代号：风筝）
 ashe_infinity,艾希无限
-clitoris_pull,阴蒂拉动
+clitoris_pull,阴蒂 拉下扯下
 rocketpepa,火箭辣椒
 taurus_aldebaran,金牛座毕宿五
 pappel,帕佩尔
@@ -147533,7 +147535,7 @@ diaper_lying_around,尿布到处都是
 neon_genesis_evangelion:_iron_maiden,新世纪福音战士：钢铁少女 EVA
 maki_michaux,玛基·米肖
 dominion_tank_police,自治领坦克警察
-yuucho_(cololal),多彩的
+yuucho_(cololal),多彩 彩色 多色的
 ono_tomohiro,小野智宏
 natsume_riu,夏目りす
 dolphin_earrings,海豚耳环
@@ -148553,7 +148555,7 @@ zephda,泽夫达
 car_mouth,车嘴
 saliva_as_lube,唾液作为润滑剂
 pastel_(pastelneigh),粉彩（pastelneigh）
-headwear_pull,头饰拉
+headwear_pull,头饰拉下扯下
 heads_and_tails,正面和反面
 capydiem,卡皮迪姆
 sasahara_nonoka,慢慢地，慢慢地
@@ -148702,7 +148704,7 @@ dorry_(utawarerumono),Dorry（传颂之物）
 sukarabeeto,苏卡拉贝托
 sully_(fire_emblem),萨利（火焰之纹章）
 den1208,den1208
-multicolored_baseball_cap,多彩棒球帽
+multicolored_baseball_cap,多彩 彩色 多色棒球帽
 ryder_(techno-robot-fox),ryder（科技机器人狐狸）
 sumiyoshi_chisato,住吉千里
 doll_eye,娃娃眼
@@ -149870,7 +149872,7 @@ katlo,卡特洛
 nanachi_(human)_(made_in_abyss),人类（人类）（深渊制造）
 aoi_(kiyokiyoaomushi),葵 (清清青虫)
 alaina_(coolsalad),alaina (coolsalad)
-bridal_carry_position,新娘抱抱姿势
+bridal_carry_position,新娘抱抱姿势  性姿势
 text_on_socks,袜子上的文字
 sibluself,西布鲁自我
 zonana,区
@@ -150038,7 +150040,7 @@ fertility_analysis,生育力分析
 mimizunooka,水冈
 cassius_(granblue_fantasy),卡西乌斯（绿蓝幻想）
 the_legion_(dead_by_daylight),军团（黎明杀机）
-choker_pull,颈链拉力
+choker_pull,颈链拉下扯下
 kuybyshev_(azur_lane),古比雪夫（蔚蓝巷）
 latex_choker,乳胶颈链
 oikawa_shizuku_(cosplay),及川雫 (Cosplay)
@@ -151092,7 +151094,7 @@ frieren_lap_pillow_(meme),frieren 膝枕（模因）
 turquoise_nipples,绿松石色乳头
 cum_rocket,射精火箭
 ruka_tou,鲁卡图
-clitoris_piercing_pull,阴蒂穿刺拉
+clitoris_piercing_pull,阴蒂穿刺 拉下扯下
 yoshimi,吉见
 svi,斯维
 watchdog_rol_(y1104280730),监督角色 (y1104280730)
@@ -151512,7 +151514,7 @@ xfur,財富
 leatherclub_scene_(meme),leatherclub 场景（模因）
 arma_(demon's_crest),武器（恶魔纹章）
 ezume_(rosehip),玫瑰果
-ambiguous_fingering_male,暧昧指法男
+ambiguous_fingering_male,暧昧指法男 指交
 dorothea_coyett,多萝西娅·科耶特
 scho-ka-kola,雪卡可拉
 sion_(im10042m),sion (im10042m)
@@ -152045,7 +152047,7 @@ senchimee,森奇米
 hoshimi_private_high_school_uniform,私立星见高等学校校服
 owner,所有者
 misterbug_(character),misterbug（角色）
-multicolored_pajamas,多彩睡衣
+multicolored_pajamas,多彩 彩色 多色睡衣
 3_artificial_limbs,3条假肢
 squirtle_squad,杰尼龟小队
 ginga_tetsudou_no_yoru,银河铁道之夜
@@ -152686,7 +152688,7 @@ jack_(snoot_game),jack（鼻子游戏）
 uuuron_cha,啊啊啊啊
 ossan_zabi_190,大山世纪
 heiyz,嘿呀
-oni_draws,鬼画
+oni_draws,日本鬼画
 dsuzu,大鈴
 coiled_cord,卷绕的绳索
 shasya,沙西亚
@@ -153436,7 +153438,7 @@ sugarcave,糖洞
 kon_shearo,锥形剪切机
 yajiuma_no_jesse,yajiuma 是 jesse 的名字
 dynamo_heart,发电机心脏
-tongue_pull,舌头拉动
+tongue_pull,舌头拉动 拉下扯下
 confusedewe,困惑的我们
 kan0nakan0,can0nakan0
 neneko_(yumeria),grace（尤梅莉亚）
@@ -153979,7 +153981,7 @@ dusty_foxwood_(dusty0071),达斯蒂·福克斯伍德 (Dusty0071)
 secret_agent_~kishi_gakuen_no_shinobi_naru_mono~,秘密特工 ～岸学园忍者之名～
 penis_marriage,阴茎 屌 鸡巴婚姻
 bamboodog,竹狗
-button_hair_ornament,纽扣发饰
+button_hair_ornament,纽扣扣子发饰
 marimony_manumonica,婚姻 婚姻
 nerond,涅隆德
 cloud04,cloud04
@@ -154609,7 +154611,7 @@ shouz,舒兹
 daspurplesong,紫歌
 jacob_(bluesh),雅各布 (bluesh)
 devimon,恶魔
-bow_babydoll,蝴蝶结娃娃装
+bow_babydoll,蝴蝶结情趣睡衣
 estherart0,estherart0
 siren_(borderlands),塞壬（无主之地）
 pride_color_hoodie,骄傲色连帽衫
@@ -154654,7 +154656,7 @@ alexaboom,亚历克斯布姆
 m240,m240
 mystral,米斯特拉尔
 fukurodani_volleyball_uniform,袋谷排球服
-torn_overalls,荆棘工作服
+torn_overalls,荆棘工作服 背带裤
 auri_(spikedmauler),auri（带刺的猛击者）
 pokoemon_(character),神奇宝贝（角色）
 kayla,凯拉
@@ -155152,7 +155154,7 @@ dirtypawz_(artist),dirtypawz（艺术家）
 jeanne_d'arc_(madoka_magica),圣女贞德 (魔法少女小圆)
 nagato_(meta)_(azur_lane),长门 (meta) (碧蓝航线)
 attouteki_yuugi_mugen_souls_z,刺客游戏 Mugen Souls Z
-presenting_genital_slit,生殖器裂口
+presenting_genital_slit,呈现 展示 露出 生殖器裂口
 razul,拉祖尔
 tsukugu,佃
 jifu_(gifu_7),岐阜 (岐阜7)
@@ -155253,7 +155255,7 @@ two_tone_baseball_cap,双色棒球帽
 dekoboko_majo_no_oyako_jijou,ディパネスのパネスティー ...
 ogiwara_kyouko,荻原杏子
 amiya_(act_2)_(arknights),阿米娅 (第二幕) (明日方舟)
-multicolored_chest,多彩胸部
+multicolored_chest,多彩 彩色 多色胸部
 protagonist_(outer_wilds),主角（星际荒野）
 ganzyu_i,甘肃省
 laurelfalcon,月桂猎鹰
@@ -155572,7 +155574,7 @@ artemi_lunavorsa,阿耳忒弥斯
 butt_bump,屁股撞
 kisaragi_1go,炒 1go
 artemis_(hades),阿尔忒弥斯 (哈迪斯)
-multicolored_sex_toy,多彩的性玩具
+multicolored_sex_toy,多彩 彩色 多色的性玩具
 hamza_touijri,哈姆扎·图伊吉里
 lulu_(eztarg3t),珍珠 (eztarg3t)
 arsenia,砷
@@ -156717,7 +156719,7 @@ soay_sheep,索艾羊
 krjenl,克延尔
 buddhist_priest_outfit,佛教僧侣服装
 rlus,路斯
-feedbag_position,进料袋位置
+feedbag_position,进料袋位置  性姿势
 tabascomilk,塔巴斯科牛奶
 aku_no_novi,阿库诺诺维
 furiruno,弗里鲁诺
@@ -156791,7 +156793,7 @@ python_(snake_legs),蟒蛇（蛇腿）
 wahira_nagomi,和希拉·纳戈米
 miya_(ete),miya（ete）
 qtip_xd,qtip xd
-presenting_pectorals,呈现胸肌
+presenting_pectorals,呈现 展示 露出胸肌
 lambent_panpan,闪亮的盼盼
 clavat,克拉瓦特
 jackie_quilt,杰基被子
@@ -156857,7 +156859,7 @@ ellie_blue,艾莉蓝
 arvis_(fire_emblem),阿维斯（火焰之纹章）
 izcalli_(fate),izcalli（命运）
 ja'aran_(sona),ja'aran（sona）
-colorfulness_(love_live!),多彩多姿（热爱生活！）
+colorfulness_(love_live!),多彩 彩色 多色多姿（热爱生活！）
 tiffany_frost,蒂芙尼·弗罗斯特
 cokua,科库阿
 qiao_nan_1028_hao,樵南1028號
@@ -158362,7 +158364,7 @@ maya_white,玛雅白
 sydney_(male)_(degrees_of_lewdity),悉尼（男）（淫秽程度）
 rocohisaya,洛科希萨亚
 fursuit_transformation,毛皮服装改造
-chain_pull,链条拉力
+chain_pull,链条拉下扯下
 champion,冠军
 gore_screaming_show,血腥尖叫秀
 aethos,道德
@@ -158499,7 +158501,7 @@ crocodile_humanoid,人形鳄鱼
 trolley,手推车
 vicchan,维昌
 darkoverord_occassus,darkoverword 奥卡苏斯
-implied_after_paizuri,paizuri 之后暗示
+implied_after_paizuri,夹乳 用手将乳房聚拢 波推飞机 之后暗示
 loss_kim,洛斯金
 ma_d_k_89,马克
 hamster_boy,仓鼠男孩
@@ -158514,7 +158516,7 @@ guaishengyin,怪生饮
 amano_haruka_(sakogamitokuan),天野遥 (sakogamitokuan)
 haitu,海图
 engawa_(rarenago),engawa（你的父亲）
-oni_horn,今日号角
+oni_horn,日本鬼角 
 crazy_b_(ensemble_stars!),crazy b (一起的明星！)
 li'mone_(goolee),li'mone（进球）
 crazy_hand,疯狂的手
@@ -159199,7 +159201,7 @@ sir_ishinn,伊辛先生
 zarc,扎克
 warmth,温暖
 yukkronii_(ouro_kronii),Yukkroni（欧元克朗）
-partial_69_position,部分 69 位置
+partial_69_position,部分 69 位置  性姿势
 facing_object,面对物体
 curtain_(character),牆（字）
 tenecayr,特内卡尔
@@ -161657,7 +161659,7 @@ le_chevalier_d'eon,永恒骑士
 acara_(neopets),害虫（尼奥宠物）
 ahnassi,阿纳西
 unicorn_(pripara),独角兽（准备）
-multicolored_headset,多彩多姿的耳机
+multicolored_headset,多彩 彩色 多色多姿的耳机
 equius_zahhak,尊重
 unkmochi,云毛
 nattapuumuu,纳塔普穆
@@ -162876,7 +162878,7 @@ horridus,恐怖
 niki_(nikism1987),什么 (nikism1987)
 orangekissess,橙吻
 shine_sprite,闪耀精灵
-multicolored_facial_hair,多彩的面部毛发
+multicolored_facial_hair,多彩 彩色 多色的面部毛发
 zenberu_gugu,全贝鲁咕咕
 bodyxcount,身体计数
 jedader,杰达德
@@ -163495,7 +163497,7 @@ hunnter,猎人
 chaconne,恰康舞曲
 aife_(wolfpack67),aife (wolfpack67)
 swavigg,斯瓦维格
-vertical_69_position,垂直 69 位置
+vertical_69_position,垂直 69 位置  性姿势
 hizaki_sui,陳嶋 关注
 butt_absorption,臀部吸收
 vegasvat1,维加斯瓦特1
@@ -164095,7 +164097,7 @@ swordsoul_of_mo_ye,莫邪剑魂
 necolab,内科拉布
 grk_11601,11601
 tesla_(company),特斯拉（公司）
-3_finger_fingering,3 指指法
+3_finger_fingering,3 3指法 指交
 ichisannyonn,一三ネン
 toongstar,通星
 ze0metric,粒度
@@ -165120,7 +165122,7 @@ takashi_(gyee),高志（Gyeee）
 jmacgregor,麦克格雷戈
 dr._mario_(character),马里奥医生（角色）
 foo_fighters_(stand),Foo Fighters（站立）
-multicolored_armband,多彩臂章
+multicolored_armband,多彩 彩色 多色臂章
 ivan_the_terrible_and_his_son_ivan,伊凡雷帝和他的儿子伊凡
 cat_tattoo,猫纹身
 yaho_(yaho0211),雅虎 (yaho0211)
@@ -166225,7 +166227,7 @@ rai,拉伊
 cornelious_raidon,康奈利厄斯·雷登
 kfc_bucket,肯德基桶
 mano_(m1n0f2e1),手 (m1n0f2e1)
-open_coveralls,敞开的工作服
+open_coveralls,敞开的工作服 背带裤
 knokzm,诺克兹姆
 kazaya,风也
 onizuka_ao,鬼塚衣服
@@ -166832,7 +166834,7 @@ jade_(mortal_kombat),翡翠（真人快打）
 yoruillust,yoruillustrat
 rakeesh,拉凯什
 sasano-01,萨萨诺-01
-buttons_(nipples),纽扣（乳头）
+buttons_(nipples),纽扣扣子（乳头）
 shnider,施奈德
 porpoise,海豚
 playing_with_penis,玩弄阴茎 屌 鸡巴
@@ -167530,7 +167532,7 @@ roy_(redace83),罗伊 (redace83)
 sushilegion,寿司军团
 marron_glace,糖渍栗子
 elijah_zx,elijah zx
-buttoned_clothing,扣上纽扣的衣服
+buttoned_clothing,扣上纽扣的衣服 扣上扣子的衣服
 pepsiman_(character),百事可乐 (角色)
 manaita,马纳伊塔
 juri-arima,有馬
@@ -168080,7 +168082,7 @@ fuwuart,富沃特
 dc9spot,dc9spot
 seiji_(nakagami_takashi),诚二 (中上卓)
 kanda_saki,愤怒的包
-multicolored_suit,多彩套装
+multicolored_suit,多彩 彩色 多色套装
 sapphire_(deonwolf),蓝宝石（恶魔狼）
 butch_(animal_crossing),布奇（动物穿越）
 ashenclaw,灰爪
@@ -168116,7 +168118,7 @@ cy9,cy9
 allos,其他的
 koyoi_mo_meshimase_alicetale,koyoi 是最好的 meshimase alicetale
 dolores_(kof),多洛雷斯（咳嗽）
-multicolored_sunglasses,多彩太阳镜
+multicolored_sunglasses,多彩 彩色 多色太阳镜
 shirushiru,希鲁
 konno_27,但 27
 jamwes,詹姆斯
@@ -169083,7 +169085,7 @@ kissing_tail_mouth,亲吻尾巴嘴
 blissade,极乐
 wishing_cairn_(e.g.o),许愿石冢（自我）
 jinguji_sayaka,神宮寺微笑
-oni_tama,今天
+oni_tama,日本鬼 天翼
 momotarekawa,桃垂川
 matsumoto_(vivy),松本 (vivy)
 mokoi_(megami_tensei),一 (女神转生)
@@ -169412,7 +169414,7 @@ tagonkrat,塔贡克拉特
 yoyoyoyoyo_(turuse),yoyoyoyoyo （翻过来）
 kuu_(haibane),空（灰羽）
 geosaiko1267,geosaiko1267
-father_fingering_son,父亲指法儿子
+father_fingering_son,父亲指法儿子 指交
 harukai-i,遥慰
 nivarra,尼瓦拉
 plesioth,近端齿状
@@ -169978,7 +169980,7 @@ nekokyu,猫咪
 hoshikoi_tinkle,星恋叮当
 mimoza_(mmmimoza_5),含羞草（mmmimoza 5）
 z-crystal,型晶体
-multicolored_male_swimwear,多彩男士泳衣
+multicolored_male_swimwear,多彩 彩色 多色男士泳衣
 ovens,烤箱
 uruz_fox,狐狸
 negasw,负面
@@ -170278,7 +170280,7 @@ umo_(mica_team),umo（云母队）
 hydraulic_press,液压机
 in_cleavage,在乳沟中
 nemou,内穆
-multicolored_hair_accessory,多彩多姿的发饰
+multicolored_hair_accessory,多彩 彩色 多色多姿的发饰
 sumi_noth,苏米·诺斯
 kaiven,凯文
 hoshimura_makina,星村真菜
@@ -170538,7 +170540,7 @@ mavrickzoo,马弗里克动物园
 cavalry_sword,骑兵剑
 caligula_2,卡利古拉 2
 lisa_(genshin_impact)_(cosplay),lisa（原神）（角色扮演）
-multicolored_bow_tie,多彩领结
+multicolored_bow_tie,多彩 彩色 多色领结
 agaver123,龙舌兰123
 gokyou_akira,五間晃
 koaki,小秋
@@ -170696,7 +170698,7 @@ animankan,動漫
 lumine_(zhangjiajie)_(genshin_impact),Lumine（张家界）（原神）
 dai_mao_xuan_yi,戴茂轩
 partially_clothed_feral,部分穿着野性
-multicolored_toes,多彩的脚趾
+multicolored_toes,多彩 彩色 多色的脚趾
 space_funeral,太空葬礼
 bullchicken,公鸡
 bymetalala,来自metalala
@@ -171553,7 +171555,7 @@ chongyu,崇禹
 siplick,西普利克
 teko_(tawake),測試（tawake）
 giant_robo_(mecha),巨型機器人
-love_live!_series_presents_unit_koshien_2024,愛生活！系列呈现单元厨房
+love_live!_series_presents_unit_koshien_2024,愛生活！系列呈现 展示 露出单元厨房
 siri_(sirithebat),siri（sirithebat）
 kwz_ini,问题 ini
 jax_bline,杰克·布林
@@ -172723,7 +172725,7 @@ t4o3q,t4o3q
 inica,印度洋
 twitching_pussy,抽搐的阴部
 comanie,科马尼
-colorfulhoovednights,多彩蹄类
+colorfulhoovednights,多彩 彩色 多色蹄类
 aerial_explorer_archen,空中探险家 Archen
 wyatt_(wyatttfb),怀亚特 (wyatttfb)
 yamada_naoko,山田直子
@@ -173111,7 +173113,7 @@ khnchak,肯恰克
 pride_color_speedo,骄傲色 Speedo
 primitive_hunting_dog,原始猎犬
 bede_(champion)_(pokemon),比德 (冠军) (神奇宝贝)
-toe_fingering,脚趾指法
+toe_fingering,脚趾指法 指交
 tenth_doctor,第十位医生
 ito_(daisukidanchi),伊藤（daisukidanchi）
 pmd-unity,pmd-统一
@@ -173309,7 +173311,7 @@ numahito,沼人
 fritia_ignis,弗里蒂亚·伊格尼斯
 yinhu885,yinhu885
 zombie_(honkai_impact),殭屍（崩坏沖擊）
-multicolored_heels,多彩高跟鞋
+multicolored_heels,多彩 彩色 多色高跟鞋
 glistening_antennae,闪闪发光的天线
 lamm,拉姆
 arwyn_(bleddyn),arwyn（bleddyn）
@@ -173824,7 +173826,7 @@ iridius,鸢尾花
 luci_ole,露西奥莱
 harsh-mallowz,harsh-mallowz
 nakai_(zabuton_makura),座布顿枕
-multicolored_sneakers,多彩运动鞋
+multicolored_sneakers,多彩 彩色 多色运动鞋
 man015s,男人015
 ash_the_skunk,臭鼬灰
 andranof_pepesha,安德拉诺夫薄荷
@@ -174385,7 +174387,7 @@ bright_memories_(idolmaster),美好回忆 (偶像大师)
 rose22,罗斯22
 shagaru_magala,沙加鲁市
 trumbeak,喇叭嘴
-blindfold_pull,蒙眼拉
+blindfold_pull,蒙眼拉下扯下
 saisyuusensi,最悠閒
 mountain_bicycle,山地自行车
 killystein,基利斯坦
@@ -174950,7 +174952,7 @@ hakamichi_hideaki,衣道秀明
 koyon,科永
 tad_(furronika),tad（法语）
 cuadradito_y_circulito,小正方形和小圆圈
-overalls_removed,脱下工作服
+overalls_removed,脱下工作服 背带裤
 akai_hime_(wild_assault),赤姬（狂野突击）
 fams_(group),家庭（团体）
 hondo_kaede,本多角色
@@ -175831,7 +175833,7 @@ karna_(formal_dress)_(fate),karna（礼服）（命运）
 shabon,沙邦
 dwzaafi,杜扎菲
 deadlycomics_(copyright),DeadlyComics（版权所有）
-horn_suck,喇叭吸吮
+horn_suck,角吸吮
 amber_(zaush),琥珀（zaush）
 dark.h,暗.h
 bolt_cutters,断线钳
@@ -176219,7 +176221,7 @@ kaworu_(1030),薰 (1030)
 sinzx80,sinzx80
 marianne_(avencri),Marianne（avencri）
 mifuji_kiichi,三藤喜一
-siobhan_(honkai:_star_rail),西沃恩（崩坏：星之铁道）
+siobhan_(honkai:_star_rail),西沃恩（崩坏：星穹铁道）
 flare_(lumozze),耀斑（闪光）
 sinoda_maru7326,西诺达 maru7326
 bradamante_(welcome_bunny)_(fate),bradamante（欢迎兔子）（命运）
@@ -176389,7 +176391,7 @@ shea,乳木果
 uyumizyunco,乌尤米容佐
 buyong22,布永22
 douman_kenichirou,道曼健一郎
-brother_fingering_brother,兄弟 指法 兄弟
+brother_fingering_brother,兄弟 指法 兄弟 指交
 mike_(artist),麦克（艺术家）
 hello_kiki,你好，kiki
 kiss_mark_on_cheek,脸颊上的吻痕
@@ -176998,7 +177000,7 @@ heki0529,heki0529
 nipple_kiss,乳头亲吻
 interspecies_birth,跨物种生育
 kuroinu_momotarou,kuroinu momotarou 没有关注任何人。 Autodesk_new
-hatsune_miku:_colorful_stage!,初音未来：多彩的舞台！
+hatsune_miku:_colorful_stage!,初音未来：多彩 彩色 多色的舞台！
 gratin,焗烤
 watashi_no_shiawase_na_kekkon,水不是幸福和结缘
 tami_moon,塔米·穆恩
@@ -177049,7 +177051,7 @@ eiji_kakihana_(odd_taxi),柿花英二（单程出租车）
 yuntouxie,云头鞋
 monara_(dr_graevling),莫纳拉（graevling 博士）
 takiteru,泷照
-reverse_amazon_position,反向亚马逊立场
+reverse_amazon_position,反向亚马逊立场  性姿势
 eikiri_eimu,永活英梦
 fumiomiomi,文臣
 nill_(dogs),nill （狗）
@@ -177829,7 +177831,7 @@ zoid,类动物
 primcoco,普里姆科科
 tokkieee_qian,托基钱
 wafu_(wafu39080),瓦夫 (wafu39080)
-groping_belly,摸肚子
+groping_belly,猥亵 摸肚子
 tofffffu,托夫夫
 pride_royal_ivy,骄傲皇家常春藤
 argyle_gloves,菱形花纹手套
@@ -178842,7 +178844,7 @@ kamitsubaki_city_ensemble,上菱市集
 papeapoo,帕皮阿波
 hcl_(hsiehdrew),hcl (谢德鲁)
 exxy_(4chan),exxy (4chan)
-mr._reca_(honkai:_star_rail),先生。雷卡（崩坏：星之铁道）
+mr._reca_(honkai:_star_rail),先生。雷卡（崩坏：星穹铁道）
 kizuna_akari_(moe),绊阿卡莉 (萌)
 samma,萨玛
 pe51illust,pe51插图
@@ -178912,7 +178914,7 @@ tanyou,探游
 wataya_arata,阿拉塔之年
 kuroiwa_brs,黑岩brs
 chikkinage_nage,chikkinage 也
-legwear_pull,腿部拉力
+legwear_pull,腿部袜拉下扯下
 dragon_knight_(dungeon_and_fighter),龙骑士 (地下城与勇士)
 sandy_carington,桑迪·卡灵顿
 kuroike_momimi,黑池妈妈
@@ -179041,7 +179043,7 @@ tasqyn_studio,tasqyn 工作室
 nectar_(pikmin),花蜜（皮克敏）
 umino_chika_(character),海野千佳 (角色)
 yu_xiu,毓秀
-oni_chichi,今天集集
+oni_chichi,日本鬼 嗤嗤
 artiskarushi,阿蒂斯卡鲁希
 master_(momitai7),主人 (momitai7)
 haniwa-dako,埴輪
@@ -179901,7 +179903,7 @@ the_legend_of_luo_xiaohei,罗小黑传奇
 pango_(klonoa),pango（克隆）
 kkhoppang,卡霍潘
 dusty_tomes,布满灰尘的书籍
-guided_fingering,指法引导
+guided_fingering,指法引导 指交
 quote's_mom_(quotefox),quote 的妈妈 (quotefox)
 quo_(haizaraq),quo （haizaraq）
 cino_(amairoka),cino（阿马罗卡）
@@ -179933,7 +179935,7 @@ dora_systeel,多拉·西斯蒂尔
 radiant_glow,光芒四射
 radek_ken,拉德克·肯
 cianter,西安特
-button-down_shirt,纽扣衬衫
+button-down_shirt,纽扣扣子衬衫
 noel_chandler,诺埃尔·钱德勒
 asexual_flag,无性标志
 rad-dan-art,rad-dan-art
@@ -180904,7 +180906,7 @@ nott_(fire_emblem),nott（火焰之纹章）
 snake_charmer,耍蛇人
 bird_on_weapon,武器上的鸟
 gokiburi_no_dashi,火锅里的汤
-doggy_deluxe_position,狗狗豪华体位
+doggy_deluxe_position,狗狗豪华体位  性姿势
 cure_march_(cosplay),治愈行进 (角色扮演)
 vertical-striped_overalls,竖条纹工装裤
 sakura_chiyono_o_(sakura_hearts_are_super_good_hearts)_(umamusume),樱千代乃 O (樱心是超善良的心) (马娘)
@@ -182065,7 +182067,7 @@ feegie,费吉
 sakurano_megumi_(character),樱乃惠（角色）
 makabe_masamune,真壁正宗
 tomoe_(pixiv_53856103),巴 (pixiv 53856103)
-antennae_pull,天线拉力
+antennae_pull,天线拉下扯下
 matsumaramara,松马拉马拉
 frederika_(mon-musu_quest!),frederika（mon-musu 任务！）
 millpi01,millpi01
@@ -182387,7 +182389,7 @@ art_of_emm,emm 的艺术
 wakatsuki_niko,若槻ひになる
 the_wonderful_101,精彩的101
 siiisuuu,真
-sideway_missionary_position,侧身传教士体位
+sideway_missionary_position,侧身传教士体位  性姿势
 mistresskamba,情妇坎巴
 thea,西娅
 erakir_(character),埃拉基爾（角色）
@@ -183157,13 +183159,13 @@ illyasviel_von_einzbern_(assassin_install),伊利亚斯维尔·冯·爱因兹贝
 mega_evolution,超级进化
 toyohara_mitsuki,豊原ミツキ
 giant_ojou-sama,大小姐
-multicolored_robe,多彩连衣裙
+multicolored_robe,多彩 彩色 多色连衣裙
 eumenes_(fate),蜈蚣（命运）
 drill_nose,钻鼻
 kayalina,卡亚利娜
 inward_(itwasleo),向内（向内）
 bella_(phantomfuz),贝拉（phantomfuzz）
-multicolored_pseudo-penis,多彩假阴茎 屌 鸡巴
+multicolored_pseudo-penis,多彩 彩色 多色假阴茎 屌 鸡巴
 kannagi_yuuma,kannagi 是 yuuma
 gnmakosn,格纳马科斯
 sou_ryuu,宗流
@@ -183239,7 +183241,7 @@ standing_on_butt,站在屁股上
 aldyderg,阿尔迪德格
 aji082,AJI082
 my_little_pony_tales,我的小马驹故事
-standing_leg_glider_position,站立腿滑翔姿势
+standing_leg_glider_position,站立腿滑翔姿势  性姿势
 mezzo_piano,中音钢琴
 mating_plug,配套插头
 jellycakeslice,果冻蛋糕片
@@ -183264,7 +183266,7 @@ mog_(puzzle_bobble),mog（拼图泡泡龙）
 jberrserker,杰伯尔塞克
 astri_ardenvahl,阿斯特里·阿登瓦尔
 vanita,瓦尼塔
-multicolored_sandals,多彩凉鞋
+multicolored_sandals,多彩 彩色 多色凉鞋
 mezzmar,梅兹马尔
 heero_(whvu2288),希罗 (whvu2288)
 telethia_(scorpdk),telethia (scorpdk)
@@ -183793,7 +183795,7 @@ lunart,月球艺术
 okabepom_(modeler),okabepom (模特)
 pink_leaves,粉红色的叶子
 reboot_(character),重启（角色）
-reverse_perching_position,反向栖息姿势
+reverse_perching_position,反向栖息姿势  性姿势
 cat_cube,猫立方体
 pokeblock_case,神奇宝贝盒子
 shinonizaru,篠猿
@@ -184134,7 +184136,7 @@ saionji_kazari,西园寺饰
 lipstick_on_pussy,口红涂在阴部
 yang_(yin_yang_yo!),阳（阴阳哟！）
 shiratori_aria,白鸟亚莉亚
-brother_fingering_sister,哥哥指法妹妹
+brother_fingering_sister,哥哥指法妹妹 指交
 nix_(dr.bubblebum),nix（dr.bubblbum）
 ratifuu,拉蒂富
 lapras_paradise,拉普拉斯乐园
@@ -185621,7 +185623,7 @@ lucioro,卢西奥罗
 riejiu,热久
 nekotama_(artist),nekotama（艺术家）
 nidochi,尼多奇
-fingering_while_penetrating,插入时用手指
+fingering_while_penetrating,插入时用手指 指交
 depsu,德普苏
 posumine,波苏米内
 bug_(vocaloid),错误（Vocaloid）
@@ -185813,7 +185815,7 @@ yuya_kyoro,祐也京
 azzy_(xenonwolf),azzy (xenonwolf)
 447_records,447 条记录
 morgan_(os),摩根（os）
-double_fingering,双指
+double_fingering,双指 指交
 newton_(katemonsterfucker),牛顿 (katemonsterfucker)
 isabella_ryan,伊莎贝拉·瑞安
 sneaselsnee,斯尼
@@ -186771,7 +186773,7 @@ cara_the_blood_lord,面对血领主
 kami_to_sumi,卡车到 sumi
 cyan_(sasukeone3),青色 (sasukeone3)
 almostdeadbydawn,黎明前几乎死亡
-bending_over_position,弯腰姿势
+bending_over_position,弯腰姿势  性姿势
 satou_(ultrmngrtsrt),satou (ultrmngrtsrt)
 ben_lo,本罗
 manasseh,玛拿西
@@ -188009,7 +188011,7 @@ darkwolfie,暗狼
 cobalt_scar_(e.g.o),钴疤痕（自我）
 wixoss_diva(a)live,wixoss diva(a)live
 chloe_(noir),克洛伊（黑色）
-oni_giri_(vox_akuma),鬼怪（配音：恶魔）
+oni_giri_(vox_akuma),日本鬼怪（配音：恶魔）
 adella_the_nun,修女阿德拉
 nori_tamahana,玉花がなら
 magical_mirai_rin_(2019),魔法未来凛 (2019)
@@ -189296,7 +189298,7 @@ sahagin,沙哈金
 5tflldartist5,5tflldartist5
 jaijai,贾贾伊
 lifted_clothing,掀开掀起揭开 衣服
-sagittarius_position,射手座位置
+sagittarius_position,射手座位置  性姿势
 anna_lindhurst,安娜·林德赫斯特
 quib,哑炮
 r3d,r3d
@@ -190105,7 +190107,7 @@ room_rem,房间 rem
 momozono_momo_(high_school_dxd),桃园桃园 (高中 DXD)
 chabo_(niwatori_bosori),chabo（没有悲伤）
 zoffy_(ultra_series),zoffy（超系列）
-presenting_knot,呈现结
+presenting_knot,呈现 展示 露出结
 iralion,伊拉利昂
 swaggy,摇摆的
 nimu_(vtuber)_(3rd_costume),nimu (vtuber) (第三套服装)
@@ -191283,7 +191285,7 @@ kurogane_yuuto,黑铁勇者
 alice_(criminal_girls),爱丽丝（犯罪女孩）
 pipiko.,皮皮科。
 hand_on_partner's_thigh,手放在伴侣的大腿上
-multicolored_sports_bra,多彩运动胸罩
+multicolored_sports_bra,多彩 彩色 多色运动胸罩
 imminent_throw,即将投掷
 boom_(seahawks),繁荣（海鹰队）
 black_clitoral_hood,黑色阴蒂包皮
@@ -191327,7 +191329,7 @@ himekiss,希麦基斯
 glowing_chest,发光的胸部
 sfmsalandit,萨兰迪特
 mugen_dai,无限大
-multicolored_apron,多彩围裙
+multicolored_apron,多彩 彩色 多色围裙
 xander_(soda_cats),xander（苏打猫）
 ulna_moon,尺月
 amin_(aminblue),amin (aminblue)
@@ -192429,7 +192431,7 @@ shibainu_illust,柴犬插画
 imhotep_(neural_cloud),imhotep（神经云）
 skyvo_(character),skyvo（角色）
 kasuga_shun,春日旬
-vest_pull,背心拉
+vest_pull,背心拉下扯下
 sinb_(gfriend),sinb (女朋友)
 mana_gloriosa,荣耀之力
 luca_(nouyorus),luca (新月)
@@ -193089,7 +193091,7 @@ haiero,海罗
 fortune_cookie,幸运饼干
 muni_nuren,穆尼努伦
 red_winds,红风
-nursing_paizuri,护理 paizuri
+nursing_paizuri,护理 夹乳 用手将乳房聚拢 波推飞机
 apple_(suikoden),苹果（代码）
 rokuro_(ryvius),rokuro（ryvius）
 makudesu,目錄
@@ -194004,10 +194006,10 @@ takimii,泷井
 hati_(deer_chang),hati（鹿昌）
 nilnco,尼尔科
 katayudetamago,片游蛋
-4_finger_fingering,4 指指法
+4_finger_fingering,4指指法 指交
 horizontal-striped_necktie,横条纹领带
 jiseung_(balnom),地気 (balnom)
-ambiguous_fingering_female,暧昧指法女性
+ambiguous_fingering_female,暧昧指法女性 指交
 katamari,块魂
 dao_dao,道道
 usami_iori,宇佐見庵
@@ -194568,7 +194570,7 @@ black_goat_(inscryption),黑山羊（铭文）
 on_side_handjob,侧身手淫
 shiina_risa,椎名理沙
 honeybeebonfire,蜜蜂篝火
-horn_through_clothing,透过衣服
+horn_through_clothing,角透过衣服
 snarbolax,斯纳博拉克斯
 tanacris_(third_kureko),tanacris（第三季）
 rel_(relsarts),rel（relsarts）
@@ -197154,7 +197156,7 @@ tiara_removed,摘掉头饰
 leaning_on_hands,靠在手上
 lucky_(luckyderg),幸运 (luckyderg)
 the_punisher_(character),惩罚者（角色）
-oni_unicorn,今日独角兽
+oni_unicorn,日本鬼独角兽
 achilles_(hades),阿喀琉斯（哈迪斯）
 asuka_asuka,末日的终结
 the_goukou_zone,沟口区
@@ -199190,7 +199192,7 @@ aoree,奥里
 liuke448,刘克448
 zulikath,祖利卡特
 soto_miyako,索托房屋
-multicolored_pupils,多彩瞳孔
+multicolored_pupils,多彩 彩色 多色瞳孔
 hiei_(moonlit_cruise)_(azur_lane),比睿（月光巡航）（蓝色航线）
 dust_(mth),灰尘（月）
 umenituru,梅尼图鲁
@@ -201136,8 +201138,8 @@ tsukuyomi_luna_(tenebrae_mode),月读之月（暗黑模式）
 ctw36,ctw36
 twisted_metal,扭曲的金属
 yukishiro_chifuyu,千冬雪代
-limousine_interior,豪华轿车内饰
-ambiguous_fingering,模棱两可的指法
+limousine_interior,豪华轿车内饰 
+ambiguous_fingering,模棱两可的指法 指交
 arimas_ar1,有馬 ar1
 mito_(murayama_ryota),mito（村山亮太）
 tsukushi_aria,筑紫亚莉亚
@@ -202755,7 +202757,7 @@ mio_(sky-freedom),mio（天空自由）
 oshirase-chan_(kure~pu),oshirase-chan（猪~pu）
 eolas_(dogsrnice),eolas (狗狗)
 hinata_hajime_(cosplay),日向雏田 (Cosplay)
-titania_(chromatic_bard),泰坦妮娅 (多彩吟游诗人)
+titania_(chromatic_bard),泰坦妮娅 (多彩 彩色 多色吟游诗人)
 walk_on_and_on_(project_sekai),继续前行（Project Sekai）
 hirokawa_desu,ヒロヶ川ディ
 dan_(meesh),dan（米什）
@@ -202839,7 +202841,7 @@ top_lift,掀开掀起揭开 顶部
 onirin,奥尼林
 print_shawl,印花披肩
 amamiya_momona,雨宫桃奈
-fingering_gesture,手指手势
+fingering_gesture,手指手势 指交
 luludeer386,露露鹿386
 pony_of_shadows_(mlp),暗影小马 (mlp)
 fffteam,团队
@@ -204326,7 +204328,7 @@ kashiyarrm,喀什市
 black_striped_body,黑色条纹的身体
 kashiwagi_yuki_(akb0048),柏木由希 (akb0048)
 shantae:_and_the_pirate's_curse,桑塔：海盗的诅咒
-king_of_clubs_position,梅花王的位置
+king_of_clubs_position,梅花王的位置  性姿势
 smirkingcat,傻笑猫
 marc_brunet,马克·布鲁内特
 marc_debauch,马克·德巴什
@@ -205053,7 +205055,7 @@ selina,塞莉娜
 self_sucking,自吸
 kiso_fumihiro,木曾文博
 secretary_outfit,秘书装
-button_panties,纽扣内裤
+button_panties,纽扣扣子内裤
 bigender,双性人
 bigboy,大男孩
 kanika,卡尼卡
@@ -205175,7 +205177,7 @@ seijuro_shin,新征十郎
 dusk_mane_necrozma,黄昏鬃毛 奈克洛兹玛
 hololive_super_expo_2024_outfit,Hololive 超级博览会 2024 服装
 ai_(digimon_tamers),ai（数码宝贝驯兽师）
-multicolored_thigh_boots,多彩过膝长靴
+multicolored_thigh_boots,多彩 彩色 多色过膝长靴
 bustersiri,巴斯特西里
 mason_(baehotline),梅森 (baehotline)
 xe,氙气
@@ -205844,7 +205846,7 @@ gnlo,格诺
 electricleaf,电叶
 kaneki_profile_picture_(meme),kaneki 头像 (模因)
 sartex,萨泰克斯
-twisted_spoon_position,扭勺姿势
+twisted_spoon_position,扭勺姿势  性姿势
 wally_(mhdrawin),wally (mhdrawin)
 minami_rena_(swimsuit_ver.),南玲奈 (泳装版)
 galax_operi,银河系
@@ -208109,14 +208111,14 @@ hynori,希诺里
 umeka_ena,梅花江
 zahra_(dragonlordfluffyxd),zahra (dragonlordfluffyxd)
 delvin_(character),德尔文（角色）
-multicolored_line_art,多彩线条艺术
+multicolored_line_art,多彩 彩色 多色线条艺术
 millennium_eye,千禧之眼
 andromorph_penetrating_andromorph,雄吗啡 渗透雄吗啡
 seath_the_scaleless,无鳞者希斯
 sousai-san,宗斋先生
 umadura_ero,马杜拉埃罗
 soushuu_senshinkan_gakuen_hachimyoujin,总集研心馆学园八名神
-multicolored_goggles,多彩护目镜
+multicolored_goggles,多彩 彩色 多色护目镜
 engineering_nonsense,工程废话
 erin_(stargazer),erin（观星者）
 millia_il_velch_cutrettola_turan,米莉亚·伊尔·韦尔奇·卡特雷托拉·图兰
@@ -208148,7 +208150,7 @@ gap_(pdmng),GAP（规划）
 andromorph_pov,雄性型 POV
 lunalight_leo_dancer,月光狮子舞者
 nati7g4,nati7g4
-multicolored_helmet,多彩头盔
+multicolored_helmet,多彩 彩色 多色头盔
 dusty_attenborough,达斯蒂·阿滕伯勒
 androssi_zahard,安德罗西·扎哈德
 partially_clothed_ambiguous,部分穿着暧昧
@@ -208765,7 +208767,7 @@ isoroku_(gojuuroku),五十六（五十六）
 argyle,阿盖尔
 tappeee,塔皮
 jiu_dao_fan_yin,九道梵音
-tight_overalls,紧身工作服
+tight_overalls,紧身工作服 背带裤
 axel_in_harlem_(meme),哈莱姆的阿克塞尔 (模因)
 isosceless,等边
 maid_koubou,女僕工房
@@ -209013,7 +209015,7 @@ jen_ambler,詹·安布勒
 letitmelo,letitmelo
 rp_(necho),rp（necho）
 futaholic,武术狂
-presenting_perineum,会阴先露
+presenting_perineum,呈现 展示 露出 会阴
 dizzi_(morhlis),眩晕（莫里斯）
 res2shuu,res2shuu
 francis_(lost-paw),弗朗西斯（失爪）
@@ -209741,7 +209743,7 @@ krall,畜栏
 archibald_thorburn,阿奇博尔德·索伯恩
 taimanin_yukikaze_2,对魔忍雪风2
 b-cat,B猫
-condom_pull,拉动避孕套
+condom_pull,拉动避孕套 拉下扯下
 red_water,红水
 sylvaur_(serpygardy),西尔瓦 (serpygardy)
 mokux_(mo_ku),mokux（mo ku）
@@ -210610,7 +210612,7 @@ clara_(fr0gv0re),克拉拉 (fr0gv0re)
 ma_azi,麻子
 ian_naxieas,伊恩·纳克西亚斯
 hinata_(ado),日向（ひなら）
-double_paizuri,双 paizuri
+double_paizuri,双 夹乳 用手将乳房聚拢 波推飞机
 mistergre,米斯特格雷
 gthusky,格萨斯基
 upside_down_autofellatio,倒立自慰
@@ -211041,7 +211043,7 @@ sengi,我祈祷。
 bitter_choco_decoration_(vocaloid),苦巧克力装饰 (vocaloid)
 kio_sayuki,它是什么？
 ikuya@,るかなら@
-chicory_a_colorful_tale,菊苣的多彩故事
+chicory_a_colorful_tale,菊苣的多彩 彩色 多色故事
 damie_m,damie m
 foxfurries,狐狸毛
 naoto_kurogane,黑金直人
@@ -211766,7 +211768,7 @@ digiten,数字
 gensei_ruri,绝对
 amane_(ama_yzk00),amane (ama yzk00)
 yuurika_(gorua),尤里卡 (gorua)
-group_presenting,小组展示
+group_presenting,小组呈现 展示 露出
 lawlspasm,法律痉挛
 rengeki,连击
 fall_from_grace,失宠
@@ -211937,7 +211939,7 @@ nanananona,娜娜娜娜娜
 veil_(disney),面纱（迪士尼）
 tinydevil,小恶魔
 mgph,每小时毫克
-fingering_while_penetrated,插入时用手指
+fingering_while_penetrated,插入时用手指 指交
 greko_the_cat,格雷科猫
 yoi0763,yoi0763
 asada_yo,浅田哟
@@ -212838,7 +212840,7 @@ hoshino_(illyasviel),星野 (illyasviel)
 badger_boy,獾男孩
 anna_liebert,安娜·利伯特
 star_animals,明星动物
-twisted_chair_position,扭椅位
+twisted_chair_position,扭椅位  性姿势
 pubes_in_foreskin,包皮内的阴毛
 necklace_censor,项链审查员
 lusinka,卢辛卡
@@ -214448,7 +214450,7 @@ souya_touki,東京宗也
 robert_de_jesus,罗伯特·德·赫苏斯
 henryk,亨利克
 demeterxxxx,德米特
-multicolored_feather_hair,多彩羽毛头发
+multicolored_feather_hair,多彩 彩色 多色羽毛头发
 glinda,格林达
 ultraman_ace,艾斯奥特曼
 ultraman_dyna,戴拿奥特曼
@@ -214528,7 +214530,7 @@ littlebunniboo,小兔子
 imeko_san,梅子小姐
 ta_ki,塔基
 tabaritt,塔巴里特
-multicolored_mask,多彩面具
+multicolored_mask,多彩 彩色 多色面具
 wild_girls,狂野女孩
 ume_(flower_knight_girl),梅 (花骑士少女)
 okihara_kotoha,冲原言叶
@@ -215206,7 +215208,7 @@ willa_dragonfly,告诉蜻蜓
 afjc,非洲联合公司
 alarmy,惊慌
 hoshimiya_raichi,星宮雷一
-5_finger_fingering,指指法
+5_finger_fingering,5指法 指交
 video_crop,视频裁剪
 aisle,走道
 hitomi13,Hitomi13
@@ -215227,7 +215229,7 @@ yukisa,雪佐
 aethis_stormlight,艾蒂斯风暴之光
 yumesphere,玉球
 hirose_yuki,広瀬由希
-yellow_babydoll,黄色娃娃装
+yellow_babydoll,黄色情趣睡衣
 wavebird_controller,wavebird 控制器
 yamada_taro_(yamada_tarou00),山田太郎 (yamada tarou00)
 zazz,扎兹
@@ -216059,7 +216061,7 @@ sylvester_merrimen,西尔维斯特·梅里曼
 nannann,南南
 luxain,卢卡因
 derpibooru,德皮博鲁
-obscured_fingering,模糊的指法
+obscured_fingering,模糊的指法 指交
 superman:_the_animated_series,超人：动画系列
 mous69,mous69
 mouryou_no_hako,魔女の箱
@@ -216708,7 +216710,7 @@ egaki_numa,江垣沼
 okitanation,冲绳
 ega_(egavinote),ega (egavinote)
 jimaku,がそば
-cipher_(honkai:_star_rail),密码（崩坏：星穹铁道）
+cipher_(honkai:_star_rail),赛飞儿（崩坏：星穹铁道）
 narukami_arei,鸣神哀
 tamanotsuyu,玉露
 quin_tails,五尾
@@ -218006,7 +218008,7 @@ dragon_(trickster),龍（騙子）
 stone_statue,石像
 cat_print_panties,猫咪印花内裤
 kailee_(x13),凯莉 (x13)
-multicolored_headband,多彩头带
+multicolored_headband,多彩 彩色 多色头带
 stones_of_dragon,龙石
 chester_equine,切斯特马
 silver_creator_award,银奖创作者
@@ -219376,7 +219378,7 @@ kobu_ride,甲布骑行
 far_tarooo,法尔塔鲁
 mizuz,米祖兹
 thresher_(lilo_and_stitch),thresher（莉萝与史迪奇）
-arthropod_abdomen_fingering,节肢动物腹部指法
+arthropod_abdomen_fingering,节肢动物腹部指法 指交
 threyon_(threyon),苏子 (苏子)
 fraggle,脆弱
 through_ceiling,通过天花板
@@ -219472,7 +219474,7 @@ nihilishn,虚无主义
 oono_kanae,大野佳苗
 cookie_print,饼干打印
 gedou_hakurou,gedou hakurou 没有关注任何人。 Autodesk_new
-groping_pecs,摸索胸肌
+groping_pecs,猥亵 摸索胸肌
 lemon_box,柠檬盒
 polyvoir,波利沃尔
 miyabi_juri,雅评审团
@@ -219734,7 +219736,7 @@ samejima_nurie,鯊島塗み
 arykai_(arykai),arykai (arykai)
 onioohashi,鬼大桥
 meganeno_dokitsui,眼镜蛇
-grey_babydoll,灰色娃娃装
+grey_babydoll,灰色情趣睡衣
 koda_jd,柯达
 thermalcake,热蛋糕
 breathing_smoke,呼吸烟雾
@@ -219765,7 +219767,7 @@ franceska_mila_rose,法国玫瑰线
 jack-o'-lantern_(megami_tensei),南瓜灯 (女神转生)
 aru-sci,阿鲁西
 kochouka,小営花
-presenting_cum_in_mouth,嘴里射精
+presenting_cum_in_mouth,呈现 展示 露出 嘴里的射精
 arty,附庸风雅
 arturo_wolff,阿图罗·沃尔夫
 thirty8ght,三十八个
@@ -219780,7 +219782,7 @@ arztin,阿兹丁
 caprara,卡普拉拉
 le_temeraire_(summery_temeraire!)_(azur_lane),鲁莽（夏日鲁莽！）（蓝色车道）
 asaha,阿萨哈
-oni_(thethirdchild),oni (第三个孩子)
+oni_(thethirdchild),日本鬼娃 (第三个孩子)
 le_skarmory_(character),le skarmory（角色）
 elektro_(maxwell1394),電影 (maxwell1394)
 megaherts,兆赫
@@ -220811,7 +220813,7 @@ poisoned,中毒
 leni_(under_the_moon),leni（月下）
 fossa_genitalia,生殖窝
 oooranje_nlj,oooranje nlj
-ponytail_pull,马尾拉
+ponytail_pull,马尾拉下
 oomaeda_marechiyo,大前真千代
 four_mirrors_of_lucifenia,露西菲尼亚的四面镜子
 ponkotsu_musume_no_nichijou,彭骨少女的日常
@@ -220923,7 +220925,7 @@ lester_(trashtoonz),莱斯特 (trashtoonz)
 lesskiss,莱斯基斯
 coulias,库利亚斯
 foreskin_blush,包皮发红
-open_overalls,开裆工作服
+open_overalls,开裆工作服 背带裤
 cotton_le_sergal_(character),棉色鲨狗（角色）
 plotcore,剧情核心
 lepidopterran_(ben_10),鳞翅目 (ben 10)
@@ -222199,7 +222201,7 @@ clem_(picco),克莱姆（峰）
 purpleflamensfw,紫色弗拉门斯
 langod,兰戈德
 lumia_(raven_wolf),露米娅 (渡鸦狼)
-cleavage_storage,裂解储存
+cleavage_storage,乳沟储存
 purrcilla_(kazukio),purrcilla（和幸）
 yumeko_(fgo39625963),梦子 (fgo39625963)
 olimar_(cosplay),olimar（角色扮演）
@@ -223071,7 +223073,7 @@ whisker_ring,晶须环
 gyerah,盖拉赫
 sugarcup_(milk-jug),糖盅（牛奶罐）
 anonattsu,安那澤
-suck_and_jerk_position,吸吮和抽动的姿势
+suck_and_jerk_position,吸吮和抽动的姿势  性姿势
 stupidsmut,愚蠢的色情
 ms._ants,安茨女士
 stynl_f,斯汀尔
@@ -223192,13 +223194,13 @@ master_mummy_(arms),木乃伊大师（武器）
 h&k_g36k,哈尔滨工业大学 G36K
 kaiju_no._8,怪兽8号
 storm_devil,风暴恶魔
-multicolored_glasses,多彩眼镜
+multicolored_glasses,多彩 彩色 多色眼镜
 stormbreeze,风暴微风
 ann_maren_(thedeirdre96),安玛伦 (thedeirdre96)
 storo,斯托罗
 eye_growth,眼睛生长
 kaichou_(homehome_h),kaichou (主页home h)
-multicolored_beard,多彩的胡须
+multicolored_beard,多彩 彩色 多色的胡须
 henken_bekkener,亨肯·贝肯纳
 matado,屠宰场
 mataki23,马塔基23
@@ -223216,7 +223218,7 @@ hyangu,香
 msdk_max,最大
 akiko_(akikosfm),akiko (akikosfm)
 henmimori,半実森
-gynomorph_fingering_male,雌雄同体 指法 男性
+gynomorph_fingering_male,雌雄同体 指法 男性 指交
 minomonsters_inc.,minomonsters 公司
 kagamine_rin_(reactor),鏡音铳 (Reactor)
 kagamine_len_(tricker),鏡音連 (tricker)
@@ -226109,7 +226111,7 @@ machinicalis,机械论
 dromedary_(kemono_friends),单峰骆驼 (兽娘动物园)
 nose_plug,鼻塞
 dronis_(psyphix),无人机（psyphix）
-mutual_groping,互相摸索
+mutual_groping,猥亵 互相摸索
 maruman_sketchbook,丸万素描本
 muttley,马特利
 mutsuya,六也
@@ -226344,7 +226346,7 @@ neon_white,霓虹白
 3ri10te,3ri10te
 malachite_27346,孔雀石 27346
 nemori_petty,根森小气
-father_fingering_daughter,父亲指法女儿
+father_fingering_daughter,父亲指法女儿 指交
 maleherm/ambiguous,恶意的/模棱两可的
 nemi_(dinodoggo),nemi (dinodoggo)
 malofantastic,奇妙的
@@ -226917,7 +226919,7 @@ durandal_(nanoha),幽蘭黛爾 (奈叶)
 durandal_(racehorse),durandal（赛马）
 m9,m9
 hei_tong_shi,嘿童实
-multicolored_wristband,多彩腕带
+multicolored_wristband,多彩 彩色 多色腕带
 zenko0,zenko0
 numb3r_3,3号
 masruu,马斯鲁
@@ -226943,7 +226945,7 @@ mumin,穆明
 mumimushu5,木乃伊5
 nuggies_(nug_gies),nuggies（nug gies）
 nui_(nuitt),nui（努伊特）
-multicolored_harness,多彩线束
+multicolored_harness,多彩 彩色 多色线束
 nun_(eri),尼姑 (eri)
 zenobia_(frist44),泽诺比亚 (frist44)
 m240l_(girls'_frontline),m240l（少女前线）
@@ -229116,7 +229118,7 @@ arapandu_(genshin_impact),阿拉潘杜（原神）
 tmk,韓國
 tkup_(tkupbook),tkup (tkupbook)
 jack_stauber,杰克·斯陶伯
-human_fingering_feral,人类指法野性
+human_fingering_feral,人类指法野性 指交
 three_plates,三个盘子
 threis,特雷斯
 grey_romper,灰色连身裤
@@ -229879,7 +229881,7 @@ pesu_(penpen),pesu（penpen）
 cursed_m4a1_(meme),被诅咒的 m4a1 (模因)
 cum_on_eyes,射到眼睛上
 curie_(garyd12),居里 (garyd12)
-penis_pull,阴茎 屌 鸡巴拉
+penis_pull,阴茎 屌 鸡巴 拉下扯下
 lin_zhi_mao,林志茂
 cure_lovely_(cosplay),治愈可爱（角色扮演）
 younger_rape,青少年强奸
@@ -230182,7 +230184,7 @@ pine-nut_(fullhero),松子 (fullhero)
 lift_and_carry,举起并携带
 yoshizawa_kasumi_(cosplay),吉泽霞 (cosplay)
 crow_(crow_crowd24),乌鸦 (乌鸦 crowd24)
-crouching_tiger_position,卧虎姿势
+crouching_tiger_position,卧虎姿势  性姿势
 crotchplate,裆板
 crossing_guard,过路警卫
 abby's_father_(cobalt_snow),abby的父亲（钴雪）
