@@ -1,6 +1,31 @@
 1girl,1女孩
 hysilens_(honkai:_star_rail),海瑟音（崩坏：星穹铁道）
 cerydra_(honkai:_star_rail),刻律德菈（崩坏：星穹铁道）
+vivian_banshee,薇薇安 绝区零zenless zone zero
+trigger_(zenless_zone_zero),扳机 绝区零zenless zone zero
+yixuan_(zenless_zone_zero),仪玄 绝区零zenless zone zero
+yixuan_(trails_of_ink)_(zenless_zone_zero),仪玄 绝区零zenless zone zero
+ju_fufu,橘福福 绝区零zenless zone zero
+ukinami_yuzuha,浮波柚叶 绝区零zenless zone zero
+alice_thymefield,爱丽丝·泰姆菲尔德 绝区零zenless zone zero
+seed_(zenless_zone_zero),席德 绝区零zenless zone zero
+aino_(genshin_impact),爱诺 原神
+ineffa_(genshin_impact),伊涅芙 原神
+escoffier_(genshin_impact),爱可菲 原神
+varesa_(genshin_impact),瓦雷莎 原神
+yumemizuki_mizuki_(genshin_impact),梦见月瑞希 原神
+haborym_(genshin_impact),赫布里穆 玛薇卡 原神
+shikanoin_heizou_(genshin_impact),鹿野院平藏 原神
+kuki_shinobu_(genshin_impact),久岐忍 原神
+kamisato_ayato_(genshin_impact),神里绫人 原神
+arataki_itto_(genshin_impact),荒泷一斗 原神
+yae_miko_(genshin_impact),八重神子
+sangonomiya_kokomi_(genshin_impact),珊瑚宫心海 原神
+raiden_shogun_(genshin_impact),雷电将军 原神
+kujou_sara_(genshin_impact),九条裟罗
+kamisato_ayaka_(genshin_impact),神里绫华 原神
+kaedehara_kazuha_(genshin_impact),枫原万叶 原神
+qixiong_ruqun,齐胸襦裙 唐服 中国服饰
 highres,高分辨率
 solo,单人
 long_hair,长发 发型
@@ -1070,7 +1095,7 @@ foreshortening,缩短
 hand_gesture,手势
 side_braid,侧边辫子
 pale_skin,皮肤苍白
-incest_(lore),乱伦（传说）
+incest_(lore),乱伦（乱伦）
 leg_markings,腿部标记
 musical_note,音符
 precure,预固化
@@ -1144,7 +1169,7 @@ web_address,网址
 blue_nails,蓝色指甲
 outline,大纲
 sleeves_past_fingers,袖子过手指
-sibling_(lore),兄弟姐妹（传说）
+sibling_(lore),兄弟姐妹（乱伦）
 eyeshadow,眼影
 wet_clothes,湿衣服
 buckle,扣上
@@ -1172,7 +1197,7 @@ moan,呻吟
 o-ring,形圈
 yellow_bow,黄色蝴蝶结
 procyonid,浣熊科
-parent_(lore),父母（传说）
+parent_(lore),父母（乱伦）
 feral_on_feral,野性对野性
 spoken_heart,说出心声
 short_hair_with_long_locks,短发长发
@@ -1358,7 +1383,7 @@ male_anthro,雄性人类学
 submissive_female,顺从的女性
 dragon_girl,龙女孩
 scottgames,斯科特游戏
-parent_and_child_(lore),父母与孩子（传说）
+parent_and_child_(lore),父母与孩子（乱伦）
 hair_scrunchie,发圈
 green_jacket,绿色夹克
 black_bowtie,黑色领结
@@ -1611,7 +1636,7 @@ mythological_avian,神话中的鸟类
 cumdrip,精液滴落
 6+boys,6+男孩
 cleft_of_venus,金星裂隙
-brother_(lore),兄弟（传说）
+brother_(lore),兄弟（乱伦）
 school_bag,书包
 semi-anthro,半拟人化
 sex_toy_in_ass,性玩具插入屁股
@@ -1621,7 +1646,7 @@ plump,丰满
 nude_female,裸体女性
 tentacle_hair,触手毛
 :q,:问
-sister_(lore),姐姐（传说）
+sister_(lore),姐姐（乱伦）
 head_rest,头枕
 looking_ahead,展望未来
 antennae_(anatomy),触角（解剖学）
@@ -1722,7 +1747,7 @@ black_bodysuit,黑色紧身衣
 larger_anthro,较大的人类学
 human_on_humanoid,人类与人形生物
 hair_down,垂下头发
-trans_(lore),转译（传说）
+trans_(lore),转译（乱伦）
 mouth_mask,口罩
 anal_orgasm,肛门高潮
 eyebrow_through_hair,眉毛穿过头发
@@ -1759,7 +1784,7 @@ pants_down,裤子脱下
 naughty_face,顽皮的脸
 serious,严肃的
 2koma,2格
-mother_(lore),母亲（传说）
+mother_(lore),母亲（乱伦）
 small_waist,小腰
 neon_genesis_evangelion,新世纪福音战士 EVA
 black_horns,黑角
@@ -1963,7 +1988,7 @@ anatomically_correct_genitalia,解剖学上正确的生殖器
 looking_aside,向旁边看
 holding_unworn_clothes,拿着没穿过的衣服
 borrowed_character,借用角色
-son_(lore),儿子（传说）
+son_(lore),儿子（乱伦）
 suid,苏伊德
 chocolate,巧克力
 muscular_female,肌肉发达的女性
@@ -2069,7 +2094,7 @@ branch,分支
 dildo_insertion,假阳具插入
 holding_breast,抱着乳房
 suzumiya_haruhi_no_yuuutsu,凉宫春日的忧郁
-parent_and_son_(lore),父母与儿子（传说）
+parent_and_son_(lore),父母与儿子（乱伦）
 chibi_only,仅限Q版
 alternate_color,替代颜色
 smoking,吸烟
@@ -2139,7 +2164,7 @@ vibrator,振動器
 world_witches_series,世界女巫系列
 underwater,水下
 canine_pussy,狗猫的阴部 狗猫逼
-mother_and_child_(lore),母与子（传说）
+mother_and_child_(lore),母与子（乱伦）
 multi_arm,多臂
 biting_lip,咬嘴唇
 frilled_shirt,荷叶边衬衫
@@ -2247,7 +2272,7 @@ covering_breasts,遮盖乳房
 animated_gif,动画 gif
 intersex_penetrated,双性人渗透
 kaga_(kancolle),加贺 (舰娘)
-father_(lore),父亲（传说）
+father_(lore),父亲（乱伦）
 pink_bikini,粉色比基尼
 blanket,毯子
 kagamine_rin,鏡音凛
@@ -2413,7 +2438,7 @@ tabi,足袋
 clothed/nude,穿衣/裸体
 arched_back,拱背
 gagged,堵住嘴
-father_and_child_(lore),父与子（传说）
+father_and_child_(lore),父与子（乱伦）
 ear_tuft,耳簇
 guilty_gear,罪恶装备
 wood,木头
@@ -2493,7 +2518,7 @@ prick_ears,竖起耳朵
 emanata,埃马纳塔
 covered_eyes,蒙住眼睛
 cow_ears,牛耳朵
-ganyu_(genshin_impact),ganyu (原神)
+ganyu_(genshin_impact),甘雨 (原神)
 brown_clothing,棕色衣服
 text_on_clothing,衣服上的文字
 faceless_human,无面人
@@ -2537,7 +2562,7 @@ duel_monster,決斷怪獸
 reading,阅读
 lapels,翻领
 blue_vest,蓝色背心
-brother_and_sister_(lore),兄妹（传说）
+brother_and_sister_(lore),兄妹（乱伦）
 sleeve_cuffs,袖口
 headpat,拍头
 big_pecs,大胸肌
@@ -2575,8 +2600,8 @@ after_vaginal,阴道后
 inflatable,充气的
 text_focus,文本焦点
 animification,动画化
-trans_woman_(lore),跨性别女人（传说）
-male_(lore),男性（传说）
+trans_woman_(lore),跨性别女人（乱伦）
+male_(lore),男性（乱伦）
 saber_(fate),剑 (命运)
 mini_crown,迷你皇冠
 holding_instrument,保持仪器
@@ -2738,13 +2763,13 @@ sequence,顺序
 surprised_expression,吃惊的表情
 stuffed_rabbit,毛绒兔子
 bucket,桶
-daughter_(lore),女儿（传说）
+daughter_(lore),女儿（乱伦）
 tiger_ears,虎耳
 chestnut_mouth,栗子嘴
 bald,秃
 gallus_(genus),鸡属
 fantasy,幻想
-nonbinary_(lore),非二元性别（传说）
+nonbinary_(lore),非二元性别（乱伦）
 watersports,水上运动
 scythe,镰
 frilled_thigh_strap,褶边大腿绑带
@@ -2760,7 +2785,7 @@ pink_kimono,粉色和服
 multi_nipple,多奶嘴
 precum,前列腺液
 harness,马具
-parent_and_daughter_(lore),父母与女儿（传说）
+parent_and_daughter_(lore),父母与女儿（乱伦）
 dancing,跳舞
 fur-trimmed_coat,毛皮大衣
 maid_uniform,女仆制服
@@ -3167,7 +3192,7 @@ hibiscus,芙蓉
 holding_another's_wrist,握住他人的手腕
 black_capelet,黑色披肩
 hijiri_byakuren,圣白莲
-brothers_(lore),兄弟（传说）
+brothers_(lore),兄弟（乱伦）
 goth,哥特
 leg_ribbon,腿带
 tiptoes,踮起脚尖
@@ -3185,12 +3210,12 @@ ribbon_choker,丝带颈链
 bead_necklace,珠子项链
 pink_rose,粉红玫瑰
 imminent_kiss,即将来临的吻
-mother_and_son_(lore),母与子（传说）
+mother_and_son_(lore),母与子（乱伦）
 black_scarf,黑色围巾
 belt_pouch,腰带包
 monster_girl_(genre),妖怪女孩（類型）
 old,老的
-sisters_(lore),姐妹（传说）
+sisters_(lore),姐妹（乱伦）
 see-through_sleeves,透明袖子
 frilled_hairband,荷叶边发带
 hakama_short_skirt,袴 短裙
@@ -3338,7 +3363,7 @@ holding_melee_weapon,持有近战武器
 eye_scar,眼睛疤痕
 pink_shoes,粉红色的鞋子
 pattern_background,图案背景
-father_and_son_(lore),父与子（传说）
+father_and_son_(lore),父与子（乱伦）
 blue_markings,蓝色标记
 sparkling_eyes,闪闪发光的眼睛
 transparent,透明的
@@ -3492,7 +3517,7 @@ anatomically_correct_penis,解剖学上正确的阴茎 屌 鸡巴
 mizuhashi_parsee,水桥帕西
 fubuki_(kancolle),吹雪 (舰娘)
 oviposition,产卵 性姿势
-female_(lore),女性（传说）
+female_(lore),女性（乱伦）
 black_suit,黑色西装
 two-tone_skin,双色皮肤
 holding_spoon,拿勺子
@@ -3657,7 +3682,7 @@ checkered_floor,方格地板
 wuthering_waves,（鸣潮）
 holding_bow_(weapon),手持弓（武器）
 cat_boy,猫男孩
-trans_man_(lore),跨性别男人（传说）
+trans_man_(lore),跨性别男人（乱伦）
 bandicoot,袋狸
 thin_legs,瘦腿
 leaning_to_the_side,向一侧倾斜
@@ -3811,7 +3836,7 @@ fingering_partner,指法伙伴 指交
 fundoshi,財道
 macross,超时空要塞
 glistening_skin,闪亮的皮肤
-mother_and_daughter_(lore),母与女（传说）
+mother_and_daughter_(lore),母与女（乱伦）
 fringe_trim,流苏饰边
 floppy_ears,松软的耳朵
 soft_vore,软吞噬
@@ -3890,7 +3915,7 @@ curtained_hair,垂垂的头发
 foot_lick,舔脚
 gigantic_breasts,巨乳
 shigure_kai_ni_(kancolle),时雨改 ni (舰娘)
-furina_(genshin_impact),furina（原神）
+furina_(genshin_impact),芙宁娜·德·枫丹（原神）
 grey_balls,灰球
 miqo'te,米科特
 ;o,;哦
@@ -4004,7 +4029,7 @@ sakazuki,坂月
 pink_choker,粉色颈链
 mask_(marking),掩膜（标记）
 bobby_socks,鲍比袜
-twins_(lore),双胞胎（传说）
+twins_(lore),双胞胎（乱伦）
 heart_brooch,心形胸针
 veiny_muscles,静脉肌肉
 single_sock,单只袜子
@@ -4144,7 +4169,7 @@ ringed_tail,环尾
 cum_from_mouth,嘴里射精 精液
 collaborative_sex,合作性行为 群P 群交
 sweaty_legs,腿出汗
-nahida_(genshin_impact),nahida (原神)
+nahida_(genshin_impact),nahida 纳西妲 草神 (原神)
 mori_calliope,莫里·卡利俄佩
 nagato_yuki,长门有希<凉宫春日系列>
 glistening_penis,闪闪发光的阴茎 屌 鸡巴
@@ -4383,7 +4408,7 @@ red_boots,红色靴子
 prince_albert_piercing,艾伯特亲王穿孔
 raised_eyebrow,扬眉
 clothing_around_one_leg,一条腿上缠着衣服
-herm_(lore),赫姆（传说）
+herm_(lore),赫姆（乱伦）
 pink_necktie,粉色领带
 flower-shaped_pupils,花形瞳孔
 cybernetic_limb,义肢 机械 碳基生物肢体
@@ -4570,7 +4595,7 @@ grey_hoodie,灰色连帽衫
 steepled_fingers,尖塔状手指
 skinny,瘦骨嶙峋的
 pokemon_legends:_arceus,神奇宝贝传奇：阿尔宙斯
-keqing_(genshin_impact),刻青 (原神)
+keqing_(genshin_impact),刻晴 (原神)
 carrying_person,载人
 muzzled,戴口套
 purple_topwear,紫色上衣
@@ -4671,7 +4696,7 @@ splatoon_3,喷射战士 3
 ratchet_and_clank,棘轮与铿锵
 pyra_(xenoblade),pyra (异度之刃)
 plucked_string_instrument,拨弦乐器
-father_and_daughter_(lore),父与女（传说）
+father_and_daughter_(lore),父与女（乱伦）
 rainbow_tail,彩虹尾巴
 family,家庭
 tassel_hair_ornament,流苏发饰
@@ -4927,7 +4952,7 @@ countershade_legs,遮阳腿
 braided_hair_rings,编织发环
 slime_(substance),黏液（物质）
 pokemon_oras,口袋妖怪奥拉斯
-venti_(genshin_impact),venti（原神）
+venti_(genshin_impact),巴巴托斯 温迪（原神）
 female_pervert,女色狼
 resident_evil,生化危机
 yellow_ears,黄耳朵
@@ -5130,7 +5155,7 @@ black_corset,黑色紧身胸衣
 mini_wings,迷你翅膀
 green_sailor_collar,绿色水手领
 genital_expansion,生殖器扩张
-kamisato_ayaka,上里绫香
+kamisato_ayaka,神里绫华
 computer_keyboard,电脑键盘
 ringlets,卷发
 defeat,击败
@@ -5278,7 +5303,7 @@ nipple_suck,吸吮乳头
 basic_sequence,基本序列
 multiple_positions,多个体位   性姿势
 stuttering,口吃
-klee_(genshin_impact),克利 (原神)
+klee_(genshin_impact),可莉 (原神)
 condom_in_mouth,避孕套在嘴里
 v-fin,型鳍
 buttplug_insertion,肛塞插入
@@ -5302,7 +5327,7 @@ adobe_photoshop_(artwork),Adobe Photoshop（艺术作品）
 hand_on_another's_arm,手放在别人的手臂上
 green_thighhighs,绿色过膝袜
 locked_arms,锁住双臂
-tartaglia_(genshin_impact),塔塔利亚 (原神)
+tartaglia_(genshin_impact),「公子」达达利亚 (原神)
 komaeda_nagito,狛枝凪斗
 arm_rest,扶手
 o-ring_choker,形圈颈链
@@ -5480,7 +5505,7 @@ muscular_sub,肌肉发达的
 archer_(fate),弓箭手（命运）
 mandarin_orange,橘子
 mismatched_penis,阴茎 屌 鸡巴不匹配
-eula_(genshin_impact),eula（原神）
+eula_(genshin_impact),优菈·劳伦斯（原神）
 swimming_trunks,泳裤
 holding_dagger,拿着匕首
 pawprint,爪印
@@ -5516,7 +5541,7 @@ tie_clip,领带夹
 black_beak,黑喙
 off-topic,离题
 latex_stockings,乳胶丝袜
-shenhe_(genshin_impact),神河（原神）
+shenhe_(genshin_impact),申鹤（原神）
 public_exposure,公众暴露
 animated_skeleton,动画骨架
 gold_ship_(umamusume),金船（妈妈）
@@ -5751,7 +5776,7 @@ in-franchise_crossover,特许经营交叉
 leaning,倾斜
 brown_pawpads,棕色爪垫
 brand_name_imitation,品牌仿冒品
-xiao_(genshin_impact),小 (原神)
+xiao_(genshin_impact),魈 (原神)
 father_and_son,父与子
 unusual_penis,不寻常的阴茎 屌 鸡巴
 torn_skirt,破裙子
@@ -6075,7 +6100,7 @@ parted_hair,分开的头发
 flying_wyvern,飞龙
 tokai_teio_(umamusume),东海帝王（妈妈）
 rooftop,屋顶
-ellen_joe,艾莲·乔（Ellen Joe）<绝区零>
+ellen_joe,艾莲·乔（Ellen Joe）<绝区零zenless zone zero>
 shijou_takane,四条高音
 holding_controller,控股控制人
 collage,拼贴画
@@ -6144,7 +6169,7 @@ skates,冰鞋
 goof_troop,傻瓜部队
 fire_emblem:_genealogy_of_the_holy_war,火焰之纹章：圣战之系谱
 bar_(place),酒吧（场所）
-nilou_(genshin_impact),nilou (原神)
+nilou_(genshin_impact),妮露 (原神)
 briefcase,公文包
 burn_scar,烧伤疤痕
 senketsu,冊決
@@ -6744,7 +6769,7 @@ multiple_prey,多个猎物
 mismatched_footwear,不匹配的鞋子
 idolmaster_side-m,偶像大师 Side-m
 turtleneck_shirt,高领衬衫
-adult_(lore),成人（传说）
+adult_(lore),成人（乱伦）
 yes-no_question,是非问句
 blue_sash,蓝色腰带
 small_penis,小阴茎 屌 鸡巴
@@ -6848,7 +6873,7 @@ chastity_device_only,仅限贞操装置
 creepy,爬行
 capri_pants,七分裤
 chinese_knot,中国结
-yelan_(genshin_impact),yelan（原神）
+yelan_(genshin_impact),夜兰（原神）
 sparkle_(honkai:_star_rail),花火（崩坏：星穹铁道）
 unworn_helmet,未佩戴的头盔
 watson_cross,沃森十字路口
@@ -7189,7 +7214,7 @@ ankle_ribbon,脚踝带
 frenum_ladder,系带梯
 shirt_tug,衬衫拉扯
 steel_ball_run,钢球运行
-gynomorph_(lore),雌雄同体（传说）
+gynomorph_(lore),雌雄同体（乱伦）
 sakurauchi_riko,櫻内里子
 spiked_armband,带刺臂章
 rainbow_pride_colors,彩虹骄傲的颜色
@@ -7238,13 +7263,13 @@ desert,沙漠
 kawaragi_momoka,河原桃华
 sparklefur,闪光毛皮
 white_theme,白色主题
-kaedehara_kazuha,枫原和叶
+kaedehara_kazuha,枫原万叶 原神
 oversized_shirt,大码衬衫
 holding_another,抱着另一个
 standard_pokeball,标准精灵球
 quill,鹅毛笔
 zuihou_(kancolle),zuihou (舰娘)
-fischl_(genshin_impact),fischl (原神)
+fischl_(genshin_impact),菲谢尔·冯·露弗施洛斯 (原神)
 bandaged_neck,脖子缠着绷带
 character_print,字符打印
 porkpie_hat,猪肉派帽子
@@ -7388,7 +7413,7 @@ holding_smartphone,拿着智能手机
 screenshot_redraw,屏幕截图重绘
 kabedon,壁盾
 latex_bodysuit,乳胶紧身衣
-pseudo_incest_(lore),伪乱伦（传说）
+pseudo_incest_(lore),伪乱伦（乱伦）
 charr,夏尔
 belly_tuft,腹丛
 sunrise,日出
@@ -7406,7 +7431,7 @@ kujo_jolyne,九条轻音
 shared_clothes,共享衣服
 mahjong_soul,麻将魂
 cetacean_genitalia,鲸类生殖器
-hoshimi_miyabi,星见雅（Hoshimi Miyabi）绝区零
+hoshimi_miyabi,星见雅（Hoshimi Miyabi）绝区零zenless zone zero
 living_aircraft,活体飞机
 holding_game_controller,握住游戏控制器
 arched_bangs,拱形刘海
@@ -7421,7 +7446,7 @@ smaller_humanoid,较小的人形生物
 street_fighter_v,街头霸王v
 blue_highlights,蓝色亮点
 pirate,海盗
-jean_(genshin_impact),吉恩（原神）
+jean_(genshin_impact),琴·古恩希尔德（原神）
 pointy_speech_bubble,尖尖的对话泡泡
 teardrop_facial_mark,泪滴状面部痕迹
 lemon_slice,柠檬片
@@ -7446,7 +7471,7 @@ impossible_bodysuit,不可能的紧身衣
 murano_sayaka,村良纱耶香
 huge_tail,巨大的尾巴
 kama_(fate),卡玛（命运）
-indirect_incest_(lore),间接乱伦（传说）
+indirect_incest_(lore),间接乱伦（乱伦）
 kokkoro_(princess_connect!),kokkoro（公主连结！）
 barbel_(anatomy),触须（解剖学）
 orange_fur,橙色毛皮
@@ -7807,7 +7832,7 @@ barnaby_brooks_jr.,小巴纳比·布鲁克斯
 running_mascara,睫毛膏
 star_choker,星星颈链
 tulip,郁金香
-yoimiya_(genshin_impact),yoimiya（原神）
+yoimiya_(genshin_impact),长野原宵宫（原神）
 tan_belly,棕褐色的肚子
 korean_clothes,韩国服装
 jack_the_ripper_(fate/apocrypha),开膛手杰克（命运/外典）
@@ -7939,7 +7964,7 @@ different_reflection,不同的反射
 grey_boots,灰色靴子
 behind_another,在另一个后面
 cyberpunk_edgerunners,赛博朋克边缘奔跑者
-jane_doe_(zenless_zone_zero),简杜（绝区零）
+jane_doe_(zenless_zone_zero),简杜（绝区零zenless zone zero）
 volleyball,排球
 orange_scarf,橙色围巾
 tsukino_mito,月野美都
@@ -8155,7 +8180,7 @@ cave,洞穴
 winged_helmet,带翼头盔
 ovipositor,产卵器
 bea_(pokemon),bea（神奇宝贝）
-bangboo_(zenless_zone_zero),邦布（绝区零）
+bangboo_(zenless_zone_zero),邦布（绝区零zenless zone zero）
 shoulder_boards,肩板
 thick_eyelashes,浓密的睫毛
 kazama_iroha,风间色羽
@@ -8293,7 +8318,7 @@ aoba_(kancolle),青叶 (舰Colle)
 teal_body,青色身体
 tail_around_penis,尾巴围绕阴茎 屌 鸡巴
 lace-trimmed_thighhighs,蕾丝边过膝袜
-amber_(genshin_impact),琥珀 (原神)
+amber_(genshin_impact),安柏 (原神)
 stitched,缝合
 holstered,套入
 morbidly_obese_male,病态肥胖男性
@@ -8383,7 +8408,7 @@ naked_coat,裸色大衣
 watson_amelia_(1st_costume),沃森·阿米莉亚 (第一套服装)
 nia_(xenoblade),nia（异度之刃）
 cropped_hoodie,短款连帽衫
-alhaitham_(genshin_impact),alhaitham (原神)
+alhaitham_(genshin_impact),艾尔海森 (原神)
 translucent_tentacles,半透明的触手
 triangle_earrings,三角形耳环
 haneoka_school_uniform,羽冈校服
@@ -8500,7 +8525,7 @@ musky_penis,麝香阴茎 屌 鸡巴
 balto_(series),巴尔托（系列）
 tangzhuang,唐庄
 reverse_missionary_position,反向传教士体位  性姿势
-qiqi_(genshin_impact),qiqi (原神)
+qiqi_(genshin_impact),七七 (原神)
 pastel_colors,柔和的色彩
 birth,出生
 ossicone,奥西科内
@@ -8612,7 +8637,7 @@ final_fantasy_ix,最终幻想 ix
 overweight_feral,超重野性
 diving_mask,潜水面罩
 baguette,法棍面包
-twincest_(lore),双胞胎乱伦（传说）
+twincest_(lore),双胞胎乱伦（乱伦）
 charlotte_(madoka_magica),夏洛特 (魔法少女小圆)
 fire_emblem:_the_sacred_stones,火焰之纹章：神圣宝石
 penis_through_fly,阴茎 屌 鸡巴穿过苍蝇
@@ -9025,7 +9050,7 @@ interactive,交互的
 imminent_oral,即将进行的口头
 akai_haato,红喉
 sanshoku_dango,三色团子
-nicole_demara,妮可·德玛拉（Nicole Demara）绝区零
+nicole_demara,妮可·德玛拉（Nicole Demara）绝区零zenless zone zero
 michishio_(kancolle),道潮 (kancolle)
 69,69
 looking_at_butt,看着屁股
@@ -9577,7 +9602,7 @@ avoid_posting,避免发帖
 futa_with_futa,扶他 与 扶她
 leaf_(pokemon),叶子（神奇宝贝）
 excited,兴奋的
-belle_（绝区零）,belle （绝区零）
+belle_zenless_zone_zero,belle （绝区零zenless zone zero）
 union_jack,英国国旗
 thecon,控制论
 budget_sarashi,预算萨拉希
@@ -9705,7 +9730,7 @@ luo_xiaohei_zhanji,罗小黑战记
 nike_(company),耐克公司
 dark_nose,黑鼻子
 pavement,路面
-tighnari_(genshin_impact),tighnari (原神)
+tighnari_(genshin_impact),提纳里 (原神)
 brendan_(pokemon),布伦丹 (神奇宝贝)
 lynian,林年
 takamatsu_tomori,高松友守
@@ -9793,7 +9818,7 @@ chest_wraps,胸部包裹
 detached_sheath,分离鞘
 fou_(fate),命运
 u-511_(kancolle),u-511（舰娘）
-neuvillette_(genshin_impact),neuvillette (原神)
+neuvillette_(genshin_impact),那维莱特 (原神)
 suntan,晒黑
 briefs_only,仅限内裤
 arm_armor,手臂护甲
@@ -9809,11 +9834,11 @@ ibaraki_douji_(fate),茨木童子 (fate)
 pillarbox,邮筒
 chinchillid,毛丝鼠
 fighter_jet,战斗机
-tsukishiro_yanagi,月城柳（Tsukishiro Yanagi）绝区零
+tsukishiro_yanagi,月城柳（Tsukishiro Yanagi）绝区零zenless zone zero
 smiling_critters,微笑的小动物
 fanged_wyvern,獠牙飞龙
 viewer_holding_leash,观众拿着皮带
-albedo_(genshin_impact),反照率（原神）
+albedo_(genshin_impact),阿贝多（原神）
 long_claws,长爪
 red_apron,红围裙
 glaceon,冰河
@@ -9827,7 +9852,7 @@ making-of,制作花絮
 fake_mustache,假胡子
 female_peeing,女性撒尿
 senran_kagura_new_link,闪乱神乐 新 Link
-cousins_(lore),堂兄弟（传说）
+cousins_(lore),堂兄弟（乱伦）
 toshinou_kyouko,東京おおすぎる
 pink_petals,粉红色的花瓣
 stirrup_stockings,马镫袜
@@ -9838,7 +9863,7 @@ nonna_(girls_und_panzer),奶奶（少女与战车）
 berserk,狂暴
 black_eyewear,黑色眼镜
 shinomiya_kaguya,四宮辉夜
-adopted_(lore),被收养（传说）
+adopted_(lore),被收养（乱伦）
 mask_around_neck,口罩绕脖子
 animal_mask,动物面具
 drunk_bubble,醉泡泡
@@ -9854,7 +9879,7 @@ circle_cut,圆形切割
 king_halo_(umamusume),王光环 (妈妈)
 severed_head,头颅
 horizontal_cloaca,水平泄殖腔
-clorinde_(genshin_impact),clorinde（原神）
+clorinde_(genshin_impact),克洛琳德（原神）
 iesupa,耶苏帕
 morpeko,莫尔佩科
 green_capelet,绿色披肩
@@ -10034,7 +10059,7 @@ heart_tail,心尾
 socks_only,仅限袜子
 elysia_(miss_pink_elf)_(honkai_impact),爱莉希雅 (粉色妖精小姐) (崩坏3)英杰
 natural_breasts,天然乳房
-zhu_yuan,朱鸢（Zhu Yuan）绝区零
+zhu_yuan,朱鸢（Zhu Yuan）绝区零zenless zone zero
 extreme_french_kiss,极致法式热吻
 two-tone_leotard,双色连体衣
 back_wings,后翼
@@ -10194,7 +10219,7 @@ off-shoulder_bikini,露肩比基尼
 blade_(honkai:_star_rail),刃（崩坏：星穹铁道）
 production_art,生产艺术
 large_wings,大翅膀
-kaveh_(genshin_impact),kaveh (原神)
+kaveh_(genshin_impact),卡维 (原神)
 bud,芽
 in_bucket,在桶里
 holding_jacket,拿着夹克
@@ -10351,7 +10376,7 @@ curvy_intersex,曲线玲珑的双性人
 adult_on_child,成人对儿童
 ribbed_sleeves,罗纹袖
 pokemon_xy_(anime),宠物小精灵 xy（动漫）
-lisa_(genshin_impact),lisa (原神)
+lisa_(genshin_impact),丽莎·敏兹 (原神)
 shinki_(touhou),神姬（东方）
 basil_(faraway)_(omori),罗勒（远方） （大森）
 blake_belladonna,布莱克·贝拉多纳
@@ -10458,7 +10483,7 @@ kuro_no_kiseki_(series),黑之轨迹（系列）
 asian,亚洲
 mesugaki,目がなら
 yuugumo_(kancolle),游云 (舰娘)
-navia_(genshin_impact),Navia（原神）
+navia_(genshin_impact),娜维娅·卡萨帕（原神）
 hoshino_ai,星野爱
 takafumi,隆文
 galaxytrail,银河轨迹
@@ -10566,7 +10591,7 @@ pikmin_(creature),皮克敏（生物）
 backless_clothing,露背服装
 moon_(ornament),月亮（饰物）
 yes,是的
-cyno_(genshin_impact),cyno（原神）
+cyno_(genshin_impact),赛诺（原神）
 tegaki,手がそば
 grey_tail,灰尾
 mahjong_tile,麻将牌
@@ -10578,7 +10603,7 @@ guiding_hand,引导之手
 tea_cup,茶杯
 oral_invitation,口头邀请
 lily_of_the_valley,铃兰
-yanfei_(genshin_impact),燕飞（原神）
+yanfei_(genshin_impact),烟绯（原神）
 darker_than_black,比黑色更黑暗
 battleship_princess,战舰公主
 neptune_(neptunia),海王星（neptune）
@@ -10647,7 +10672,7 @@ coffee_cup,咖啡杯
 jessie_(pokemon),杰西 (神奇宝贝)
 flashlight,手电筒
 spread_pussy_under_clothes,在衣服下张开阴部
-wise_(zenless_zone_zero),明智（绝区零）
+wise_(zenless_zone_zero),明智（绝区零zenless zone zero）
 red_inner_ear,耳内发红
 roly,罗利
 ayase_momo,绫濑桃
@@ -11027,7 +11052,7 @@ fridge,冰箱
 harry_potter_(series),哈利·波特（系列）
 fairy_tales,童话
 shower_sex,淋浴性爱
-lynette_(genshin_impact),lynette（原神）
+lynette_(genshin_impact),琳妮特·雪奈茨芙娜（原神）
 cum_expulsion,射精
 tail_grab,抓尾
 naranja_academy_school_uniform,naranja 学院校服
@@ -11252,7 +11277,7 @@ feral_instincts,野性本能
 futaba_channel,双叶频道
 smaller_on_top,顶部较小
 back_groove,背沟
-citlali_(genshin_impact),citlali (原神)
+citlali_(genshin_impact),茜特菈莉 (原神)
 blaidd_(elden_ring),blaidd (埃尔登之戒)
 camo_clothing,迷彩服
 basketball_uniform,篮球服
@@ -11552,7 +11577,7 @@ bear_boy,熊男孩
 twinkle-sez,twinkle-sez
 mochi_au_lait,牛奶麻糬
 tired_eyes,疲倦的眼睛
-uncle_(lore),叔叔（传说）
+uncle_(lore),叔叔（乱伦）
 pageratta,帕格拉塔
 bilingual,双语
 tomoeda_elementary_school_uniform,友枝小学校服
@@ -12040,7 +12065,7 @@ usekh_collar,乌塞克领
 star_polygon,星形多边形
 island,岛
 hakos_baelz_(1st_costume),hakos baelz（第一套服装）
-xingqiu_(genshin_impact),星球 (原神)
+xingqiu_(genshin_impact),行秋 (原神)
 cloud_emanata,云状
 producer_(idolmaster_cinderella_girls_anime),制作人（偶像大师灰姑娘女孩动漫）
 yoshimi_(blue_archive),yoshimi（碧蓝档案）
@@ -12189,7 +12214,7 @@ saliva_drip,口水滴落
 red_robe,红袍
 libeccio_(kancolle),libeccio（舰娘）
 flower_accessory,花卉配件
-nephew_(lore),侄子（传说）
+nephew_(lore),侄子（乱伦）
 gabriel_dropout,加布里埃尔辍学
 m4a1_(girls'_frontline),m4a1（少女前线）
 no_testicles,没有睾丸
@@ -12340,7 +12365,7 @@ eye_of_horus,荷鲁斯之眼
 blue_face,蓝脸
 hikawa_hina,冰川雏
 pochita_(chainsaw_man),pochita（电锯人）
-wriothesley_(genshin_impact),wriothesley (原神)
+wriothesley_(genshin_impact),莱欧斯利 (原神)
 watermelon_bar,西瓜条
 purple_heart_(neptunia),紫心勋章（海王星）
 struggling,挣扎
@@ -12584,7 +12609,7 @@ detachable,可拆卸
 shinano_(azur_lane),信浓 (碧蓝航线)
 fish_boy,鱼童
 playstation_portable,PlayStation 便携式
-dehya_(genshin_impact),dehya (原神)
+dehya_(genshin_impact),迪希雅 (原神)
 gladion_(pokemon),剑斗士（神奇宝贝）
 moona_hoshinova,穆纳·霍什诺娃
 hybrid_pokemon,混合型宝可梦
@@ -12600,7 +12625,7 @@ excalibur_morgan_(fate),摩根王剑 (命运)
 multiple_pregnancies,多胎妊娠
 grey_spots,灰斑
 pink_mane,粉红色鬃毛
-burnice_white,柏妮思·怀特（Burnice White）绝区零
+burnice_white,柏妮思·怀特（Burnice White）绝区零zenless zone zero
 expressive_clothes,富有表现力的衣服
 suou_momoko,周王桃子
 scary,可怕的
@@ -12701,7 +12726,7 @@ chanta_(ayatakaoisii),咏唱（ayatakaoisii）
 goma_(gomasamune),戈玛（gomasamune）
 vallhound,猎犬
 heart_gesture,心形手势
-grandparent_(lore),祖父母（传说）
+grandparent_(lore),祖父母（乱伦）
 grocery_bag,购物袋
 tanaka_mamimi,田中真美
 marauder6272,掠夺者6272
@@ -12791,7 +12816,7 @@ white_highlights,白色高光
 saiyan_armor,赛亚人盔甲
 ice_skates,冰刀
 dithering,抖动
-young_(lore),年轻（传说）
+young_(lore),年轻（乱伦）
 takakura_ken_(dandadan),takakura 和（已经）
 face_in_breasts,脸在乳房里
 yuri_lowell,尤里·洛厄尔
@@ -12922,7 +12947,7 @@ square_neckline,方形领口
 purple_serafuku,紫色 serafuku
 hand_on_own_elbow,手放在自己的肘部
 polka_dot_swimsuit,波点泳衣
-lyney_(genshin_impact),lyney（原神）
+lyney_(genshin_impact),林尼·雪奈茨维奇（原神）
 etorofu_(kancolle),etorofu (舰娘)
 aoizuri,青折
 nippleless_clothes,无乳头衣服
@@ -13953,7 +13978,7 @@ adastra_(series),阿达斯特拉（系列）
 tentacle_around_arm,手臂周围的触手
 polka_dot_shirt,波点衬衫
 himmel_(sousou_no_frieren),天堂（葬送的芙莉莲）
-kirara_(genshin_impact),kirara (原神)
+kirara_(genshin_impact),绮良良 (原神)
 cato_(monocatienus),猫（单猫科）
 weapon_request,武器请求
 bipedal_feral,双足野性
@@ -14044,7 +14069,7 @@ hourai_doll,蓬莱娃娃
 chimera,嵌合体
 type,类型
 yellow_text,黄色文字
-collei_(genshin_impact),collei（原神）
+collei_(genshin_impact),柯莱（原神）
 holiday_message,节日讯息
 ini_(inunabe00),ini_(inunabe00)《单风格艺术画师》
 drum_(container),鼓（容器）
@@ -14188,7 +14213,7 @@ hair_flip,甩头发
 bodily_fluids_in_ass,屁股里的体液
 grey_bowtie,灰色领结
 popplio,波普利奥
-rosaria_(genshin_impact),羅莎莉亞 (原神)
+rosaria_(genshin_impact),罗莎莉亚 (原神)
 peony_(flower),牡丹
 coconut,椰子
 samneco,萨姆内科
@@ -14279,7 +14304,7 @@ mutual_hug,互相拥抱
 personality_switch,性格转换
 ooshio_(kancolle),ooshio (舰娘)
 rewrite,改写
-maleherm_(lore),maleherm（传说）
+maleherm_(lore),maleherm（乱伦）
 husband,丈夫
 superbunnygt,超级兔子
 blood_bag,血袋
@@ -14525,7 +14550,7 @@ like_and_retweet,点赞并转发
 thermos,热水瓶
 izumi_mei,泉みぺぎ
 atrolux,阿特罗卢克斯
-eous_(zenless_zone_zero),eous（绝区零）
+eous_(zenless_zone_zero),eous（绝区零zenless zone zero）
 looking_at_anus,看着肛门
 windowsill,窗台
 honma_meiko,本间ネキ
@@ -14560,7 +14585,7 @@ blood_on_clothing,衣服上有血迹
 if_hell_had_a_taste,如果有地狱的味道
 aqua_shoes,水上鞋
 bastionshadowpaw,堡垒暗影爪
-sucrose_(genshin_impact),蔗糖（原神冲击）
+sucrose_(genshin_impact),砂糖（原神冲击）
 cheshire_(azur_lane),柴郡（蔚蓝车道）
 showing_teeth,露出牙齿
 foot_sniffing,闻脚
@@ -14667,7 +14692,7 @@ red_and_white,红色和白色
 saunders_military_uniform,桑德斯军装
 glass_shards,玻璃碎片
 misaki_kurehito,三咲暮人
-intersex_(lore),双性人（传说）
+intersex_(lore),双性人（乱伦）
 hatsukaze_(kancolle),初风 (舰娘)
 cum_in_container,射进容器里
 steven_stone,史蒂文·斯通
@@ -15353,7 +15378,7 @@ splatoon_2:_octo_expansion,splatoon 2：八爪鱼扩展包
 latias,拉蒂亚斯
 rapi_(nikke),rapi（日语）
 inu-sama,犬大人
-gorou_(genshin_impact),gorou（原神）
+gorou_(genshin_impact),五郎（原神）
 green_eyeshadow,绿色眼影
 blue_cum,蓝色精液
 jaguar_print,美洲虎印花
@@ -15370,7 +15395,7 @@ gawr_gura_(casual),gawr gura （休闲）
 fur_jacket,皮草夹克
 mota,城市
 minami-ke,南家
-uncle_and_nephew_(lore),叔叔与侄子（传说）
+uncle_and_nephew_(lore),叔叔与侄子（乱伦）
 ineffective_loincloth,无效的缠腰布
 wet_towel,湿毛巾
 vrabo,弗拉布
@@ -15379,7 +15404,7 @@ searchlight,探照灯
 blue_perineum,蓝色会阴
 ikari_manatsu,鱈真夏
 stuffed_winged_unicorn,有翼独角兽标本
-faruzan_(genshin_impact),faruzan (原神)
+faruzan_(genshin_impact),珐露珊 (原神)
 puppy,小狗
 echo_(game),回声（游戏）
 shoulder_blush,肩部红晕
@@ -15572,7 +15597,7 @@ hau_(pokemon),hau（神奇宝贝）
 pubic_stubble,阴毛
 dream_c_club,梦想c俱乐部
 snow_rabbit,雪兔
-mualani_(genshin_impact),穆阿拉尼 (原神)
+mualani_(genshin_impact),玛拉妮 (原神)
 ultra_ball,超级球
 spacezin,太空锌
 both_sexes_in_same_situation,两性处于相同境况
@@ -15622,7 +15647,7 @@ hoshimachi_suisei_(school_uniform),星町水成（学生服）
 nijiura_maids,黄浦女仆
 torahiko_(morenatsu),鈴彦（morenatsu）
 western_comics_(style),西方漫画（风格）
-xianyun_(genshin_impact),仙云 (原神)
+xianyun_(genshin_impact),闲云 (原神)
 policeman,警察
 fur_boots,毛皮靴子
 spades_(suit),黑桃（花色）
@@ -15761,7 +15786,7 @@ okabe_rintarou,岡部倫太郎
 lucy_heartfilia,露西哈特菲利亚
 public_domain,公共领域
 wiggle,摆动
-grace_howard,格莉丝·霍华德（Grace Howard）绝区零
+grace_howard,格莉丝·霍华德（Grace Howard）绝区零zenless zone zero
 whiteboard,白板
 yonaga_angie,yonaga 安吉
 fleur_de_lapin_uniform,兔子之花制服
@@ -15859,7 +15884,7 @@ sloth,懒惰
 micro_thighs,微型大腿
 alolan_vulpix,阿罗拉六尾
 converse,交谈
-chiori_(genshin_impact),chiori (原神)
+chiori_(genshin_impact),千织 (原神)
 ganglie_(tas),ganglie（塔斯马尼亚州）
 ferret,雪貂
 deer_tail,鹿尾
@@ -15895,7 +15920,7 @@ food_art,食物艺术
 torture,酷刑
 miyamoto_musashi_(swimsuit_berserker)_(second_ascension)_(fate),宫本武藏 (泳装狂战士) (第二次再临) (命运)
 knife_sheath,刀鞘
-sigewinne_(genshin_impact),sigewinne（原神）
+sigewinne_(genshin_impact),希格雯（原神）
 altaria,阿塔里亚
 rokuwata_tomoe,六間友恵
 howl,嗥
@@ -15906,7 +15931,7 @@ butterfly_brooch,蝴蝶胸针
 holding_spatula,拿着铲子
 kuro_no_kiseki_i,黑之奇迹i
 chrysanthemum,菊花
-grandchild_(lore),孙子（传说）
+grandchild_(lore),孙子（乱伦）
 suckling,乳
 kuro_kosyou,黑色小說
 protagonist_3_(housamo),主角 3 (housamo)
@@ -15966,7 +15991,7 @@ infirmary,医务室
 maruzensky_(umamusume),丸ウエネスピネス
 frenulum,系带
 decapitation,斩首
-qingyi_(zenless_zone_zero),青衣 （绝区零）
+qingyi_(zenless_zone_zero),青衣 （绝区零zenless zone zero）
 seal_(animal),海豹（动物）
 poke_ball_theme,精灵球主题
 invisible_man,隐形人
@@ -16158,7 +16183,7 @@ maya_kai_ni_(kancolle),摩耶改を (舰娘)
 looking_at_own_penis,看着自己的阴茎 屌 鸡巴
 fallout_equestria,小马国辐射
 checkered_sash,格子腰带
-soukaku_(zenless_zone_zero),仓角（绝区零）
+soukaku_(zenless_zone_zero),仓角（绝区零zenless zone zero）
 lightning_bolt_hair_ornament,闪电发饰
 island_fox_(kemono_friends),岛狐 (兽娘朋友)
 chrom_(fire_emblem),铬（火焰纹章）
@@ -16184,7 +16209,7 @@ raised_hoof,抬起蹄子
 red_thigh_highs,红色大腿袜
 abigail_williams_(traveling_outfit)_(fate),阿比盖尔·威廉姆斯 (旅行装) (命运)
 trophy,杯
-niece_(lore),侄女（传说）
+niece_(lore),侄女（乱伦）
 alternate_version_at_paywall,付费墙上的替代版本
 sisu_(ratld),sisu (ratld)
 plaid_ribbon,格子丝带
@@ -16742,7 +16767,7 @@ wingedwilly,翼威利
 narancia_ghirga,纳兰恰吉尔加
 anna_(frozen),安娜（冰雪奇缘）
 sayagata,沙阿加塔
-anby_demara_(zenless_zone_zero),安比·德玛拉（Anby Demara）绝区零
+anby_demara_(zenless_zone_zero),安比·德玛拉（Anby Demara）绝区零zenless zone zero
 jun_(navigavi),jun (导航)
 implied_masturbation,暗示手淫
 oka_asahi,冈朝日
@@ -16756,7 +16781,7 @@ assassin_(fate/zero),刺客 (命运/零)命运之夜
 brown_paws,棕色的爪子
 tan_chest,棕褐色胸部
 breast_poke,乳房戳
-grandparent_and_grandchild_(lore),祖父母与孙子女（传说）
+grandparent_and_grandchild_(lore),祖父母与孙子女（乱伦）
 underage_pregnancy,未成年人怀孕
 mika_pikazo,米卡·皮卡佐
 canisfidelis,犬齿虫
@@ -16925,7 +16950,7 @@ king_dedede,帝帝帝大王
 white_garter_belt,白色吊袜带
 distortion,失真
 kooh,酷
-aunt_(lore),姑妈（传说）
+aunt_(lore),姑妈（乱伦）
 artoria_caster_(second_ascension)_(fate),阿尔托莉雅 Caster（二次重生）（命运）
 splurt,喷出
 bronya_rand,布洛妮娅·兰德
@@ -16991,7 +17016,7 @@ monkey_boy,猴男孩
 white_babydoll,白色情趣睡衣
 yuuji_(yukimimi),yuuji（雪耳）
 throwing_knife,飞刀
-layla_(genshin_impact),莱拉 (原神)
+layla_(genshin_impact),莱依拉 (原神)
 starfish_hair_ornament,海星发饰
 yuri_plisetsky,尤里·普利谢茨基
 pumpkin_hair_ornament,南瓜发饰
@@ -17003,7 +17028,7 @@ happy_aura,快乐的气氛
 brain,脑
 fukumoto_mahjong,福本麻将
 scaly_tail,鳞尾
-keqing_(opulent_splendor)_(genshin_impact),刻清（华丽辉煌）（原神）
+keqing_(opulent_splendor)_(genshin_impact),刻晴（华丽辉煌）（原神）
 morgana_(persona_5),摩根娜 (女神异闻录 5)
 voile,薄纱
 final_fight,决战
@@ -17241,7 +17266,7 @@ kayneth_el-melloi_archibald,凯奈斯·艾尔梅罗伊·阿奇博尔德
 joystick,操纵杆
 nun_habit,修女习惯
 grey_breasts,灰色乳房
-caesar_king_(zenless_zone_zero),凯撒金（绝区零）
+caesar_king_(zenless_zone_zero),凯撒金（绝区零zenless zone zero）
 league_of_geeks,极客联盟
 low-cut_armhole,低胸袖窿
 slightly_damned,有点该死
@@ -17282,7 +17307,7 @@ fish_bone,鱼骨
 against_fourth_wall,靠第四面墙
 tantei_opera_milky_holmes,侦探歌剧 Milky Holmes
 avian_caruncle,鸟类肉阜
-asaba_harumasa,浅羽悠真（Asaba Harumasa）绝区零
+asaba_harumasa,浅羽悠真（Asaba Harumasa）绝区零zenless zone zero
 cu_chulainn_(caster)_(fate),cu chulainn (施法者) (命运)
 listening_to_music,听音乐
 samip,萨米普
@@ -17430,7 +17455,7 @@ nom,名称
 elizabeth_rose_bloodflame,伊丽莎白玫瑰 血焰
 diego_brando,迭戈白兰度
 saru,saru<单风格艺术画师>
-razor_(genshin_impact),剃须刀（原神）
+razor_(genshin_impact),雷泽（原神）
 aki99,aki99《单风格艺术画师》
 slapping_self,打自己耳光
 alisa_mikhailovna_kujou,alisa mikhailovna kujou
@@ -17564,7 +17589,7 @@ kohinata_miku,小日向未来
 forsaken_(artist),被遗弃的（艺术家）
 kamelie,卡梅利
 pelecaniform,鹈鹕状
-kinich_(genshin_impact),kinich（原神）
+kinich_(genshin_impact),基尼奇（原神）
 bionics,仿生学
 revadiehard,雷瓦迪哈德
 cash_register,收银机
@@ -17727,7 +17752,7 @@ kfc,肯德基
 sakino_shingetsu,佐佐木信月
 scientific_experiment,科学实验
 scathach_(piercing_bunny)_(fate),斯卡哈（穿刺兔）（命运）
-sayu_(genshin_impact),sayu（原神）
+sayu_(genshin_impact),早柚（原神）
 balto,巴尔托
 pattern_skirt,花纹裙
 edogawa_conan,江户川柯南
@@ -17779,7 +17804,7 @@ ys,是
 ornament,装饰品
 dragonweirdo,龙怪
 korra,科拉
-adopted_son_(lore),养子（传说）
+adopted_son_(lore),养子（乱伦）
 purple_thigh_highs,紫色过膝袜
 asakaze_(kancolle),朝风 (舰娘)
 blue_thigh_highs,蓝色过膝袜
@@ -18097,7 +18122,7 @@ harley_quinn,哈莉·奎茵
 imai_lisa,今井莉莎
 nazi,纳粹
 flippers,鳍状肢
-astra_yao,耀嘉音（Astra Yao）绝区零
+astra_yao,耀嘉音（Astra Yao）绝区零zenless zone zero
 face_in_pillow,脸埋在枕头里
 hunter,猎人
 karate_gi,空手道道服
@@ -18197,7 +18222,7 @@ kitten,小猫
 brown_ascot,棕色阿斯科特
 fighter_(granblue_fantasy),戰士 (碧藍幻想)
 toyota,丰田
-corin_wickes,可琳·威克斯（Corin Wickes）绝区零
+corin_wickes,可琳·威克斯（Corin Wickes）绝区零zenless zone zero
 sky_print,天空印花
 pizademokttero,皮萨德莫克特罗
 yume_shokunin,梦职人
@@ -18241,7 +18266,7 @@ lightning_bolt,闪电
 2007,2007
 rakuen_tsuihou,乐园追放
 futari_wa_precure_splash_star,二人は光之美少女したどど
-evelyn_chevalier,伊芙琳·舒瓦利耶（Evelyn Chevalier）绝区零
+evelyn_chevalier,伊芙琳·舒瓦利耶（Evelyn Chevalier）绝区零zenless zone zero
 chastity_bulge,贞操凸起
 stuffed_panda,毛绒熊猫
 toddlercon,幼儿
@@ -18499,7 +18524,7 @@ multicolored_markings,多色标记
 fujisaki_hikari,藤崎光
 shinshuu_maru_(kancolle),信州丸 (kancolle)
 signalis,信号
-grandmother_(lore),祖母（传说）
+grandmother_(lore),祖母（乱伦）
 closet,壁橱
 eye_black,眼睛发黑
 daram_(shappydude),daram (shappydude)
@@ -18645,7 +18670,7 @@ princelykaden,王子岛
 penis_nursing,阴茎 屌 鸡巴护理
 laura_bodewig,劳拉·博德维格
 scalpel,解剖刀
-freminet_(genshin_impact),freminet (原神)
+freminet_(genshin_impact),菲米尼·雪奈茨维奇 (原神)
 dan_heng_(hunt)_(honkai:_star_rail),丹恒（狩猎）（崩坏：星穹铁道）
 licking_breast,舔乳房
 frosted_flakes,霜状薄片
@@ -18661,7 +18686,7 @@ kaela_kovalskia,卡埃拉·科瓦尔斯基亚
 moob_grab,抢男人
 miyanaga_saki,宮永早崎
 okusawa_misaki,奥佐ヶ浦ヶ浦
-incestuous_voyeur_(lore),乱伦偷窥狂（传说）
+incestuous_voyeur_(lore),乱伦偷窥狂（乱伦）
 intimidation,恐吓
 unwanted_impregnation,不必要的浸渍
 optical_sight,光学瞄准镜
@@ -19007,7 +19032,7 @@ sailor_swimsuit_(idolmaster),水手泳装 (偶像大师)
 screen_head,屏幕头
 different_shadow,不同的影子
 shenzi_(the_lion_king),狮子王
-seth_lowell,赛斯·洛威尔（Seth Lowell）绝区零
+seth_lowell,赛斯·洛威尔（Seth Lowell）绝区零zenless zone zero
 arcane_vi,神秘六
 widow's_peak,寡妇峰
 kanashiipanda,卡纳希潘达
@@ -19114,7 +19139,7 @@ strong,强的
 gang_rape,轮奸
 reverse_gangbang,逆向群交
 shock_collar,电击项圈
-kamisato_ayaka_(springbloom_missive),上里绫香（春花信函）
+kamisato_ayaka_(springbloom_missive),神里绫华（春花信函）
 adaman_(pokemon),阿达曼（神奇宝贝）
 scar_on_back,背上的伤疤
 high_five,击掌
@@ -19164,7 +19189,7 @@ thewilldpink,韋爾德平克
 female_butler,女管家
 hands_on_another's_waist,双手放在别人的腰上
 red_camisole,红色吊带背心
-yun_jin_(genshin_impact),云锦（原神）
+yun_jin_(genshin_impact),云堇（原神）
 erlenmeyer_flask,锥形瓶
 suspenders_slip,吊带 背带 滑
 virtuareal,虚拟现实
@@ -19287,7 +19312,7 @@ ashley_graham_(resident_evil),阿什莉·格雷厄姆（生化危机）
 reloading,重新加载
 chakram,圆刃
 rindou_mikoto,轮斗美琴
-amillion_(zenless_zone_zero),百万 （绝区零）
+amillion_(zenless_zone_zero),百万 （绝区零zenless zone zero）
 pekoyama_peko,佩科山佩科
 josou_seme,乔苏塞梅
 big_iris,大鸢尾
@@ -19723,7 +19748,7 @@ cc-by-nc,cc-by-nc
 movie_theater,电影院
 holding_blanket,抱着毯子
 monotone_shirt,单调衬衫
-bennett_(genshin_impact),贝内特 (原神)
+bennett_(genshin_impact),班尼特 (原神)
 rubbing_pussy,摩擦阴部
 minigun,迷你枪
 chihiro_(blue_archive),千寻（碧蓝档案）
@@ -19806,7 +19831,7 @@ spoken_zzz,口语 zzz
 alice_(nikke),爱丽丝 (耐克)
 white_head,白头
 baffu,巴夫
-adoptive_father_(lore),养父（传说）
+adoptive_father_(lore),养父（乱伦）
 otter_tail,水獭尾巴
 kurou_(quadruple_zero),kurou（四个零）
 submissive_andromorph,顺从的雄性型
@@ -20449,7 +20474,7 @@ plantigrade_pawpads,跖行动物的爪垫
 semiramis_(fate),塞米拉米斯（命运）
 creature_on_shoulder,肩上的生物
 kanaria,卡纳里亚
-poke_ball_(legends),精灵球（传说）
+poke_ball_(legends),精灵球（乱伦）
 print_socks,印花袜子
 harusame_(unmei_no_ikasumi),春雨 (命运的雨)
 teaselbone,茶骨
@@ -21126,7 +21151,7 @@ big_glans,大龟头
 greenteaneko,格林泰内科
 signpost,路标
 seven_frame_image,七帧图像
-yaoyao_(genshin_impact),夭夭 (原神)
+yaoyao_(genshin_impact),瑶瑶 (原神)
 yoru_no_kurage_wa_oyogenai,夜晚的海不可能如此美丽
 non-canine_knot,非犬齿结
 cum_on_fingers,射在手指上
@@ -21352,7 +21377,7 @@ white_canine_(marimo),白色犬科动物（毬藻）
 mugshot,嫌犯照片
 tsukishima_hajime,月岛肇
 velvet_reindeer_(tfh),天鹅绒驯鹿 (tfh)
-grandson_(lore),孙子（传说）
+grandson_(lore),孙子（乱伦）
 waving_arm,挥动手臂
 aqua_scarf,水绿色围巾
 king_cheetah,猎豹王
@@ -21509,7 +21534,7 @@ presenting_mouth,呈现 展示 露出 嘴巴 口中
 inflatable_whale,充气鲸鱼
 hasegawa_kobato,长谷川小鸠
 courtney_(pokemon),考特尼 (神奇宝贝)
-alexandrina_sebastiane,亚历山德丽娜·莎芭丝缇安（Alexandrina Sebastian）绝区零
+alexandrina_sebastiane,亚历山德丽娜·莎芭丝缇安（Alexandrina Sebastian）绝区零zenless zone zero
 i-14_(kancolle),i-14（舰娘）
 emet-selch,埃梅特塞尔希
 captain_amelia,阿米莉亚船长
@@ -22160,7 +22185,7 @@ fifa,国际足联
 red_stockings,红色长袜
 airborne_object,空中物体
 akashio_(loli_ace),赤潮 (萝莉王牌)
-tailless_(zenless_zone_zero),无尾 （绝区零）
+tailless_(zenless_zone_zero),无尾 （绝区零zenless zone zero）
 orange_legs,橙色的腿
 simoun,西蒙
 foot_dangle,脚悬垂
@@ -22216,7 +22241,7 @@ mailbox_(incoming_mail),信箱（来信）
 patterned_hair,有图案的头发
 fighting_game,格斗游戏
 guweiz,古魏兹
-candace_(genshin_impact),坎迪斯（原神）
+candace_(genshin_impact),坎蒂丝（原神）
 august_von_parseval_(azur_lane),奥古斯特·冯·帕帕瓦尔（蔚蓝巷）
 eudetenis,完满
 black_headphones,黑色耳机
@@ -22539,7 +22564,7 @@ lgbt_pride,同性恋骄傲
 chiton,石鳖
 the_deadly_six,致命六人组
 master_(vocaloid),大师 (vocaloid)
-grandfather_(lore),祖父（传说）
+grandfather_(lore),祖父（乱伦）
 blushyspicy,脸红辣
 leg_over_thigh,腿在大腿上方
 baseball_stadium,棒球场
@@ -22712,7 +22737,7 @@ amazon_(company),亚马逊（公司）
 tan_wings,棕褐色的翅膀
 pamiat_merkuria_(azur_lane),帕米亚特·梅尔库里亚 (azur lane)
 takafuji_kako,高藤佳子
-charlotte_(genshin_impact),夏洛特（原神）
+charlotte_(genshin_impact),夏洛蒂（原神）
 karnator,卡纳托尔
 ozymandias_(fate),奥兹曼迪亚斯 (命运)
 disinterested_sex,无兴趣的性行为
@@ -23227,7 +23252,7 @@ slavedemorto,奴隶德莫托
 holding_own_wrist,握着自己的手腕
 turkey_(food),火鸡
 shoutingisfun,大喊大叫很有趣
-nekomiya_mana,猫宫又奈（Nekomiya Mana）<绝区零>
+nekomiya_mana,猫宫又奈（Nekomiya Mana）<绝区零zenless zone zero>
 faputa,法普塔
 wooden_bench,板凳
 businesswear,商务装
@@ -23290,7 +23315,7 @@ yadokari_genpachirou,宿駅玄八郎
 scuted_feet,鳞足
 pipe_in_mouth,嘴里含着管子
 bae_(baebae),宝贝 (宝贝)
-xilonen_(genshin_impact),xilonen (原神)
+xilonen_(genshin_impact),希诺宁 (原神)
 captive_bead_ring,固定珠环
 lop_(star_wars_visions),lop（星球大战愿景）
 shimakaze-kun,島风君
@@ -23514,7 +23539,7 @@ oroborus,奥罗博鲁斯
 kaboozle,卡布斯尔
 gin'ichi_(akacia),银一（akacia）
 ramudia_(lamyun),ramudia（lamyun）
-koleda_belobog,珂蕾妲·贝洛伯格（Koleda Belobog）绝区零
+koleda_belobog,珂蕾妲·贝洛伯格（Koleda Belobog）绝区零zenless zone zero
 agitype01,agitype01
 poofy_hair,蓬松的头发
 inunoshippo,犬之介
@@ -23983,7 +24008,7 @@ songover,歌唱
 ambiguous_on_anthro,人类学上的歧义
 kurot,库洛特
 canopy_(aircraft),（飞机的）座舱盖
-uncle_and_niece_(lore),叔叔和侄女（传说）
+uncle_and_niece_(lore),叔叔和侄女（乱伦）
 violence,暴力
 twin_buns,双髻
 leona_(aka)_little_one,leona（又名）小家伙
@@ -24453,7 +24478,7 @@ ginko_(silver_fox),银杏
 melon_soda,甜瓜汽水
 julius_zimmerman,朱利叶斯·齐默曼
 nian_(unfettered_freedom)_(arknights),nian（不受约束的自由）（arknights）
-lighter_(zenless_zone_zero),莱特 （绝区零）
+lighter_(zenless_zone_zero),莱特 （绝区零zenless zone zero）
 rapel,拉佩尔
 juiceps,果汁
 shiranui_flare_(street),不知火光（街头）
@@ -25156,7 +25181,7 @@ tales_of_eternia,永恒的故事
 itsymitsy,伊茨米齐
 ziran,自然
 furred_shark,毛茸茸的鲨鱼
-piper_wheel,派派·韦尔（Piper Wheel）绝区零
+piper_wheel,派派·韦尔（Piper Wheel）绝区零zenless zone zero
 vomit,呕吐
 zetsin,泽钦
 holding_butterfly_net,拿着蝴蝶网
@@ -25456,7 +25481,7 @@ spitey,斯皮蒂
 fumitsuki_(minaduki_6),史月（ミナチューキ 6）
 stuffed_whale,鲸鱼标本
 single_drill,单钻
-xinyan_(genshin_impact),新燕 (原神)
+xinyan_(genshin_impact),辛焱 (原神)
 clow_card,克洛普卡
 molu_stranger,莫鲁陌生人
 sapphire_(nine),蓝宝石（九）
@@ -25525,7 +25550,7 @@ luciela_r._sourcream,luciela r. 酸奶油
 trotter_(honkai:_star_rail),托帕的宠物涨涨（崩坏：星穹铁道）
 anglo,盎格鲁
 shouji_nigou,手机泥鳅
-grandfather_and_grandchild_(lore),祖父和孙子（传说）
+grandfather_and_grandchild_(lore),祖父和孙子（乱伦）
 kissxmaker,kissxmaker
 grass_root_youkai_network,草根妖怪网络
 surprised_arms,惊讶的手臂
@@ -25830,7 +25855,7 @@ hyper_gape,超级张开
 salt_shaker,盐瓶
 dakku_(ogitsune),dakku（荻狐）
 hinata_yukari,日向由香里
-billy_kid,比利·奇德（Billy Kid）绝区零
+billy_kid,比利·奇德（Billy Kid）绝区零zenless zone zero
 giraffe,长颈鹿
 arceus,阿尔宙斯
 multicolored_skinsuit,多彩 彩色 多色紧身衣
@@ -26297,7 +26322,7 @@ billiard_ball,台球
 doukyuusei,同级生
 makoto_(princess_connect!),真琴 (公主连结！)
 hazama,哈扎马
-adoptive_sibling_(lore),养兄弟姐妹（传说）
+adoptive_sibling_(lore),养兄弟姐妹（乱伦）
 new_world_ground_cuckoo,新世界地鹃
 corrsk,科斯克
 kidou_keisatsu_patlabor,机动警察
@@ -27582,7 +27607,7 @@ sweaty_chest,胸口出汗
 male_on_taur,雄性与金牛座
 voltron_(series),战神金刚（系列）
 shan,山
-mother_and_father_(lore),母亲和父亲（传说）
+mother_and_father_(lore),母亲和父亲（乱伦）
 gia,贾
 stretchy,有弹性
 nuzzo,努佐
@@ -27640,7 +27665,7 @@ information_box,信息箱
 yuubari_kai_ni_(kancolle),夕张改る (舰娘)
 zekrom,捷克罗姆
 sound_effects_only,仅限音效
-stepsibling_(lore),继兄弟姐妹（传说）
+stepsibling_(lore),继兄弟姐妹（乱伦）
 ishigami_nozomi,石上望
 giraffe_(ilconte),长颈鹿（ilconte）
 tickling_belly,挠肚子
@@ -27948,7 +27973,7 @@ yellow_petals,黄色花瓣
 dew_drop,露珠
 kanpani_girls,坎帕尼女孩
 cathedral,大教堂
-kachina_(genshin_impact),卡奇纳 (原神)
+kachina_(genshin_impact),卡齐娜 (原神)
 idw_(girls'_frontline),idw（少女前线）
 sitting_on_toilet,坐在马桶上
 lipstick_on_face,脸上有口红
@@ -28243,7 +28268,7 @@ pleinair,普莱奈尔
 cum_on_chest,射在胸口
 blaster_master,爆能大师
 matches,火柴
-ororon_(genshin_impact),ororon（原神）
+ororon_(genshin_impact),欧洛伦（原神）
 megumi_bandicoot,袋狸惠
 vesper_art,晚祷艺术
 ashley-arctic-fox,ashley-北极狐
@@ -28672,7 +28697,7 @@ binder,粘合剂
 morii_shizuki,森井志月
 lechecker,牛奶检查员
 hoshimi_junna,星美淳奈
-ben_bigger,本·比格（Ben Bigger）绝区零
+ben_bigger,本·比格（Ben Bigger）绝区零zenless zone zero
 light_arms,轻武器
 frilled_footwear,褶边鞋
 coiled_tail,卷曲的尾巴
@@ -29077,7 +29102,7 @@ stasis_tank,停滞槽
 kakania_(reverse:1999),kakania（反向：1999）
 tuke,图克
 penis_out_of_frame,阴茎 屌 鸡巴超出框架
-grandmother_and_grandchild_(lore),祖母和孙子（传说）
+grandmother_and_grandchild_(lore),祖母和孙子（乱伦）
 senri_tsurubami,千里鹤鸣
 mano_aloe,芦荟
 bite_mark_on_breast,胸部有咬痕
@@ -29257,7 +29282,7 @@ faceoff,对峙
 akitokage,秋影
 allen_avadonia,艾伦·阿瓦多尼亚
 waiting,等待
-aunt_and_nephew_(lore),姑母与侄子（传说）
+aunt_and_nephew_(lore),姑母与侄子（乱伦）
 tristana_(league_of_legends),崔丝塔娜（英雄联盟LOL）
 academic_test,学业考试
 morgana_(cat)_(persona_5),摩根娜 (猫) (女神异闻录5)
@@ -29344,7 +29369,7 @@ kuroo_tetsurou,黑尾哲郎
 ookami-san,大神先生
 shizuru_(princess_connect!),静流 (公主连结！)
 drunk_oak,醉橡树
-triplets_(lore),三胞胎（传说）
+triplets_(lore),三胞胎（乱伦）
 meru_(merunyaa),梅鲁（merunyaa）
 umpherio,安菲里奥
 dandi,花花公子
@@ -30171,7 +30196,7 @@ yaotome_urushi,八乙女漆
 holding_hair,抱头发
 scar_on_breasts,乳房上的疤痕
 thumbprint_cookie,指纹饼干
-aunt_and_niece_(lore),姑母与侄女（传说）
+aunt_and_niece_(lore),姑母与侄女（乱伦）
 woebeeme,沃比姆
 yamanokami_eaka,山神惠赤
 hand_on_ear,手放在耳朵上
@@ -30384,7 +30409,7 @@ hyena_girl,鬣狗女孩
 inoshira,伊诺什拉
 gold-white-kott,金白科特
 k.s.miracle_(umamusume),ksmiracle（妈妈）
-adoptive_mother_(lore),养母（传说）
+adoptive_mother_(lore),养母（乱伦）
 v_over_head,头顶上方
 lace-trimmed_garter_belt,蕾丝边饰吊袜带
 cherry_tree,樱桃树
@@ -30618,7 +30643,7 @@ cupping_hand,杯状手
 mura_karuki,mura_karuki<单风格艺术画师>
 kataoka_yuuki,片岡优希
 nilou_(breeze_of_sabaa)_(genshin_impact),Nilou（萨巴微风）（原神冲击）
-ellen_joe_(on_campus),艾莲·乔（Ellen Joe） (校服) 《绝区零》
+ellen_joe_(on_campus),艾莲·乔（Ellen Joe） (校服) 《绝区零zenless zone zero》
 bright_colors,鲜艳的颜色
 eiroru,瑪路
 sansei_muramasa,三生村正
@@ -31054,7 +31079,7 @@ fallout:_pca,后果：pca
 watarase_piro,渡良濑ピノ
 girls_und_panzer_ribbon_no_musha,少女与战车丝带没有武者
 wata_(attaka_towel),wata_(attaka_towel)《单风格艺术画师》
-adopted_daughter_(lore),养女（传说）
+adopted_daughter_(lore),养女（乱伦）
 demon_lord_dragon_batzz,魔王龙巴兹
 cotton_swab,棉签
 hinata_(swimsuit)_(blue_archive),日向 (泳装) (碧蓝档案)
@@ -31195,7 +31220,7 @@ camouflage_shorts,迷彩短裤
 vine_tentacles,藤蔓触手
 minosu,米诺苏
 usnarbit,乌斯纳比特
-baizhu_(genshin_impact),白竹 (原神)
+baizhu_(genshin_impact),白术 (原神)
 holding_mushroom,拿着蘑菇
 clemont_(pokemon),克莱蒙特（神奇宝贝）
 slave_auction,奴隶拍卖
@@ -31375,7 +31400,7 @@ dress_only,只穿衣服
 test_score,考试成绩
 holy_grail_(fate),圣杯（命运）
 dead_or_alive_(series),死或生（系列）
-chevreuse_(genshin_impact),雪佛兰（原神）
+chevreuse_(genshin_impact),夏沃蕾（原神）
 unusual_pregnancy,异常怀孕
 hayashio_(kancolle),hayashio (歌曲集)
 oosawa_aya,大泽诗
@@ -31427,7 +31452,7 @@ pitching,投球
 candlestick,烛台
 axel_syrios,阿克塞尔·西里奥斯
 satoupote,我们不会迷路
-stepparent_(lore),继父母（传说）
+stepparent_(lore),继父母（乱伦）
 pheromosa,信息素
 shimadoriru,島取るなる
 cervina7_(artist),cervina7（艺术家）
@@ -31590,7 +31615,7 @@ shiraitodai_school_uniform,白线台校服
 snowgrave,斯诺格雷夫
 tanihara_natsuki,谷原菜月
 bell_cranel,钟形吊灯
-stepbrother_(lore),继兄弟（传说）
+stepbrother_(lore),继兄弟（乱伦）
 virtua_fighter,虚拟战士
 car_sex,汽车性爱
 single_legwear_garter,单腿吊袜带
@@ -31726,7 +31751,7 @@ porqueloin,豪猪肝菌
 luger_p08,卢格尔 p08
 male_penetrating_maleherm,男性穿透 maleherm
 langrisser,梦幻西游
-stepsister_(lore),继姐妹（传说）
+stepsister_(lore),继姐妹（乱伦）
 mikleo_(tales),mikleo (故事)
 exposed_shoulder,露肩
 hyudora,休多拉
@@ -31922,7 +31947,7 @@ spiral_pupils,螺旋状瞳孔
 disintegration,解体
 spotted_shoulders,斑点肩膀
 the_boy_and_the_beast,男孩与野兽
-incestuous_temptation_(lore),乱伦的诱惑（传说）
+incestuous_temptation_(lore),乱伦的诱惑（乱伦）
 windows_xp,Windows XP 免费下载
 morpeko_(hangry),morpeko（饥饿）
 capaoculta,卡帕奥库尔塔
@@ -32203,7 +32228,7 @@ ictonica,音节
 ara_(genus),ara（属）
 kisaragi_kaya,如月がなら
 tetsujin_momoko,桃子剛人
-grandfather_and_grandson_(lore),祖父和孙子（传说）
+grandfather_and_grandson_(lore),祖父和孙子（乱伦）
 kaori_(splatoon),kaori (splatoon)
 seawing_(wof),海翼 (wof)
 jishinu,吉什努
@@ -32739,7 +32764,7 @@ sorapoi,索拉波伊
 black_membrane,黑膜
 atarashi_ako,我累了。
 yabuki_kana,矢吹佳奈
-fischl_(ein_immernachtstraum)_(genshin_impact),鱼（噩梦）（原神）
+fischl_(ein_immernachtstraum)_(genshin_impact),菲谢尔·冯·露弗施洛斯（噩梦）（原神）
 military_fatigues,军装
 t-34,T-34
 minami_koyogi,南小代木
@@ -34470,7 +34495,7 @@ hanami_kotoha,花見言叶
 aikei_ake,爱敬
 ikurauni,伊库拉尼
 zooerastia,动物线虫属
-granddaughter_(lore),孙女（传说）
+granddaughter_(lore),孙女（乱伦）
 microwave_oven,微波炉
 tuteurfars_shin,监护人申
 suzushina_yuriko,它看起来像一个 suzu
@@ -34674,7 +34699,7 @@ plume_(arknights),羽毛（明日方舟）
 dewey_duck,杜威鸭
 neve_(morris-minicooper),侄子 (morris-minicooper)
 spacescape,太空景观
-adoptive_brother_(lore),义弟（传说）
+adoptive_brother_(lore),义弟（乱伦）
 death_note_(object),死亡笔记（对象）
 divinity_(series),神性（系列）
 soulcalibur_vi,灵魂能力 6
@@ -36413,7 +36438,7 @@ on_bedding,在床上用品上
 risu_(dorohedoro),risu（dorohedoro）
 corviknight,考维克奈特
 itowo_(itowc),itowo (itowc)
-judy_hopps,朱迪·霍普斯
+judy_hopps,朱迪·霍普斯【疯狂动物城】
 aoino_broome,奥伊诺布鲁姆
 mamedenkyuu_(berun),mamedenkyuu（美丽）
 identical_twins,同卵双胞胎
@@ -36764,7 +36789,7 @@ neko_ed,猫艾德
 houkago_play,放课后游戏
 tokiame,时雨
 projectile_trail,射弹尾迹
-sharkboo_(zenless_zone_zero),sharkboo （绝区零）
+sharkboo_(zenless_zone_zero),sharkboo （绝区零zenless zone zero）
 raichoclub,雷鸟俱乐部
 tarmo,塔尔莫
 lakeslug,湖蛞蝓
@@ -37149,7 +37174,7 @@ segmented_arms,分段臂
 diane_(nanatsu_no_taizai),黛安（七大罪）
 icaron,伊卡隆
 rokudenashi_majutsu_koushi_to_akashic_record,無邪気魔法小子與阿卡西記錄
-gaming_(genshin_impact),游戏（原神）
+gaming_(genshin_impact),叶嘉明（原神）
 mhk_(mechamania),mhk (机械狂热)
 iceman1984,iceman1984
 astolfo_(saber)_(first_ascension)_(fate),阿斯托尔福 (Saber) (初次登基) (命运)
@@ -39308,7 +39333,7 @@ ayasaka,绫坂
 cycling,骑自行车
 sophie_(argento),索菲（阿根廷）
 green_slime,绿色粘液
-stepbrother_and_stepsister_(lore),继兄弟与继姐妹（传说）
+stepbrother_and_stepsister_(lore),继兄弟与继姐妹（乱伦）
 josuiji_shinri,如水寺信仰
 ashwolves5,ashwolves5
 infamousrel,声名狼藉
@@ -39841,7 +39866,7 @@ melt_(vocaloid),融化（vocaloid）
 dark_magician,黑暗魔法师
 dark-ahroun-friesian,深色阿伦弗里斯兰
 annie_and_the_mirror_goat,安妮与镜子山羊
-dori_(genshin_impact),dori（原神）
+dori_(genshin_impact),多莉·桑歌玛哈巴依（原神）
 urine_drip,尿滴
 toriniku29,torinku29
 o-ring_strap,形圈带
@@ -40888,7 +40913,7 @@ here's_johnny!_(meme),约翰尼来了！（表情包）
 gabe,加布
 acting_like_a_cat,像猫一样
 chixiao,赤霄
-stepparent_and_stepchild_(lore),继父母与继子女（传说）
+stepparent_and_stepchild_(lore),继父母与继子女（乱伦）
 quiet_(metal_gear),安静（合金装备）
 tsukinaga_leo,月永レウ
 sil_blackmon,西尔·布莱克蒙
@@ -41668,7 +41693,7 @@ cuddles_(htf),拥抱 (htf)
 expectation_vs._reality,期望与……现实
 dytm,迪特姆
 fancy_rat,花式老鼠
-stepfather_(lore),继父（传说）
+stepfather_(lore),继父（乱伦）
 gochou_(kedama),がそばに（毛玉）
 cocq_taichou,公鸡太骚
 sash_(backsash),腰带（后腰带）
@@ -42746,7 +42771,7 @@ minior,小
 corrugated_galvanized_iron_sheet,波纹镀锌铁皮
 miroku_san-ju,弥六十三
 nihea_avarta,尼赫亚阿瓦尔塔
-grandmother_and_grandson_(lore),祖母和孙子（传说）
+grandmother_and_grandson_(lore),祖母和孙子（乱伦）
 eternity_(shadeh),永恒（shadeh）
 crayon_(artwork),蜡笔（艺术品）
 yuuki_kira,又有希了
@@ -45255,7 +45280,7 @@ shears,剪
 helodermatid,毒皮病
 shishikasama,坚持，稍等
 african,非洲
-nick_wilde,尼克·王尔德
+nick_wilde,尼克·王尔德 【疯狂动物城】
 tori_udon,雞鳥麵
 paintbrush_tail,画笔尾巴
 pachycephalosaurid,厚头龙科
@@ -46342,7 +46367,7 @@ sironora,西诺拉
 haibet,海贝特
 collin_(helluva_boss),collin（厉害的老板）
 hitorilily,希托利利
-chasca_(genshin_impact),查斯卡（原神）
+chasca_(genshin_impact),恰斯卡（原神）
 senmura,千村
 tomoeda_middle_school_uniform,友枝中学制服
 road_runner_(looney_tunes),公路赛跑者（《疯狂曲调》）
@@ -46604,7 +46629,7 @@ brikot,布里科特
 mistyy_dark_story_(artist),mistyy dark story（艺术家）
 diamond_facial_mark,钻石面部标记
 hone_(honehone083),霍尼 (honehone083)
-drusilla_(zenless_zone_zero),drusilla （绝区零）
+drusilla_(zenless_zone_zero),drusilla （绝区零zenless zone zero）
 dbruin,德布鲁因
 ryou_sakazaki,坂崎亮
 jacy,杰西
@@ -46904,7 +46929,7 @@ sparkx,火花
 fossa666,窝666
 nagusa_(blue_archive),nagusa（碧蓝档案）
 rina_(ratcha),rina (拉查)
-accidental_incest_(lore),意外乱伦（传说）
+accidental_incest_(lore),意外乱伦（乱伦）
 ribbon_as_bra,丝带作为胸罩
 female_fighter_(dungeon_and_fighter),女斗士 (地下城与勇士)
 puni_(miku_plus),puni (miku plus)
@@ -47547,7 +47572,7 @@ ungagged,不加盖
 thiccbuns,厚面包
 kim_pine,金派恩
 goblinhordestudios,地精部落工作室
-skirk_(genshin_impact),skirk (原神)
+skirk_(genshin_impact),丝柯克 (原神)
 clover_earrings,三叶草耳环
 yurikawa,百合川
 purunyara,普鲁尼亚拉
@@ -47969,7 +47994,7 @@ hoshino_ichika_(collar_x_malice),星野一香 (collar x malice)
 pilgor_(goat_simulator),pilgor（山羊模拟器）
 julia_brain,朱莉娅·布莱恩
 lingyi,灵意
-stepson_(lore),继子（传说）
+stepson_(lore),继子（乱伦）
 dugtrio,三只鸭子
 final_fantasy_tactics_advance,最终幻想战略版前进
 anagumasan,阿纳古玛桑
@@ -48592,7 +48617,7 @@ mikan_box,食品盒
 blacksaikou,黑赛口
 flap-necked_chameleon,垂颈变色龙
 whygenamoon,惠吉纳蒙
-anastella_(zenless_zone_zero),anastella （绝区零）
+anastella_(zenless_zone_zero),anastella （绝区零zenless zone zero）
 takagi_saya,塔卡死亡
 iesonatana,耶索纳塔纳
 karan,卡兰
@@ -50706,7 +50731,7 @@ lunalu_(granblue_fantasy),露娜露 (碧蓝幻想)
 white_thong,白色丁字裤
 2018_fifa_world_cup,2018 年国际足联世界杯
 latex_panties,乳胶内裤
-ethereal_(zenless_zone_zero),以太（绝区零）
+ethereal_(zenless_zone_zero),以太（绝区零zenless zone zero）
 kitazawa_hagumi,北泽叶海
 dlanon,德拉农
 peeing_into_cup,尿到杯子里
@@ -50740,7 +50765,7 @@ clitoris_tweak,阴蒂调整
 monkey_jon,猴子乔恩
 swinub,斯温布特
 polygamy,一夫多妻制
-emilie_(genshin_impact),艾米莉（原神）
+emilie_(genshin_impact),艾梅莉埃（原神）
 undead_unluck,亡灵厄运
 haruna_(new_year)_(blue_archive),春奈（新年）（碧蓝档案）
 kururun_(precure),kururun（光之美少女）
@@ -51353,7 +51378,7 @@ pew,座位
 bodi_(rock_dog),波迪（摇滚狗）
 get_pregnant_(meme),怀孕（表情包）
 otabek_altin,奥塔贝克阿尔廷
-anton_ivanov,安东·伊万诺夫（Anton Ivanov）绝区零
+anton_ivanov,安东·伊万诺夫（Anton Ivanov）绝区零zenless zone zero
 football_field,足球场
 mila_(president_alexander),米拉（亚历山大总统）
 aruya_(flosrota),aruya（flosrota）
@@ -52840,7 +52865,7 @@ you_miichi,尤米奇
 coercion,强迫
 angel_in_the_forest,森林里的天使
 eavesdropping,窃听
-grandmother_and_granddaughter_(lore),祖母和孙女（传说）
+grandmother_and_granddaughter_(lore),祖母和孙女（乱伦）
 ebihara_naho,海老原菜穗
 ayase-mio,绫濑美绪
 lomocya,洛莫恰
@@ -53475,7 +53500,7 @@ doormat,门垫
 gold_can,金罐
 bucklucky,巴克卢基
 chiester00,chiester00
-adoptive_brothers_(lore),义兄弟（传说）
+adoptive_brothers_(lore),义兄弟（乱伦）
 bow_on_head,鞠躬
 hong_meiling_(cosplay),红美玲 (cosplay)
 kushizaki_(vtuber),櫻崎 (vtuber)
@@ -53484,7 +53509,7 @@ special_week_(hopping_vitamin_heart)_(umamusume),特别周 (跳跃维生素心) 
 akaiha_(akaihasugk),赤羽（akaihasugk）
 crossroadspony,十字路口小马
 samzan_(modeler),samzan (模型师)
-stepfather_and_stepchild_(lore),继父与继子（传说）
+stepfather_and_stepchild_(lore),继父与继子（乱伦）
 sadistic_smile,虐待狂的微笑
 team_flare,团队火炬
 solardelton,索拉德尔顿
@@ -53776,7 +53801,7 @@ yuhi_(hssh_6),夕日 (hssh 6)
 kousaka_0v0,搅拌 0v0
 vietnam_war,越南战争
 grubbs,格拉布斯
-adoptive_sister_(lore),义妹（传说）
+adoptive_sister_(lore),义妹（乱伦）
 squirting_liquid,喷射液体
 dovahkiin,多瓦赫金
 drawpanther,画豹
@@ -55377,7 +55402,7 @@ hose_nozzle,软管喷嘴
 pop_out_cake,弹出蛋糕
 cable_hair,电缆头发
 baggy_shorts,宽松短裤
-stepparent_and_stepson_(lore),继父母与继子（传说）
+stepparent_and_stepson_(lore),继父母与继子（乱伦）
 6:13,6:13
 alice_margatroid_(cosplay),爱丽丝·玛格特洛伊德 (角色扮演)
 belle_(beauty_and_the_beast),美女与野兽
@@ -55847,7 +55872,7 @@ komimiyako,小見ひこ
 yui930,yui930
 lk_(lk00),lk (lk00)
 cryphalen,暗色兰
-multigenerational_incest_(lore),多代乱伦（传说）
+multigenerational_incest_(lore),多代乱伦（乱伦）
 blackdragon4444,黑龙4444
 shameimaru_aya_(crow),恥丸绫 (乌鸦)
 gandy_(gan3e46),甘迪 (gan3e46)
@@ -57839,7 +57864,7 @@ chocolate_on_pussy,巧克力在阴部
 void_(guilty_crown),无效（罪恶王冠）
 pienji,偏激
 tre,特雷
-forced_incest_(lore),强迫乱伦（传说）
+forced_incest_(lore),强迫乱伦（乱伦）
 yuji_(fantasia),勇者斗恶龙 (幻想曲)
 hanging_upside_down,倒挂
 mankanshoku_matarou,满舰色真太郎
@@ -60002,7 +60027,7 @@ aozora_nan,青空男
 manatsuki_manata,真月真々
 fern_(frieren),远（冻结）
 chest_on_pillow,胸部放在枕头上
-keqing_(lantern_rite)_(genshin_impact),刻清（灯祭）（原神）
+keqing_(lantern_rite)_(genshin_impact),刻晴（灯祭）（原神）
 taigerarts,泰格艺术
 luozhu_(the_legend_of_luoxiaohei),洛珠 (洛小黑传奇)
 nakatsukasa_tsubaki,椿木仲司
@@ -61756,7 +61781,7 @@ collision,碰撞
 fondling_self,爱抚自己
 penetrable_sex_toy_insertion,可插入性玩具
 surskit,苏尔斯基特
-sethos_(genshin_impact),sethos（原神）
+sethos_(genshin_impact),赛索斯（原神）
 clervie_(genshin_impact),克莱维 (原神)
 senjuushi:_the_thousand_noble_musketeers,千手司：千名贵族火枪手
 rizu033,rizu033
@@ -63598,7 +63623,7 @@ neneko_mashiro,キャン ...
 pensive,周到
 dominator_(gun),主宰者（枪）
 shaddiq_zenelli,沙迪克·泽内利
-soldier_11_(zenless_zone_zero),士兵 11 （绝区零）
+soldier_11_(zenless_zone_zero),士兵 11 （绝区零zenless zone zero）
 had_my_way,按照我的方式
 abpart,土著
 nekotewi,内科特维
@@ -63813,7 +63838,7 @@ biidama,比达玛
 munyuu,穆尤
 hanemiya_kazutora,羽見和虎
 jlullaby,摇篮曲
-ganyu_(genshin_impact)_(cosplay),ganyu (原神) (角色扮演)
+ganyu_(genshin_impact)_(cosplay),甘雨 (原神) (角色扮演)
 sperm_cell_with_face,有脸的精子细胞
 gucandiyi52092,gucandiyi52092
 splatter_print,泼墨印花
@@ -64120,7 +64145,7 @@ red_lantern_universe,红灯笼宇宙
 technology_liberation_alliance_(identity)_(project_moon),技术解放联盟（身份）（月球计划）
 fish_costume,鱼服装
 short_sleeved_shirt,短袖衬衫
-grandfather_and_granddaughter_(lore),祖父和孙女（传说）
+grandfather_and_granddaughter_(lore),祖父和孙女（乱伦）
 tongue_in_sheath,舌鞘
 haku_geroda,热热
 pkpkpppk,韓國
@@ -66399,7 +66424,7 @@ rocco_(zoohomme),rocco（动物园主人）
 breast_creature,乳房生物
 ocean_sunfish,翻车鱼
 yogi_bear_(character),瑜珈熊（角色）
-noelle_(kfc)_(genshin_impact),noelle（肯德基）（原神）
+noelle_(kfc)_(genshin_impact),诺艾尔（肯德基）（原神）
 vrkdh,弗尔克兹
 monster_(manga),怪物（漫画）
 cosplay_pikachu,角色扮演皮卡丘
@@ -66919,7 +66944,7 @@ figma,figma
 yttrium_(artist),钇（艺术家）
 ahuizotl,水猴
 otsumami_(02mami),乙巳 (02mami)
-ellen_joe_(zzz),艾莲·乔（Ellen Joe）绝区零
+ellen_joe_(zzz),艾莲·乔（Ellen Joe）绝区零zenless zone zero
 fleety_(artist),fleety（艺术家）
 naga_u-chan,peace u-chan
 bottomless_taur,无底金牛座
@@ -67023,7 +67048,7 @@ aoi_hiro,葵広
 windart,温达特
 latex_shrug_(clothing),乳胶披肩（服装）
 himamo,希马莫
-peruere_(genshin_impact),秘鲁（原神）
+peruere_(genshin_impact),佩露薇利·雪奈茨芙娜 阿蕾奇诺 仆人（原神）
 bandai_namco,万代南梦宫
 aradortd,阿拉多特
 aventador,艾文塔多
@@ -73717,7 +73742,7 @@ higemu,希格穆
 morita_yuu,森田优
 shamisen_(syami_sen),三味线（三味线）
 yone_(league_of_legends),yone（英雄联盟LOL）
-stepmother_(lore),继母（传说）
+stepmother_(lore),继母（乱伦）
 tuskryo,图斯克里奥
 rockpankake,罗克潘卡克
 breast_massage,乳房按摩
@@ -73928,7 +73953,7 @@ steban_(skailla),steban (斯凯拉)
 marcus_(rukis),马库斯（鲁基斯）
 ichigo_(mignon),ichigo（牛排）
 our_battle_has_just_begun!,我们的战斗才刚刚开始！
-stepfather_and_stepson_(lore),继父与继子（传说）
+stepfather_and_stepson_(lore),继父与继子（乱伦）
 marisu,玛丽苏
 apogee,远地点
 single_eyebrow,单眉
@@ -74525,7 +74550,7 @@ blanket_veil,毯状面纱
 nonstandard_furigana,非标准注音假名
 galarian_meowth,伽勒尔喵喵
 tooth_creature,牙齿生物
-klee_(genshin_impact)_(cosplay),克利（原神）（角色扮演）
+klee_(genshin_impact)_(cosplay),可莉（原神）（角色扮演）
 guilty_(nikke),有罪（nikke）
 kuroikiri,黑切
 kuroino_(kuroyashiro),黑乃（黑屋代）
@@ -74548,7 +74573,7 @@ cloaca_juice_on_cloaca,泄殖腔汁
 kohinata_aoi_(dokidoki_sister_aoi-chan),小日向葵 (dokidoki 妹妹葵酱)
 unown_r,未知R
 kris_(fire_emblem),克里斯（火焰纹章）
-furina_(genshin_impact)_(cosplay),furina（原神）（角色扮演）
+furina_(genshin_impact)_(cosplay),芙宁娜·德·枫丹（原神）（角色扮演）
 black_pseudo_hair,黑色假毛
 unown_n,未知 n
 grievousfan,格里弗斯范
@@ -74967,7 +74992,7 @@ stopu,停止
 matsuda_jinpei,松田甚平
 heichi,平一
 atsumisu,厚見
-securityboo_(zenless_zone_zero),securityboo（绝区零）
+securityboo_(zenless_zone_zero),securityboo（绝区零zenless zone zero）
 tomatika,托马蒂卡
 fujita_asagao,藤田朝颜 免费下载
 pokemon_pred,口袋妖怪捕食者
@@ -76287,7 +76312,7 @@ yun_ling,云玲
 fireblast,火焰冲击
 almond,杏仁
 saiko_dagashi,最後粗粒菓子
-stepdaughter_(lore),继女（传说）
+stepdaughter_(lore),继女（乱伦）
 taru_neko,狸猫
 markus_(kadath),马库斯（卡达斯）
 lotusshade,荷花荫
@@ -77654,7 +77679,7 @@ rog_minotaur,羅格牛頭怪
 gear_(mlp),齿轮 (mlp)
 whiplash_(game),鞭笞（游戏）
 white_delmo,白色德尔莫
-safety_(zenless_zone_zero),安全（绝区零）
+safety_(zenless_zone_zero),安全（绝区零zenless zone zero）
 white_genitals,白色生殖器
 muv-luv_unlimited:_the_day_after,无限爱：第二天
 akechi_shizuku,明智雫
@@ -79897,7 +79922,7 @@ kasasasagi,笠笠
 lace_pantyhose,蕾丝连裤袜
 mizushiro_celica,水白赛利卡
 wet_bikini,湿比基尼
-aloy_(horizon),阿洛伊（地平线）
+aloy_(horizon),埃洛伊（地平线）
 leather_wrist_straps,皮革腕带
 waltz_(tram),华尔兹（有轨电车）
 hulooo,呼噜
@@ -81757,7 +81782,7 @@ ken_(garouzuki),和（garouzuki）
 wraith_(madoka_magica),幽灵 (魔法少女小圆)
 dirtbike,越野车
 haru_(toyst),haru (玩具人)
-adoptive_sisters_(lore),养姐妹（传说）
+adoptive_sisters_(lore),养姐妹（乱伦）
 aozora_aoi,青空衣服
 ogami_koga,小神古贺
 kinoshita_shizuka,木下静香 免费下载
@@ -83190,7 +83215,7 @@ double-sided_polearm,双面杆臂
 hari611,哈里611
 rorisakyubasu-chan_(mochiyuki),Rorisakyubasu-chan（Mochiyuki）
 multicolored_gemstone,多色宝石
-butler_(zenless_zone_zero),管家（绝区零）
+butler_(zenless_zone_zero),管家（绝区零zenless zone zero）
 sevi_(seviyummy),sevi（seviyummy）
 mono_(badgeroo),单声道（獾）
 manno_(kanpi2100),曼诺 (kanpi2100)
@@ -83372,7 +83397,7 @@ laito,莱托
 forced_double_penetration,强迫双重渗透
 leaning_on_counter,靠在柜台上
 sthk,星空
-lan_yan_(genshin_impact),蓝燕（原神）
+lan_yan_(genshin_impact),蓝砚（原神）
 stiban_(character),斯蒂班（角色）
 pjman,潘杰曼
 armadillo,犰狳
@@ -83473,7 +83498,7 @@ gedoooo,哇
 dj_shark_(dj_sharkowski),DJ Shark (DJ Sharkowski)
 repede,重复
 lovely_x_cation,可爱 x 阳离子
-nilou_(genshin_impact)_(cosplay),Nilou（原神）（角色扮演）
+nilou_(genshin_impact)_(cosplay),妮露（原神）（角色扮演）
 yabu_q,雅布 q
 love_potion,爱情药水
 ar-57_(girls'_frontline),ar-57（女孩前线）
@@ -84839,7 +84864,7 @@ yuudachi_(shogun_of_snowballs)_(azur_lane),夕立 (雪球将军) (蓝道)
 two_tone_anus,双音肛门
 shifty_(nikke),shifty （尼克）
 ring_fit_trainee,环适合培训生
-hu_tao_(genshin_impact)_(cosplay),胡涛（原神）（Cosplay）
+hu_tao_(genshin_impact)_(cosplay),胡桃（原神）（Cosplay）
 xiayehongming,夏叶红明
 pole_between_breasts,乳房之间的杆
 demon_(monster_girl_encyclopedia),妖怪 (魔物娘百科)
@@ -84962,7 +84987,7 @@ reinhard_von_lohengramm,莱因哈特·冯·罗严克拉姆
 tagging_guidelines_illustrated,标记指南图示
 keni_kun_sama,你也一样
 under_bed,在床底下
-mindscape_cinema_(zenless_zone_zero),mindscape 影院（绝区零）
+mindscape_cinema_(zenless_zone_zero),mindscape 影院（绝区零zenless zone zero）
 kuuus,酷
 larten_crepsley,拉腾·克雷普斯利
 hizashi_no_naka_no_real,太阳之下的真实
@@ -86283,7 +86308,7 @@ zhephyreart,哲菲雷尔特
 shometsu-kei_no_teruru,照耀的光芒
 rounin_(amuza),rounin（amuza）
 sandara,桑德拉
-astra_yao_(chandelier),耀嘉音（Astra Yao）(枝形吊灯)绝区零
+astra_yao_(chandelier),耀嘉音（Astra Yao）(枝形吊灯)绝区零zenless zone zero
 10_cosmo_24,10 科斯莫24
 matsuu_(akiomoi),松（秋恋）
 snailbail22,蜗牛保释22
@@ -87953,7 +87978,7 @@ maru_takeo,丸武雄
 rodoreamon_(simoun),罗德里亚兽（西蒙）
 iwasaki_masakazu,岩崎正和
 purple_tattoo,紫色纹身
-asaboo_(zenless_zone_zero),asaboo （绝区零）
+asaboo_(zenless_zone_zero),asaboo （绝区零zenless zone zero）
 zhanzheng_zi,战争子
 zhao_linger,赵灵儿
 light_bulb_hair_ornament,灯泡发饰
@@ -88035,7 +88060,7 @@ sora_shitatoge,空がそばに
 exosister_irene,艾琳
 matsu_(sekirei),松（鶴靈）
 nihil_(guchiyama),无（口山）
-faruzan_(genshin_cafe_in_seoul)_(genshin_impact),faruzan（首尔的 genshin cafe）（genshin impact）
+faruzan_(genshin_cafe_in_seoul)_(genshin_impact),珐露珊（首尔的 genshin cafe）（genshin impact）
 blackchaos666,blackchaos666
 deathhawk,死亡鹰
 heroine_(amnesia),女主角（失忆症）
@@ -90538,7 +90563,7 @@ maid.,女佣。
 bouno_satoshi,博诺聪
 minatsu_(boredomtool),minatsu（无聊工具）
 haeno_akari,羽野明里
-miyaboo_(zenless_zone_zero),miyaboo （绝区零）
+miyaboo_(zenless_zone_zero),miyaboo （绝区零zenless zone zero）
 melusine_(swimsuit_ruler)_(second_ascension)_(fate),梅露西娜 (泳装统治者) (第二次再临) (命运)
 translucent_leotard,半透明紧身衣
 ray_(takemoto_arashi),ray (竹本岚)
@@ -95528,7 +95553,7 @@ friden_(hentai_elf_to_majime_orc),朋友（无尽精灵到马吉梅兽人）
 haigure_pose,垂悬式
 english_bulldog,英国斗牛犬
 buck_(brushfire),降雪（山林大火）
-ancestor_and_descendant_(lore),祖先和后代（传说）
+ancestor_and_descendant_(lore),祖先和后代（乱伦）
 repunit,重复
 crys,哭泣
 bongo_cat,邦哥猫
@@ -96081,7 +96106,7 @@ breikka,布雷卡
 kukuru_(dq8),布谷鸟（dq8）
 plucking_petals,摘花瓣
 bassa,巴萨
-stepparent_and_stepdaughter_(lore),继父母与继女（传说）
+stepparent_and_stepdaughter_(lore),继父母与继女（乱伦）
 vellark,韦拉克
 kryptonian,氪星人
 nanakusa_yomogi,七草ネネ
@@ -101870,7 +101895,7 @@ master_buns,包子大师
 rosiesquish,玫瑰花
 concentric_circles,同心圆
 leak,泄露
-stepmother_and_stepchild_(lore),继母与继子（传说）
+stepmother_and_stepchild_(lore),继母与继子（乱伦）
 stompsyeen,跺脚
 comic_cune,漫画楔子
 sernia_iori_flameheart,sernia iori flameheart
@@ -114863,7 +114888,7 @@ cid_nan_garlond,西德·南·加隆德
 tasituma2,塔西图马2
 jinsei,真紀
 lilypawpads,百合花
-soukaboo_(zenless_zone_zero),soukaboo（绝区零）
+soukaboo_(zenless_zone_zero),soukaboo（绝区零zenless zone zero）
 percival_(texnatsu),珀西瓦尔 (texnatsu)
 yonabe,与锅
 euden,欧登
@@ -115851,7 +115876,7 @@ red_towel,红毛巾
 maccy_(character),麦西（角色）
 alva_(rkitsune),alva（狐狸）
 satsumaimo_pai,萨摩梅派
-pseudo_incestuous_voyeur_(lore),伪乱伦偷窥狂（传说）
+pseudo_incestuous_voyeur_(lore),伪乱伦偷窥狂（乱伦）
 verynezumi,非常奈祖米
 doridori,多里多里
 foot_domination,足部支配
@@ -117144,7 +117169,7 @@ snowsnow11,雪雪11
 wing-shaped_bow,翼形弓
 home_on_the_range,家在山脉
 milkuriem,米尔库里姆
-stepfather_and_stepdaughter_(lore),继父与继女（传说）
+stepfather_and_stepdaughter_(lore),继父与继女（乱伦）
 engraving,雕刻
 winemvee,温尼夫
 k_hyeonee,韓國
@@ -119391,7 +119416,7 @@ maroppe,马罗佩
 tomare_(akashingou),tomare（赤心に）
 wendy_crawford,温迪·克劳福德
 area_(artist),区域（艺术家）
-shenhe_(genshin_impact)_(cosplay),神河 (原神) (Cosplay)
+shenhe_(genshin_impact)_(cosplay),申鹤 (原神) (Cosplay)
 ravashi_(dynnie),拉瓦希（Dynnie）
 defibrillator,除颤器
 ravensflock,乌鸦群
@@ -121633,7 +121658,7 @@ konome_noi,コノウエ
 pomepome1207,波梅波梅1207
 anna_mel,安娜梅尔
 gohan_oni,御饭鬼
-polygenerational_incest_(lore),多代乱伦（传说）
+polygenerational_incest_(lore),多代乱伦（乱伦）
 ibuki_nagisa,伊吹渚
 regina_(huffslove),里贾纳（huffslove）
 yan_(nikke),yan (日克)
@@ -125910,7 +125935,7 @@ black_fin,黑鳍
 snes_console,任天堂游戏机
 allen_(allenr),全部（全部）
 artariem,阿塔里姆
-ellen_joe_(cosplay),艾莲·乔（Ellen Joe）（角色扮演）<绝区零>
+ellen_joe_(cosplay),艾莲·乔（Ellen Joe）（角色扮演）<绝区零zenless zone zero>
 disappearance_outline,失踪概要
 black_egrets,黑鹭
 mizuno_makoto_(green),水野真琴（绿色）
@@ -126888,7 +126913,7 @@ uguisu_anko,仅限 uguisu
 linhe_(mklancer00),线 (mklancer00)
 suashi,苏阿西
 de2w,德2w
-judy_hopps_(cosplay),朱迪·霍普斯（角色扮演）
+judy_hopps_(cosplay),朱迪·霍普斯（角色扮演）【疯狂动物城】
 jlien-,jlien-
 cyclostomata,圆口目
 bella_(terraapple),贝拉（水龟）
@@ -128174,7 +128199,7 @@ noodle-lu,面魯
 pydiyudie,皮迪尤迪耶
 anocurry,咖喱
 leone_(kamina0205),利昂 (kamina0205)
-big_daddy_(zenless_zone_zero),大爸爸（绝区零）
+big_daddy_(zenless_zone_zero),大爸爸（绝区零zenless zone zero）
 frisbee_in_mouth,嘴里含着飞盘
 taoer.,桃儿。
 poifuru,波伊福鲁
@@ -128762,7 +128787,7 @@ shark64bitz,shark64bitz
 gold_watch,金表
 jichou_senshi,吉州战士
 kalianne,卡利安
-bangboo_6_(zenless_zone_zero),Bangboo 6（绝区零）
+bangboo_6_(zenless_zone_zero),Bangboo 6（绝区零zenless zone zero）
 temu_(tem27),特木 (tem27)
 kazami_ryouya,你是个凉屋
 nanaba,七叶
@@ -129082,7 +129107,7 @@ soren_(radiant_confidant)_(fire_emblem),索伦（光芒四射的知己）（火�
 gold_heels,金色高跟鞋
 sora-bozu,空坊主
 axel_(poke789),阿克塞尔 (poke789)
-stepmother_and_stepson_(lore),继母与继子（传说）
+stepmother_and_stepson_(lore),继母与继子（乱伦）
 atsuko_(sheela),atsuko (sheela)
 tarsier,眼镜猴
 dream_c_club_zero,梦想c俱乐部零
@@ -132885,7 +132910,7 @@ kudamono25253,kudamono25253
 keny,肯尼
 rinkaito1231,rinkaito1231
 aqua_centolm,安库拉
-keqing_(genshin_impact)_(cosplay),刻清 (原神) (Cosplay)
+keqing_(genshin_impact)_(cosplay),刻晴 (原神) (Cosplay)
 charlotta_skopovskaya,夏洛塔·斯科波夫斯卡娅
 booty_ass_meme,屁股 meme
 hasumi_rain,莲见雨
@@ -141703,7 +141728,7 @@ rokka_(rokka937),给予 (give937)
 fany_(foxdee),fany (foxdee)
 bounen_no_xam'd,不被认可
 nekuraneko,猫
-furina_(old_design)_(genshin_impact),芙莉娜（旧设计）（原神）
+furina_(old_design)_(genshin_impact),芙宁娜·德·枫丹（旧设计）（原神）
 sailor_bomber,水手轰炸机
 catherine_o'daisies,凯瑟琳·欧黛西斯
 nanami_(void_dew),nanami（虚空露珠）
@@ -142228,7 +142253,7 @@ shiny_skunk_(character),闪亮臭鼬（角色）
 pd_(artist),pd（艺术家）
 jesse_(josycid),杰西（josycid）
 okemai,喔喔
-nick_wilde_(cosplay),尼克·王尔德（Cosplay）
+nick_wilde_(cosplay),尼克·王尔德（Cosplay）【疯狂动物城】
 therrigon,瑟里根
 asha_(monster_world),艾莎（怪物世界）
 norisukexxy,诺里苏克西
@@ -142371,7 +142396,7 @@ shikidouji,式童子
 the_king_of_fighters_2003,拳皇 2003
 aviator_glasses,飞行员眼镜
 ultra_sword,超剑
-kamisato_ayaka_(cosplay),上里绫香 (cosplay)
+kamisato_ayaka_(cosplay),神里绫华 (cosplay)
 kamisama_minarai:_himitsu_no_cocotama,kamisama minarai：根和椰子
 catxuan,卡特宣
 shiki_fanart,志贵同人画
@@ -144843,7 +144868,7 @@ keith_(pennyftzgerald),基思（彭尼夫茨杰拉德饰）
 confetti_ball,五彩纸屑球
 slightlyarousedguy,略微兴奋的人
 makoto_osamu,真琴治
-ruby_(zenless_zone_zero),ruby（绝区零）
+ruby_(zenless_zone_zero),ruby（绝区零zenless zone zero）
 shirogane_sumire_(pallad),白银堇 (帕拉德)
 classical_unicorn,经典独角兽
 readyyy!,准备好了！
@@ -145158,7 +145183,7 @@ skeletonhearts,骷髅之心
 mirvanna,米尔瓦娜
 purplevulpes,紫狐
 macchiato_fox,玛奇朵狐狸
-yelan_(genshin_impact)_(cosplay),叶岚（原神）（角色扮演）
+yelan_(genshin_impact)_(cosplay),夜兰（原神）（角色扮演）
 chotto,乔托
 iro_(duul),iro（双重）
 rain_(regen),雨（再生）
@@ -147203,7 +147228,7 @@ laura_stuart,劳拉·斯图尔特
 hasewo,哈瑟沃
 hakata_no_shio,博多之潮
 protect_gear,保护装备
-coco_(zenless_zone_zero),椰子（绝区零）
+coco_(zenless_zone_zero),椰子（绝区零zenless zone zero）
 grey_alien,灰色外星人
 kaos,卡奥斯
 tasmin_(natani),tasmin（娜塔妮）
@@ -149109,7 +149134,7 @@ leaking_juice,漏汁
 tartaros_online,鞑靼在线
 yukidrimurr,尤基德里穆尔
 shimeta_hiromitsu,志茂宏光
-nahida_(genshin_impact)_(cosplay),Nahida（原神）（角色扮演）
+nahida_(genshin_impact)_(cosplay),纳西妲 草神（原神）（角色扮演）
 kuromori_suzu,黑森铃
 hatsune_miku_(colorful_drop),初音未来 (彩色水滴)
 marine_(confeitokobo),海洋（confeitokobo）
@@ -154991,7 +155016,7 @@ shito_miu_(40hara),shito miu (40hara)
 lewdydoo,淫荡
 chzzei,奇兹
 jacob_the_mistake-ob,雅各布的错误-ob
-na'vi,纳威人
+na'vi,纳美人 阿凡达 
 colt_bronco,柯尔特野马
 yokige,キネキ
 core1013,核心1013
@@ -156898,7 +156923,7 @@ clawiope,爪爪
 macroich_(housamo),macroich（我们）
 puribate_(helgoland),普里巴特 (黑尔戈兰岛)
 purplevortex,紫色漩涡
-qiqi_(genshin_impact)_(cosplay),qiqi (原神) (角色扮演)
+qiqi_(genshin_impact)_(cosplay),七七 (原神) (角色扮演)
 clover_days,三叶草日
 heart_eyewear,心形眼镜
 punctured_condom,安全套破损
@@ -160962,7 +160987,7 @@ yano_(404878),这里 (404878)
 oh_no,哦不
 swirlie,旋涡状
 ryu-tan,龍潭
-bangboo_18_(zenless_zone_zero),bangboo 18（绝区零）
+bangboo_18_(zenless_zone_zero),bangboo 18（绝区零zenless zone zero）
 chenalii,切纳利
 mii_(makosuke),mii（真子介）
 twomario_(artist),twomario（艺术家）
@@ -162143,7 +162168,7 @@ echi_kanichi,它是什么？
 anaguma_keigo,穴熊敬吾
 lzd,洛兹达
 mario_golf:_super_rush,马里奥高尔夫：超级冲刺
-eula_(genshin_impact)_(cosplay),eula（原神）（角色扮演）
+eula_(genshin_impact)_(cosplay),优菈·劳伦斯（原神）（角色扮演）
 njaja_kanja,它是什么？
 dobie,多比
 geboku,下木
@@ -162353,7 +162378,7 @@ watari_yuu_(haskey),渡悠 (haskey)
 melady_(fire_emblem),旋律 (火焰之纹章)
 redelder,雷德尔德
 mint_(cerbi),薄荷（cerbi）
-fischl_(genshin_impact)_(cosplay),fischl（原神）（角色扮演）
+fischl_(genshin_impact)_(cosplay),菲谢尔·冯·露弗施洛斯（原神）（角色扮演）
 sakuragi_miria,樱木米莉亚
 tifg39,tifg39
 kahnso_(ceeb),kahnso (ceeb)
@@ -162560,7 +162585,7 @@ tanny_v,tanny v
 dale_(disney),戴尔（迪士尼）
 interlocked_toes,脚趾交叉
 aurora_lites,极光灯
-luckyboo_(zenless_zone_zero),luckyboo（绝区零）
+luckyboo_(zenless_zone_zero),luckyboo（绝区零zenless zone zero）
 iws_2000_(the_seventh_sealer)_(girls'_frontline),iws2000（第七次封印者）（少女前线）
 lian_mang,连忙
 cobalt_(rtzero),钴 (rtzero)
@@ -164335,7 +164360,7 @@ omochichi96,omochichi96
 flaviomodezto,弗拉维奥莫德斯托
 itou_chitose,伊藤千岁
 l.n,在
-nicole_demara_(cunning_cutie),妮可·德玛拉（Nicole Demara）（狡猾的可爱）绝区零
+nicole_demara_(cunning_cutie),妮可·德玛拉（Nicole Demara）（狡猾的可爱）绝区零zenless zone zero
 mikoccccchan,mikoccccchan
 s_(tenshi_no_kiss),s（天使之吻）
 american_flag_swimsuit,美国国旗泳衣
@@ -167549,7 +167574,7 @@ royal_fortune_(eyes_on_the_prize)_(azur_lane),皇家财富 (Eyes On The Prize)�
 houndgrey,猎犬灰
 mango_tango,芒果探戈
 natedecock,纳特科克
-sunbringer_(zenless_zone_zero),太阳使者（绝区零）
+sunbringer_(zenless_zone_zero),太阳使者（绝区零zenless zone zero）
 sniff_(moomin),嗅嗅（姆明）
 bak_yuri,返回 yuri
 mstdndkkkkk,嗎？
@@ -170427,7 +170452,7 @@ catnip_(pachi_rizuu),猫薄荷（pachi rizuu）
 pajamas_only,只穿睡衣
 william.b,威廉·b
 sarah_(fish_birb),sarah（鱼鸟）
-hollow_(zenless_zone_zero),空心（绝区零）
+hollow_(zenless_zone_zero),空心（绝区零zenless zone zero）
 belarusian_flag,白俄罗斯国旗
 necklace_between_pecs,胸肌之间的项链
 stallion_(character),种马（角色）
@@ -170539,7 +170564,7 @@ flehmen_response,裂唇嗅反应
 mavrickzoo,马弗里克动物园
 cavalry_sword,骑兵剑
 caligula_2,卡利古拉 2
-lisa_(genshin_impact)_(cosplay),lisa（原神）（角色扮演）
+lisa_(genshin_impact)_(cosplay),丽莎·敏兹（原神）（角色扮演）
 multicolored_bow_tie,多彩 彩色 多色领结
 agaver123,龙舌兰123
 gokyou_akira,五間晃
@@ -171960,7 +171985,7 @@ magazine_pouch,弹匣袋
 amano_misaki,天野美咲
 corrin_(female)_(ninja)_(fire_emblem),corrin （女） （忍者） （火焰纹章）
 redx331,redx331
-kaveh_(gigo)_(genshin_impact),kaveh（gigo）（原神）
+kaveh_(gigo)_(genshin_impact),卡维（gigo）（原神）
 chikku_(k2753),奇库 (k2753)
 2_thumbs,2个竖起大拇指
 henri_pascal_(sobakistan),亨利·帕斯卡（索巴基斯坦）
@@ -172053,7 +172078,7 @@ rockin_candies,摇滚糖果
 ooe_kanade,大江奏
 mori_calliope_(new_underworld_order),莫里·卡利俄佩（新冥界秩序）
 iwase_kyouko,岩濑杏子
-yoimiya_(genshin_impact)_(cosplay),yoimiya（原神）（角色扮演）
+yoimiya_(genshin_impact)_(cosplay),长野原宵宫（原神）（角色扮演）
 nicogoly,尼科戈利
 tomoki_nakamoto,中本友树
 cobra_mcjingleballs,眼镜蛇麦克金格尔球
@@ -178951,7 +178976,7 @@ heffy038,heffy038
 necrozma_(dusk_mane),坏死（黑眼圈）
 atokniiro,原子
 kawaii_joushi_o_komarasetai,kawaii joushi 你不舒服
-red_moccus_(zenless_zone_zero),红色 moccus （绝区零）
+red_moccus_(zenless_zone_zero),红色 moccus （绝区零zenless zone zero）
 blossom_(solarbear954),开花 (solarbear954)
 vambre,旺布尔
 kanogi,独木舟
@@ -179432,7 +179457,7 @@ purple_hound_lady_(hazbin_hotel),紫猎犬女士（哈兹宾酒店）
 volcha,火山
 hexuru,赫克苏鲁
 huxiaomai,虎小麦
-venti_(genshin_impact)_(cosplay),venti（原神）（角色扮演）
+venti_(genshin_impact)_(cosplay),巴巴托斯 温迪（原神）（角色扮演）
 umeokakatamago,梅子蛋
 mari_lwyd,玛丽·卢伊德
 isagi,伊佐木
@@ -179472,7 +179497,7 @@ tamaon_2525,塔马翁 2525
 tonshi,同氏
 yonagi_white,永奈白
 ningen_plamo,没人快乐
-lynette_(genshin_impact)_(cosplay),lynette（原神）（角色扮演）
+lynette_(genshin_impact)_(cosplay),琳妮特·雪奈茨芙娜（原神）（角色扮演）
 andromorph/herm,雌雄同体
 foot_on_furniture,家具上的脚
 yaro_yk,亚罗伊克
@@ -180341,7 +180366,7 @@ fuega_(velociripper),迅猛龙 (fuega)
 wamosukeda,和茂助田
 naidong,乃冬
 blue_little_pig_(sinoalice),蓝色小猪 (中国爱丽丝)
-asaba_harumasa_(cat),浅羽悠真（Asaba Harumasa） (猫)绝区零
+asaba_harumasa_(cat),浅羽悠真（Asaba Harumasa） (猫)绝区零zenless zone zero
 asmodeusdeus,恶魔城
 gudadan,古达旦
 qian_renxue_zhuye,仟仟雪竹叶
@@ -183045,7 +183070,7 @@ hanyuu_shion,羽生ゆり
 akizuki_buranko,他叫醒了 buranko
 werew0lfyiff,狼人0lfyiff
 gyou_chin,行进
-bagboo_(zenless_zone_zero),bagboo （绝区零）
+bagboo_(zenless_zone_zero),bagboo （绝区零zenless zone zero）
 gio_(electroporn),gio（电子色情）
 suzuki-san,铃木先生
 stratoz,斯特拉托兹
@@ -189613,7 +189638,7 @@ basil_(wgh0anzdple3asf),罗勒 (wgh0anzdple3asf)
 warayanuko,瓦拉亚努科
 exploration_ship_(eve_online),探索船 (eve online)
 gut_punch,肠击
-ethereal_(zzz),空灵 (zzz)绝区零
+ethereal_(zzz),空灵 (zzz)绝区零zenless zone zero
 felyne_(cosplay),felyne（角色扮演）
 carrying_clothes,携带衣服
 kagesan,影山
@@ -190406,7 +190431,7 @@ nictitating_membranes,瞬膜
 hunter_rank_e,猎人等级E
 azuremo,天青
 syrene_(kyuri_tizu),塞琳 (Kyuri Tizu)
-mishka_(zenless_zone_zero),米什卡（绝区零）
+mishka_(zenless_zone_zero),米什卡（绝区零zenless zone zero）
 gueuzav,格扎夫
 takana_shinno_(character),高奈真乃 (角色)
 cookieglory,饼干荣耀
@@ -190501,7 +190526,7 @@ riki_(kunio-kun),是 (kunio-kun)
 hayami_aki,速水在这里
 rikamello,里卡梅洛
 mayoiga,玛约伊加
-pompey_(zenless_zone_zero),庞贝（绝区零）
+pompey_(zenless_zone_zero),庞贝（绝区零zenless zone zero）
 arciela_v_adoulin,克莱诉阿杜林
 conception:_ore_no_kodomo_wo_undekure!,概念：我们将无法看到undekure！
 nie_xiaoqian_(sangai_senki),聂小倩（我的朋友）
@@ -193656,7 +193681,7 @@ daniel_(project_moon),丹尼尔（月球计划）
 postal_dude,邮递员
 nijiura,黄浦
 foxtrotarts,福克斯特罗塔茨
-monna_(zenless_zone_zero),monna （绝区零）
+monna_(zenless_zone_zero),monna （绝区零zenless zone zero）
 momono_megumi,桃惠
 brightheart_(warriors),光明之心 (战士)
 blackbird_(artist),黑鸟（艺术家）
@@ -194948,7 +194973,7 @@ tsukimi_(kyata_ti666),月見 (kyata ti666)
 ada_oz,艾达湖
 stringer,纵梁
 yaegashi_isa,八重樫伊沙
-keqing_(oneplus)_(genshin_impact),刻清 (一加) (原神)
+keqing_(oneplus)_(genshin_impact),刻晴 (一加) (原神)
 sajima_yumi,佐岛由美
 kittycatz,基蒂卡兹
 cryptidbits,秘密比特
@@ -196092,7 +196117,7 @@ wolfeddown,狼吞虎咽
 raeenay,雷奈
 kameno_makura,龟野枕
 h_raj_(pixiv_93311327),raj (pixiv 93311327)
-mualani_(hot_springs)_(genshin_impact),穆阿拉尼（温泉）（《原神》）
+mualani_(hot_springs)_(genshin_impact),玛拉妮（温泉）（《原神》）
 sally_mcboing_(joaoppereiraus),Sally McBoing（Joaoppereiraus）
 thalya_(jyan),thalya（jyan）
 petrie,皮特里
@@ -197412,7 +197437,7 @@ bone_hair_accessory,骨质发饰
 acealari,艾西拉里
 otto_(cracky),奥托（cracky）
 fully,充分
-amber_(genshin_impact)_(cosplay),Amber（原神）（角色扮演）
+amber_(genshin_impact)_(cosplay),安柏（原神）（角色扮演）
 the_very_hungry_caterpillar,好饿的毛毛虫
 vernon_(viper-desires),弗农（毒蛇的欲望）
 ariesartist,白羊座艺术家
@@ -197541,7 +197566,7 @@ asatana,艾萨塔那
 elli_(bokujou_monogatari),艾莉（牧场物语）
 raytraced,光线追踪
 zigrock,齐格罗克
-jade_(loreking),玉（传说）
+jade_(loreking),玉（乱伦）
 eimi_(dai_no_daibouken),英実（大の大冒险）
 mehmed_ii_(fate),穆罕默德二世 (命运)
 tedry_(fox_and_dragon),泰迪熊（狐狸与龙）
@@ -198386,7 +198411,7 @@ rekixia,雷基西亚
 macchiato_(231er34),玛奇朵（231st34）
 wai,围
 kurotaro,黑太郎
-miyabi_(zenless_zone_zero),盗贼 （绝区零）
+miyabi_(zenless_zone_zero),盗贼 （绝区零zenless zone zero）
 itou_ebiko,树林里
 loose_fur,松散的毛皮
 darksider_(star_wars),暗黑血统（星球大战）
@@ -198824,7 +198849,7 @@ guodon,国栋
 ryuta,龍太
 guozi_li,李果子
 licca-chan_(franchise),licca-chan（特许经营）
-lynn_(zenless_zone_zero),lynn （绝区零）
+lynn_(zenless_zone_zero),lynn （绝区零zenless zone zero）
 aoi_(transfer_student)_(princess_connect!),葵 (转校生) (公主连结！)
 interest,兴趣
 crescent_(retrofit)_(azur_lane),新月街 (改造) (蓝道)
@@ -199991,7 +200016,7 @@ saku_(ladyfubuki),saku（女吹雪）
 carlos_jpg,卡洛斯 jpg
 metal_barrel,金属桶
 harumiya_hiro,晴宫宏
-kamisato_ayaka_(springbloom_missive)_(cosplay),上里绫香 (春花信函) (cosplay)
+kamisato_ayaka_(springbloom_missive)_(cosplay),神里绫华 (春花信函) (cosplay)
 stranger_mukou_hadan,陌生人 mukou hadan
 exedrus,埃克塞德鲁斯
 mineva,米内瓦
@@ -201073,7 +201098,7 @@ takashiro_chidori,千鸟高城
 festive_clothing,节日服装
 awkwardlytrashy,尴尬又垃圾
 syaraku,我的朋友
-judy_hopps_allegation_challenge,朱迪·霍普斯指控挑战
+judy_hopps_allegation_challenge,朱迪·霍普斯指控挑战【疯狂动物城】
 chef_cheiro_(artist),chef cheiro（艺术家）
 slothm22,树懒22
 somecrazybastard,某个疯狂的混蛋
@@ -202147,7 +202172,7 @@ ichibanboshi_no_rei,一番星不是王
 latias_(m05),拉蒂亚斯 (m05)
 enlightenment_(keimontinus),启蒙（keimontinus）
 timothy_squirrel-woolfe,蒂莫西·斯奎雷尔·伍尔夫
-miyabi's_mother_(zenless_zone_zero),Miyabi 的母亲 （绝区零）
+miyabi's_mother_(zenless_zone_zero),Miyabi 的母亲 （绝区零zenless zone zero）
 henry_(mrrottson),亨利（mrrottson）
 yuri_(xdyuxd),yuri (xdyuxd)
 free_note017,免费note017
@@ -203714,7 +203739,7 @@ tanada-bon,梯田本
 felicia_cat_(character),费利西亚猫（角色）
 chickenman,鸡人
 fukushima_masaru,福岛胜
-ningguang_(genshin_impact)_(cosplay),ningguang (原神) (角色扮演)
+ningguang_(genshin_impact)_(cosplay),凝光 (原神) (角色扮演)
 rena_geminis,雷娜·吉米尼
 full_balls,满球
 tales_of_innocence_r,纯真故事
@@ -206408,7 +206433,7 @@ derpsickle,德普西克尔
 yagen_sasami,賀言佐佐木
 agata120,阿加塔120
 yagen_toushirou_(kiwame),賭白汤（kiwame）
-jean_(genshin_impact)_(cosplay),jean（原神）（角色扮演）
+jean_(genshin_impact)_(cosplay),琴·古恩希尔德（原神）（角色扮演）
 nelis_malianis,尼利斯·马利亚尼斯
 tiamat_(buxombalrog),提亚马特 (buxombalrog)
 saikyou_densetsu_kurosawa,最强传说黑泽明
@@ -206911,7 +206936,7 @@ pibou,管道
 nekonin,被称为
 strawberrylove2525,草莓爱2525
 hitsuji-kun_(tsukareta-inu_no_anime),羊君（动画中的糖犬）
-tsukishiro_yanagi_(cat),月城柳（Tsukishiro Yanagi） (猫)绝区零
+tsukishiro_yanagi_(cat),月城柳（Tsukishiro Yanagi） (猫)绝区零zenless zone zero
 mingway,离开
 pichu_little,皮丘小
 emu_shido,一石多
@@ -211845,7 +211870,7 @@ orimoto_asami,orimoto 制作
 audlin,奥德林
 elfane,艾尔法内
 brainsucks,脑残
-fischl_(genshin_cafe_in_seoul)_(genshin_impact),Fischl（首尔的原神咖啡厅）（原神）
+fischl_(genshin_cafe_in_seoul)_(genshin_impact),菲谢尔·冯·露弗施洛斯（首尔的原神咖啡厅）（原神）
 yuuhi_mika,夕日云母
 bralette,胸罩
 acea_n,亚科
@@ -213402,7 +213427,7 @@ laser_cats_(meme),激光猫（模因）
 neomi_(golderoug),neomi（golderoug）
 fujimiya_sakura,藤宮櫻
 crew_cut_socks,平头袜
-lyney_(genshin_impact)_(cosplay),Lyney（原神）（角色扮演）
+lyney_(genshin_impact)_(cosplay),林尼·雪奈茨维奇（原神）（角色扮演）
 hiro_(srso4_),英雄 (srso4)
 kachoo,卡丘
 allegra_(mario_plus_rabbids),阿莱格拉 (马里奥和疯狂兔子)
@@ -220324,7 +220349,7 @@ hijinrui_gakuen,绯神类学园
 disembodied_genitalia,无实体的生殖器
 sale_(jojo),出售 (jojo)
 koru_(braixenchu),koru（braixenchu）
-nilou_(gigo)_(genshin_impact),nilou（gigo）（原神）
+nilou_(gigo)_(genshin_impact),妮露（gigo）（原神）
 calvin_the_buck,公鹿卡尔文
 car_seat_headrest,汽车座椅头枕
 nicuoi,没人
@@ -221878,7 +221903,7 @@ nogi_(sakanashikatabenai),乃木（がそばになら）
 dimitri_alexandre_blaiddyd_(king_of_faerghus),迪米特里·亚历山大·布莱迪德（法尔古斯国王）
 yamada_shiguma,山田志熊
 dimitri_lousteau,迪米特里·卢斯托
-noelle_(genshin_impact)_(cosplay),noelle（原神）（角色扮演）
+noelle_(genshin_impact)_(cosplay),诺艾尔（原神）（角色扮演）
 rtf_11th,rtf 第 11 版
 roxie_raptor,洛克西猛禽
 futaba_rentarou,双叶莲太郎
@@ -222959,7 +222984,7 @@ musachan,穆萨查恩
 squish_vaporeon,压扁蒸汽
 ha_(huton_in_mach),ha (马赫中的 huton)
 tyelle_(character),tyelle（角色）
-hoshimi_miyabi_(cat),星见雅（Hoshimi Miyabi）(猫)绝区零
+hoshimi_miyabi_(cat),星见雅（Hoshimi Miyabi）(猫)绝区零zenless zone zero
 sr_panda_86,熊猫86
 srasa,萨拉萨
 srnava015,srnava015
@@ -223347,7 +223372,7 @@ elvira_(epic_seven),艾尔维拉（第七史诗）
 mmm_ma_pmpm,嗯嗯嗯嗯
 mitgard-knight,米特加德－奈特
 mmhy_hk,韓國
-thoma_(gigo)_(genshin_impact),thoma（gigo）（原神）
+thoma_(gigo)_(genshin_impact),托马（gigo）（原神）
 thomas_(suikoden),托马斯 (幻想水浒传)
 alexis_(jwinks),亚历克西斯 (jwinks)
 arbiter,仲裁者
@@ -225187,7 +225212,7 @@ marlene_(peable),玛琳 (皮布尔)
 bizure,斜
 nadainishi,滩西
 angel_(snoot_game),天使（鼻涕游戏）
-fairy_(zenless_zone_zero),仙女 （绝区零）
+fairy_(zenless_zone_zero),仙女 （绝区零zenless zone zero）
 souzan_kurasuke,慢慢地
 umi_zenbiraki,前剛
 maro_no_kanja_wa_gatenkei_2,魔羅之戰士勢は門気に2 免费下载
@@ -227294,7 +227319,7 @@ akeroh,阿凯罗
 stellaofastra,斯特拉奥法斯特拉
 beast_master_(disgaea),兽王 (魔界战记)
 kajanda,卡詹达
-stepbrothers_(lore),继兄弟（传说）
+stepbrothers_(lore),继兄弟（乱伦）
 kaizosn,改造
 white_hotpants,白色热裤
 bearimore,比尔莫尔
@@ -228329,7 +228354,7 @@ tsuroe,駐江
 apocalypse_ravi_(epic_seven),启示录分支（第七史诗）
 tozakuro_s,藤樱花
 tozias_silverfang,托齐亚斯·银牙
-von_lycaon_(cosplay),冯·莱卡恩（Von Lycaon）绝区零 (cosplay)
+von_lycaon_(cosplay),冯·莱卡恩（Von Lycaon）绝区零zenless zone zero (cosplay)
 gummigo,橡胶树胶
 api_peko,阿皮佩科
 tractorbelarus228,tractorbelarus228
@@ -229009,7 +229034,7 @@ grunty,咕噜咕噜
 tombo_(majo_no_takkyuubin)_(cosplay),tomb（少校宅急便）（角色扮演）
 tomida_tomomi,富田朋美
 ishikoro,石さん
-tomiya_(zenless_zone_zero),富弥（绝区零）
+tomiya_(zenless_zone_zero),富弥（绝区零zenless zone zero）
 ardal,阿达尔
 gs_pno,格斯普诺
 tomoe_gozen_(first_valentine)_(fate),巴御前 (First Valentine)（命运）
@@ -230980,7 +231005,7 @@ hatane_rona,我们很生气
 yang_guifei_(event_portrait)_(fate),杨贵妃（事件肖像）（命运）
 kumaru_ayaka,熊丸绫香
 ribbon_in_braid,丝带编织
-yanfei_(genshin_impact)_(cosplay),燕飞（原神）（Cosplay）
+yanfei_(genshin_impact)_(cosplay),烟绯（原神）（Cosplay）
 cheese_(modeseven),奶酪 (modeseven)
 funbuns,趣味包子
 adventures_with_anxiety,焦虑的冒险
